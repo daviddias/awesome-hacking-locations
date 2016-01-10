@@ -7,7 +7,7 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
 
 ---------------------------------------------------------------
 
-# France
+# France 🇫🇷
 
 ## Paris
 
@@ -21,9 +21,19 @@ Wifi | Power | Map                             | Address
 :--: | :---: | :-----------------------------: | :---------------------------------------:
 ✔    | ✘     | https://goo.gl/maps/RRm5Qdx2k3u | 53 Avenue Trudaine, 75009 Paris
 
+
+#### Le Progrès
+
+Webpage: http://www.tripadvisor.com/Restaurant_Review-g187147-d1171207-Reviews-Le_Progres-Paris_Ile_de_France.html
+
+Wifi | Power | Map                              | Address
+:--: | :---: | :-----------------------------:  | :---------------------------------------:
+✔    | ✘     | https://goo.gl/maps/EPuXWaLcKa22 | 7 Rue des Trois Frères, 75018 Paris, France
+
+
 ---------------------------------------------------------------
 
-# Portugal
+# Portugal 🇵🇹
 
 ## Lisbon
 
