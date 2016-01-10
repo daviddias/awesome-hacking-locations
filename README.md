@@ -46,3 +46,18 @@ Webpage: http://velocitecafe.com
 Wifi | Power | Map                             | Address
 :--: | :---: | :-----------------------------: | :---------------------------------------:
 ✔    | ✔     | https://goo.gl/maps/RRm5Qdx2k3u | Av. Duque de Ávila 120A, 1050-084 Lisboa, Portugal
+
+
+---------------------------------------------------------------
+
+# Hong Kong 🇭🇰
+
+#### Pink Coffee
+
+> They have a standing desk!
+
+Webpage: https://www.facebook.com/PinkCoffeeHK
+
+Wifi | Power | Map                             | Address
+:--: | :---: | :-----------------------------: | :---------------------------------------:
+✔    | ✔     | https://goo.gl/maps/SuyKBeM86752 | Shop 305, D2 Place, Lai Chi Kok, Hong Kong
