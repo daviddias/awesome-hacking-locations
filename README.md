@@ -47,6 +47,22 @@ Wifi | Power | Map                              | Address
 
 ---------------------------------------------------------------
 
+# Italy 🇮🇹
+
+## Rome
+
+#### Cafe Peru
+
+> Nice little coffee, they have home-made pastries and good coffee (it is hidden in a beautiful location)
+
+Webpage: http://www.caffeperu.it/
+
+Wifi | Power | Map                             | Address
+:--: | :---: | :-----------------------------: | :---------------------------------------:
+✔    | ✔     | https://goo.gl/maps/HXioZUdXoPS2 | Via di Monserrato, 46, 00186 Roma, Italia
+
+---------------------------------------------------------------
+
 # Portugal 🇵🇹
 
 ## Lisbon
