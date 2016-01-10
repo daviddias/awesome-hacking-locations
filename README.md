@@ -2,3 +2,22 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
 ===============================
 
 > List of Awesome Hacking places, organised by Counter and City, listing if it features power and wifi
+
+## Index
+
+# France
+
+## Paris
+
+
+# Portugal
+
+## Lisbon
+
+#### Velocité Cafe
+
+http://velocitecafe.com
+
+Wifi | Power | Map 
+:--: | :---: | :-----------------------------:
+✔    | ✔     | https://goo.gl/maps/RRm5Qdx2k3u
