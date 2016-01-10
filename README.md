@@ -21,6 +21,40 @@ Wifi | Power | Map                             | Address
 :--: | :---: | :-----------------------------: | :---------------------------------------:
 ✔    | ✔     | https://goo.gl/maps/nN7zjHsSmcU2 | Boldhusgade 6, 1062 København K
 
+#### Emmerys (Store Kongensgade)
+
+Webpage: http://www.emmerys.dk/cafebutik.html
+
+Wifi | Power | Map                             | Address
+:--: | :---: | :-----------------------------: | :---------------------------------------:
+✔    | ✔     | https://goo.gl/maps/BPXXzi37DfE2 | Store Kongensgade 97, 1264 København K
+
+#### Emmerys (Store Strandstræde)
+
+Webpage: http://www.emmerys.dk/cafebutik.html
+
+Wifi | Power | Map                             | Address
+:--: | :---: | :-----------------------------: | :---------------------------------------:
+✔    | ✔     | https://goo.gl/maps/rsYsgqpWugy | Store Strandstræde 21, 1255 København K
+
+#### Paludan Bogcafé
+
+> Open late
+
+Webpage: http://www.paludan-cafe.dk
+
+Wifi | Power | Map                             | Address
+:--: | :---: | :-----------------------------: | :---------------------------------------:
+✔    | ✔     | https://goo.gl/maps/BaqeGzohcdC2 | Fiolstræde 10, 1171 København
+
+#### Riccos Kaffebar (Sluseholmen)
+
+Webpage: http://www.riccos.dk
+
+Wifi | Power | Map                             | Address
+:--: | :---: | :-----------------------------: | :---------------------------------------:
+✔    | At sofa | https://goo.gl/maps/3w6ZXGg6EUo | Sluseholmen 28, 2450 København SV
+
 # France 🇫🇷
 
 ## Paris
