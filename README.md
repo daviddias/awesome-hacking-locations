@@ -95,3 +95,20 @@ ask | ✔     |   yes   | https://goo.gl/maps/2RFTNQaXynm | 425 15th Ave E, Seat
 Wifi  | Power | Coffee  | Map                             | Address
 :--:  | :---: | :-----: |:-----------------------------: | :---------------------------------------:
 ask | ✔     |   yes   | https://goo.gl/maps/hgjYxwLr8sS2 | 6900 East Green Lake Way N, Seattle, WA 98115, United States
+
+---------------------------------------------------------------
+
+# Poland 🇵🇱
+
+## Krakow
+
+#### Karma Coffee
+
+> Awesome coffee shop. Multiple locations, only been to this one (closest to main square). Not too many seats, but fast wifi.
+
+Webpage: http://www.karmaroasters.com/
+
+Wifi | Power | Map                             | Address
+:--: | :---: | :-----------------------------: | :---------------------------------------:
+✔    | ✔     | https://goo.gl/maps/Q7GAvneeUiu | Krupnicza 12, 31-123 Kraków, Poland
+
