@@ -95,3 +95,17 @@ ask | ✔     |   yes   | https://goo.gl/maps/2RFTNQaXynm | 425 15th Ave E, Seat
 Wifi  | Power | Coffee  | Map                             | Address
 :--:  | :---: | :-----: |:-----------------------------: | :---------------------------------------:
 ask | ✔     |   yes   | https://goo.gl/maps/hgjYxwLr8sS2 | 6900 East Green Lake Way N, Seattle, WA 98115, United States
+
+
+# Canada
+
+## Hamilton
+
+#### Mulberry Street Coffeehouse
+
+> Cafe in the former lobby of an 1880s hotel. Great coffee, beer, sweets & sandwiches.
+
+Wifi   | Power | Coffee  | Map                             | Address                                      |
+:---:  | :---: | :-----: |:------------------------------: | :-------------------------------------------:|
+Cogeco | ✔     | yes     | https://goo.gl/maps/zWdNUs9jNMy | 193 James St N, Hamilton, ON L8R 2L2, Canada |
+
