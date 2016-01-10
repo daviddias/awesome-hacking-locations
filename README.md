@@ -130,6 +130,16 @@ Wifi  | Power | Coffee  | Map                             | Address
 :--:  | :---: | :-----: |:-----------------------------: | :---------------------------------------:
 ask | ✔     |   yes   | https://goo.gl/maps/hgjYxwLr8sS2 | 6900 East Green Lake Way N, Seattle, WA 98115, United States
 
+## Bellevue
+
+#### Bellevue Public Library
+
+> Free to all, a lot of space, 3 floors, free parking lot
+
+Wifi  | Power | Coffee  | Map                             | Address
+:--:  | :---: | :-----: |:-----------------------------: | :---------------------------------------:
+open | ✔     |   yes   | https://goo.gl/maps/MECUJ6BM2JG2 | 1111 110th Ave NE, Bellevue, WA 98004, United States
+
 ---------------------------------------------------------------
 
 # Poland 🇵🇱
