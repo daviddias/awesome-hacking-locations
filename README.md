@@ -62,7 +62,9 @@ Wifi | Power | Map                             | Address
 :--: | :---: | :-----------------------------: | :---------------------------------------:
 ✔    | ✔     | https://goo.gl/maps/SuyKBeM86752 | Shop 305, D2 Place, Lai Chi Kok, Hong Kong
 
-# Seattle
+# United States 🇺🇸
+
+## Seattle
 
 #### Seattle Public Library
 
