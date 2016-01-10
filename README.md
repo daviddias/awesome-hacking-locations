@@ -5,10 +5,23 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
 
 ## Index
 
+---------------------------------------------------------------
+
 # France
 
 ## Paris
 
+#### KB CafeShop
+
+> Speciality French Coffee Makers
+
+Webpage: https://www.facebook.com/CafeShopSouthPigalle
+
+Wifi | Power | Map                             | Address
+:--: | :---: | :-----------------------------: | :---------------------------------------:
+✔    | ✘     | https://goo.gl/maps/RRm5Qdx2k3u | 53 Avenue Trudaine, 75009 Paris
+
+---------------------------------------------------------------
 
 # Portugal
 
@@ -16,8 +29,10 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
 
 #### Velocité Cafe
 
-http://velocitecafe.com
+> Awesome bike shop that has really good sandwitches and coffee (plus you get a discount if you arrive on a bike)
 
-Wifi | Power | Map 
-:--: | :---: | :-----------------------------:
-✔    | ✔     | https://goo.gl/maps/RRm5Qdx2k3u
+Webpage: http://velocitecafe.com
+
+Wifi | Power | Map                             | Address
+:--: | :---: | :-----------------------------: | :---------------------------------------:
+✔    | ✔     | https://goo.gl/maps/RRm5Qdx2k3u | Av. Duque de Ávila 120A, 1050-084 Lisboa, Portugal
