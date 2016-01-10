@@ -61,3 +61,37 @@ Webpage: https://www.facebook.com/PinkCoffeeHK
 Wifi | Power | Map                             | Address
 :--: | :---: | :-----------------------------: | :---------------------------------------:
 ✔    | ✔     | https://goo.gl/maps/SuyKBeM86752 | Shop 305, D2 Place, Lai Chi Kok, Hong Kong
+
+# Seattle
+
+#### Seattle Public Library
+
+> Free to all, lots of space, must be quiet though.
+
+Wifi  | Power | Coffee  | Map                             | Address
+:--:  | :---: | :-----: |:-----------------------------: | :---------------------------------------:
+1gbit | ✔     |   yes   | https://goo.gl/maps/St7B69HGUKE2 | 1000 4th Ave, Seattle, WA 98104, United States
+
+#### Zeitgeist
+
+> Nice coffee shop, great espresso, moderately busy.
+
+Wifi  | Power | Coffee  | Map                             | Address
+:--:  | :---: | :-----: |:-----------------------------: | :---------------------------------------:
+open | ✔     |   yes   | https://goo.gl/maps/SBzQwwPcdQ62 | 171 S Jackson St, Seattle, WA 98104, United States
+
+#### Ada's Technical Books
+
+> Tasty coffee and great food, free wifi and places, but also has paid day passes for private space
+
+Wifi  | Power | Coffee  | Map                             | Address
+:--:  | :---: | :-----: |:-----------------------------: | :---------------------------------------:
+ask | ✔     |   yes   | https://goo.gl/maps/2RFTNQaXynm | 425 15th Ave E, Seattle, WA 98112, United States
+
+#### Fix Coffeehouse
+
+> Cafe, with beer and nice location on greenlake
+
+Wifi  | Power | Coffee  | Map                             | Address
+:--:  | :---: | :-----: |:-----------------------------: | :---------------------------------------:
+ask | ✔     |   yes   | https://goo.gl/maps/hgjYxwLr8sS2 | 6900 East Green Lake Way N, Seattle, WA 98115, United States
