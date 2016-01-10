@@ -7,6 +7,20 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
 
 ---------------------------------------------------------------
 
+# Denmark 🇩🇰
+
+## Copenhagen
+
+#### Copenhagen Coffee Lab
+
+> Roasts and sells their own coffee
+
+Webpage: http://copenhagencoffeelab.com/kaffebaren/
+
+Wifi | Power | Map                             | Address
+:--: | :---: | :-----------------------------: | :---------------------------------------:
+✔    | ✔     | https://goo.gl/maps/nN7zjHsSmcU2 | Boldhusgade 6, 1062 København K
+
 # France 🇫🇷
 
 ## Paris
