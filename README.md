@@ -111,6 +111,18 @@ Wifi | Power | Map                              | Address
 
 ![](http://www.speedtest.net/result/4986816433.png)
 
+#### Anticafe Beauborg
+
+> You pay 5 euros per hour and everything on the menu is free.
+
+Webpage: http://www.anticafe.eu/beaubourg
+
+Wifi | Power | Map                              | Address
+:--: | :---: | :-----------------------------:  | :---------------------------------------:
+✔    | ✔     | https://goo.gl/maps/S9GT8mH6oYT2 | 79 Rue Quincampoix 75003 Paris 
+
+![](http://www.speedtest.net/result/4987963541.png)
+
 ---------------------------------------------------------------
 ---------------------------------------------------------------
 
