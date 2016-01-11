@@ -20,6 +20,10 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
 - Poland
   - Krakow
 
+## Contribute 🌟
+
+This is a community curated list, please submit your PR with the spots you know and love for hacking!
+
 ---------------------------------------------------------------
 ---------------------------------------------------------------
 
