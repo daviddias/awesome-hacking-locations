@@ -5,6 +5,22 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
 
 ## Index
 
+- Denmark
+  - Copenhagen
+- France
+  - Paris
+- Italy
+  - Rome
+- Portugal
+  - Lisbon
+- Hong Kong
+- United States
+  - Chicago
+  - Seattle
+- Poland
+  - Krakow
+
+---------------------------------------------------------------
 ---------------------------------------------------------------
 
 # Denmark 🇩🇰
@@ -79,6 +95,19 @@ Wifi | Power | Map                              | Address
 ✔    | ✘     | https://goo.gl/maps/EPuXWaLcKa22 | 7 Rue des Trois Frères, 75018 Paris, France
 
 
+#### Anticafe Louvre
+
+> You pay 5 euros per hour and everything on the menu is free.
+
+Webpage: http://www.anticafe.eu/louvre
+
+Wifi | Power | Map                              | Address
+:--: | :---: | :-----------------------------:  | :---------------------------------------:
+✔    | ✔     | https://goo.gl/maps/RAFpjLLeSPJ2 | 10 Rue Richelieu, 75001 Paris 
+
+
+
+---------------------------------------------------------------
 ---------------------------------------------------------------
 
 # Italy 🇮🇹
@@ -95,6 +124,8 @@ Wifi | Power | Map                             | Address
 :--: | :---: | :-----------------------------: | :---------------------------------------:
 ✔    | ✔     | https://goo.gl/maps/HXioZUdXoPS2 | Via di Monserrato, 46, 00186 Roma, Italia
 
+
+---------------------------------------------------------------
 ---------------------------------------------------------------
 
 # Portugal 🇵🇹
@@ -139,6 +170,8 @@ Wifi | Power | Map                             | Address
 :--: | :---: | :-----------------------------: | :---------------------------------------:
 ✔    | ✔     | https://goo.gl/maps/NNnXK6LkzFJ2 | R. Serpa Pinto 15A, 1200-026 Lisboa
 
+
+---------------------------------------------------------------
 ---------------------------------------------------------------
 
 # Hong Kong 🇭🇰
@@ -153,6 +186,8 @@ Wifi | Power | Map                             | Address
 :--: | :---: | :-----------------------------: | :---------------------------------------:
 ✔    | ✔     | https://goo.gl/maps/SuyKBeM86752 | Shop 305, D2 Place, Lai Chi Kok, Hong Kong
 
+
+---------------------------------------------------------------
 ---------------------------------------------------------------
 
 # United States 🇺🇸
@@ -223,6 +258,8 @@ Wifi  | Power | Coffee  | Map                             | Address
 :--:  | :---: | :-----: |:-----------------------------: | :---------------------------------------:
 open | ✔     |   yes   | https://goo.gl/maps/MECUJ6BM2JG2 | 1111 110th Ave NE, Bellevue, WA 98004, United States
 
+
+---------------------------------------------------------------
 ---------------------------------------------------------------
 
 # Poland 🇵🇱
