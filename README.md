@@ -157,6 +157,28 @@ Wifi | Power | Map                             | Address
 
 # United States 🇺🇸
 
+## Chicago
+
+#### Dolce Casa
+
+> A coffee shop, a european-style café, and a neighborhood gathering spot all in one.
+
+Webpage: http://dolcecasacafe.com/
+
+Wifi | Power | Map                              | Address
+:--: | :---: | :-----------------------------:  | :---------------------------------------:
+✔    | ✔     | https://goo.gl/maps/eNmG3ETExt92 | 4947 N Damen Ave, Chicago, IL 60625
+
+#### The Perfect Cup
+
+> Coffee, tea, and great snacks. Plus, it's close to the Brown "L" train line.
+
+Webpage: http://www.perfectcupchicago.com/
+
+Wifi | Power | Map                              | Address
+:--: | :---: | :-----------------------------:  | :---------------------------------------:
+✔    | ✔     | https://goo.gl/maps/CVzWt8xiXyG2 | 4700 N Damen Ave, Chicago, IL 60625
+
 ## Seattle
 
 #### Seattle Public Library
@@ -216,4 +238,3 @@ Webpage: http://www.karmaroasters.com/
 Wifi | Power | Map                             | Address
 :--: | :---: | :-----------------------------: | :---------------------------------------:
 ✔    | ✔     | https://goo.gl/maps/Q7GAvneeUiu | Krupnicza 12, 31-123 Kraków, Poland
-
