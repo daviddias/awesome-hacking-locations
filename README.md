@@ -17,6 +17,7 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
 - United States
   - Chicago
   - Seattle
+  - Bellevue
 - Poland
   - Krakow
 
@@ -37,25 +38,25 @@ This is a community curated list, please submit your PR with the spots you know 
 
 Webpage: http://copenhagencoffeelab.com/kaffebaren/
 
-Wifi | Power | Map                             | Address
-:--: | :---: | :-----------------------------: | :---------------------------------------:
-✔    | ✔     | https://goo.gl/maps/nN7zjHsSmcU2 | Boldhusgade 6, 1062 København K
+Wifi | Power | Map                             | Address                                  | Open Hours
+:--: | :---: | :-----------------------------: | :---------------------------------------:|:---------------------------------------:
+✔    | ✔     | https://goo.gl/maps/nN7zjHsSmcU2 | Boldhusgade 6, 1062 København K          |Mon - Fri 7.30-17.00 , Saturday 11.00 - 17.00
 
 #### Emmerys (Store Kongensgade)
 
 Webpage: http://www.emmerys.dk/cafebutik.html
 
-Wifi | Power | Map                             | Address
-:--: | :---: | :-----------------------------: | :---------------------------------------:
-✔    | ✔     | https://goo.gl/maps/BPXXzi37DfE2 | Store Kongensgade 97, 1264 København K
+Wifi | Power | Map                             | Address                                  | Open Hours
+:--: | :---: | :-----------------------------: | :---------------------------------------:|:----------------------------------------:
+✔    | ✔     | https://goo.gl/maps/BPXXzi37DfE2 | Store Kongensgade 97, 1264 København K  |
 
 #### Emmerys (Store Strandstræde)
 
 Webpage: http://www.emmerys.dk/cafebutik.html
 
-Wifi | Power | Map                             | Address
-:--: | :---: | :-----------------------------: | :---------------------------------------:
-✔    | ✔     | https://goo.gl/maps/rsYsgqpWugy | Store Strandstræde 21, 1255 København K
+Wifi | Power | Map                             | Address                                  | Open Hours
+:--: | :---: | :-----------------------------: | :---------------------------------------:|:----------------------------------------:
+✔    | ✔     | https://goo.gl/maps/rsYsgqpWugy | Store Strandstræde 21, 1255 København K  |
 
 #### Paludan Bogcafé
 
@@ -63,17 +64,18 @@ Wifi | Power | Map                             | Address
 
 Webpage: http://www.paludan-cafe.dk
 
-Wifi | Power | Map                             | Address
-:--: | :---: | :-----------------------------: | :---------------------------------------:
-✔    | ✔     | https://goo.gl/maps/BaqeGzohcdC2 | Fiolstræde 10, 1171 København
+Wifi | Power | Map                             | Address                                  | Open Hours
+:--: | :---: | :-----------------------------: | :---------------------------------------:|:----------------------------------------------------------:
+✔    | ✔     | https://goo.gl/maps/BaqeGzohcdC2 | Fiolstræde 10, 1171 København           | Mon - Fri: 9.00am - 22.00 pm Sat,Sun: 10.0 am - 22.00 pm
+​Sunday: 10.00 am - 22.00 pm
 
 #### Riccos Kaffebar (Sluseholmen)
 
 Webpage: http://www.riccos.dk
 
-Wifi | Power | Map                             | Address
-:--: | :---: | :-----------------------------: | :---------------------------------------:
-✔    | At sofa | https://goo.gl/maps/3w6ZXGg6EUo | Sluseholmen 28, 2450 København SV
+Wifi | Power | Map                             | Address                                  | Open Hours
+:--: | :---: | :-----------------------------: | :---------------------------------------:|:---------------------------------------:
+✔    | At sofa | https://goo.gl/maps/3w6ZXGg6EUo | Sluseholmen 28, 2450 København SV      | Mon - Sun 8.00am - 17.45 pm
 
 # France 🇫🇷
 
@@ -85,18 +87,18 @@ Wifi | Power | Map                             | Address
 
 Webpage: https://www.facebook.com/CafeShopSouthPigalle
 
-Wifi | Power | Map                             | Address
-:--: | :---: | :-----------------------------: | :---------------------------------------:
-✔    | ✘     | https://goo.gl/maps/RRm5Qdx2k3u | 53 Avenue Trudaine, 75009 Paris
+Wifi | Power | Map                             | Address                                  | Open Hours
+:--: | :---: | :-----------------------------: | :---------------------------------------:|:-----------------------------------------------------:
+✔    | ✘     | https://goo.gl/maps/RRm5Qdx2k3u | 53 Avenue Trudaine, 75009 Paris          | Mon-Fri: 7:30 am - 6:30 pm, Sat-Sun: 9:00 am - 6:30 pm
 
 
 #### Le Progrès
 
 Webpage: http://www.tripadvisor.com/Restaurant_Review-g187147-d1171207-Reviews-Le_Progres-Paris_Ile_de_France.html
 
-Wifi | Power | Map                              | Address
-:--: | :---: | :-----------------------------:  | :---------------------------------------:
-✔    | ✘     | https://goo.gl/maps/EPuXWaLcKa22 | 7 Rue des Trois Frères, 75018 Paris, France
+Wifi | Power | Map                              | Address                                     | Open Hours
+:--: | :---: | :-----------------------------:  | :------------------------------------------:|:--------------------------------------------------:
+✔    | ✘     | https://goo.gl/maps/EPuXWaLcKa22 | 7 Rue des Trois Frères, 75018 Paris, France |
 
 #### Loustic
 
@@ -116,9 +118,9 @@ Wifi | Power | Map                              | Address
 
 Webpage: http://www.anticafe.eu/louvre
 
-Wifi | Power | Map                              | Address
-:--: | :---: | :-----------------------------:  | :---------------------------------------:
-✔    | ✔     | https://goo.gl/maps/RAFpjLLeSPJ2 | 10 Rue Richelieu, 75001 Paris 
+Wifi | Power | Map                              | Address                                  | Open Hours
+:--: | :---: | :-----------------------------:  | :---------------------------------------:|:-----------------------------------------------:
+✔    | ✔     | https://goo.gl/maps/RAFpjLLeSPJ2 | 10 Rue Richelieu, 75001 Paris            | Mon-Fri: 9am - 10.30pm, Sat-Sun: 10am - 9.30pm
 
 ![](http://www.speedtest.net/result/4986816433.png)
 
@@ -128,9 +130,9 @@ Wifi | Power | Map                              | Address
 
 Webpage: http://www.anticafe.eu/beaubourg
 
-Wifi | Power | Map                              | Address
-:--: | :---: | :-----------------------------:  | :---------------------------------------:
-✔    | ✔     | https://goo.gl/maps/S9GT8mH6oYT2 | 79 Rue Quincampoix 75003 Paris 
+Wifi | Power | Map                              | Address                                  | Open Hours
+:--: | :---: | :-----------------------------:  | :---------------------------------------:|:-----------------------------------------------:
+✔    | ✔     | https://goo.gl/maps/S9GT8mH6oYT2 | 79 Rue Quincampoix 75003 Paris           | Mon-Fri: 9am - 10.30pm, Sat-Sun: 10am - 9.30pm
 
 ![](http://www.speedtest.net/result/4987963541.png)
 
@@ -147,9 +149,9 @@ Wifi | Power | Map                              | Address
 
 Webpage: http://www.caffeperu.it/
 
-Wifi | Power | Map                             | Address
-:--: | :---: | :-----------------------------: | :---------------------------------------:
-✔    | ✔     | https://goo.gl/maps/HXioZUdXoPS2 | Via di Monserrato, 46, 00186 Roma, Italia
+Wifi | Power | Map                             | Address                                    | Open Hours
+:--: | :---: | :-----------------------------: | :-----------------------------------------:|:-------------------------------------------------------------------------------:
+✔    | ✔     | https://goo.gl/maps/HXioZUdXoPS2 | Via di Monserrato, 46, 00186 Roma, Italia | Mon-Thu: 6:00 am - 2:00 pm, Fri,Sat: 6:00 am - 2:30 pm Sun: 9:00 am - 21:00 pm
 
 
 ---------------------------------------------------------------
@@ -165,9 +167,9 @@ Wifi | Power | Map                             | Address
 
 Webpage: http://velocitecafe.com
 
-Wifi | Power | Map                             | Address
-:--: | :---: | :-----------------------------: | :---------------------------------------:
-✔    | ✔     | https://goo.gl/maps/RRm5Qdx2k3u | Av. Duque de Ávila 120A, 1050-084 Lisboa, Portugal
+Wifi | Power | Map                             | Address                                            | Open Hours
+:--: | :---: | :-----------------------------: | :-------------------------------------------------:|:---------------------------------------------------:
+✔    | ✔     | https://goo.gl/maps/RRm5Qdx2k3u | Av. Duque de Ávila 120A, 1050-084 Lisboa, Portugal |
 
 #### Copenhagen Coffee Lab, Lisboa
 
@@ -175,9 +177,9 @@ Wifi | Power | Map                             | Address
 
 Webpage: http://copenhagencoffeelab.com/lissabon/
 
-Wifi | Power | Map                             | Address
-:--: | :---: | :-----------------------------: | :---------------------------------------:
-✔    | ✔     | https://goo.gl/maps/PGwRAsp5mhA2 | 1200 192, R. Nova da Piedade 10, 1200-405 Lisboa
+Wifi | Power | Map                             | Address                                            | Open Hours
+:--: | :---: | :-----------------------------: | :-------------------------------------------------:|:---------------------------------------------------:
+✔    | ✔     | https://goo.gl/maps/PGwRAsp5mhA2 | 1200 192, R. Nova da Piedade 10, 1200-405 Lisboa  |
 
 #### Café Tati
 
@@ -185,17 +187,17 @@ Wifi | Power | Map                             | Address
 
 Webpage: http://www.cafetati.blogspot.dk
 
-Wifi | Power | Map                             | Address
-:--: | :---: | :-----------------------------: | :---------------------------------------:
-✔    | ✔     | https://goo.gl/maps/mhZJSFpJPuL2 | 1200 371, R. Ribeira Nova 36, 1200-371 Lisboa
+Wifi | Power | Map                             | Address                                         | Open Hours
+:--: | :---: | :-----------------------------: | :----------------------------------------------:|:---------------------------------------:
+✔    | ✔     | https://goo.gl/maps/mhZJSFpJPuL2 | 1200 371, R. Ribeira Nova 36, 1200-371 Lisboa  |
 
 #### Tartine
 
 Webpage: http://www.cafetati.blogspot.dk
 
-Wifi | Power | Map                             | Address
-:--: | :---: | :-----------------------------: | :---------------------------------------:
-✔    | ✔     | https://goo.gl/maps/NNnXK6LkzFJ2 | R. Serpa Pinto 15A, 1200-026 Lisboa
+Wifi | Power | Map                             | Address                                  | Open Hours
+:--: | :---: | :-----------------------------: | :---------------------------------------:|:-----------------------------------------:
+✔    | ✔     | https://goo.gl/maps/NNnXK6LkzFJ2 | R. Serpa Pinto 15A, 1200-026 Lisboa     |
 
 
 ---------------------------------------------------------------
@@ -209,9 +211,9 @@ Wifi | Power | Map                             | Address
 
 Webpage: https://www.facebook.com/PinkCoffeeHK
 
-Wifi | Power | Map                             | Address
-:--: | :---: | :-----------------------------: | :---------------------------------------:
-✔    | ✔     | https://goo.gl/maps/SuyKBeM86752 | Shop 305, D2 Place, Lai Chi Kok, Hong Kong
+Wifi | Power | Map                             | Address                                      | Open Hours
+:--: | :---: | :-----------------------------: | :-------------------------------------------:|:-------------------------------------------------------:
+✔    | ✔     | https://goo.gl/maps/SuyKBeM86752 | Shop 305, D2 Place, Lai Chi Kok, Hong Kong  | Mon-Fri: 8:00 am - 9:00 pm, Sat-Sun: 9:30 am - 6:00 pm
 
 
 ---------------------------------------------------------------
@@ -227,9 +229,9 @@ Wifi | Power | Map                             | Address
 
 Webpage: http://dolcecasacafe.com/
 
-Wifi | Power | Map                              | Address
-:--: | :---: | :-----------------------------:  | :---------------------------------------:
-✔    | ✔     | https://goo.gl/maps/eNmG3ETExt92 | 4947 N Damen Ave, Chicago, IL 60625
+Wifi | Power | Map                              | Address                                  | Open Hours
+:--: | :---: | :-----------------------------:  | :---------------------------------------:|:-------------------------------------:
+✔    | ✔     | https://goo.gl/maps/eNmG3ETExt92 | 4947 N Damen Ave, Chicago, IL 60625      | M-F 7am-4pm, Sat & Sun  8am-3pm
 
 #### The Perfect Cup
 
@@ -237,9 +239,9 @@ Wifi | Power | Map                              | Address
 
 Webpage: http://www.perfectcupchicago.com/
 
-Wifi | Power | Map                              | Address
-:--: | :---: | :-----------------------------:  | :---------------------------------------:
-✔    | ✔     | https://goo.gl/maps/CVzWt8xiXyG2 | 4700 N Damen Ave, Chicago, IL 60625
+Wifi | Power | Map                              | Address                                  | Open Hours
+:--: | :---: | :-----------------------------:  | :---------------------------------------:|:-----------------------------------------:
+✔    | ✔     | https://goo.gl/maps/CVzWt8xiXyG2 | 4700 N Damen Ave, Chicago, IL 60625      | M-F 6:30a - 8:00p Sat, Sun: 7:00a - 8:00p
 
 ## Seattle
 
@@ -247,33 +249,35 @@ Wifi | Power | Map                              | Address
 
 > Free to all, lots of space, must be quiet though.
 
-Wifi  | Power | Coffee  | Map                             | Address
-:--:  | :---: | :-----: |:-----------------------------: | :---------------------------------------:
-1gbit | ✔     |   yes   | https://goo.gl/maps/St7B69HGUKE2 | 1000 4th Ave, Seattle, WA 98104, United States
+Wifi  | Power | Coffee  | Map                             | Address                                         | Open Hours
+:--:  | :---: | :-----: |:-----------------------------: | :-----------------------------------------------:|:------------------------------------------------------:
+1gbit | ✔     |   yes   | https://goo.gl/maps/St7B69HGUKE2 | 1000 4th Ave, Seattle, WA 98104, United States | Mon-Th: 10am - 8pm, Fri,St: 10am - 6pm, St: 12am - 6pm
 
 #### Zeitgeist
 
 > Nice coffee shop, great espresso, moderately busy.
 
-Wifi  | Power | Coffee  | Map                             | Address
-:--:  | :---: | :-----: |:-----------------------------: | :---------------------------------------:
-open | ✔     |   yes   | https://goo.gl/maps/SBzQwwPcdQ62 | 171 S Jackson St, Seattle, WA 98104, United States
+Webpage: http://zeitgeistcoffee.com/
+
+Wifi  | Power | Coffee  | Map                             | Address                                            | Open Hours
+:--:  | :---: | :-----: |:-----------------------------: | :--------------------------------------------------:|:----------------------------------------------------:
+open | ✔     |   yes   | https://goo.gl/maps/SBzQwwPcdQ62 | 171 S Jackson St, Seattle, WA 98104, United States | Mon-Fri: 6am - 7pm, Sat: 7am - 7pm, Sun: 8am - 6pm
 
 #### Ada's Technical Books
 
 > Tasty coffee and great food, free wifi and places, but also has paid day passes for private space
 
-Wifi  | Power | Coffee  | Map                             | Address
-:--:  | :---: | :-----: |:-----------------------------: | :---------------------------------------:
-ask | ✔     |   yes   | https://goo.gl/maps/2RFTNQaXynm | 425 15th Ave E, Seattle, WA 98112, United States
+Wifi  | Power | Coffee  | Map                             | Address                                         | Open Hours
+:--:  | :---: | :-----: |:-----------------------------: | :-----------------------------------------------:|:-----------------------------------------------:
+ask | ✔     |   yes   | https://goo.gl/maps/2RFTNQaXynm | 425 15th Ave E, Seattle, WA 98112, United States  | Mon-Sun: 8am - 10pm
 
 #### Fix Coffeehouse
 
 > Cafe, with beer and nice location on greenlake
 
-Wifi  | Power | Coffee  | Map                             | Address
-:--:  | :---: | :-----: |:-----------------------------: | :---------------------------------------:
-ask | ✔     |   yes   | https://goo.gl/maps/hgjYxwLr8sS2 | 6900 East Green Lake Way N, Seattle, WA 98115, United States
+Wifi  | Power | Coffee  | Map                             | Address                                                     | Open Hours
+:--:  | :---: | :-----: |:-----------------------------: | :-----------------------------------------------------------:|:--------------------------------------------------:
+ask | ✔     |   yes   | https://goo.gl/maps/hgjYxwLr8sS2 | 6900 East Green Lake Way N, Seattle, WA 98115, United States | Mon-Fri: 6am - 9pm, Sat: 7am - 9pm, Sun: 7am - 8pm
 
 ## Bellevue
 
@@ -281,9 +285,9 @@ ask | ✔     |   yes   | https://goo.gl/maps/hgjYxwLr8sS2 | 6900 East Green Lak
 
 > Free to all, a lot of space, 3 floors, free parking lot
 
-Wifi  | Power | Coffee  | Map                             | Address
-:--:  | :---: | :-----: |:-----------------------------: | :---------------------------------------:
-open | ✔     |   yes   | https://goo.gl/maps/MECUJ6BM2JG2 | 1111 110th Ave NE, Bellevue, WA 98004, United States
+Wifi  | Power | Coffee  | Map                             | Address                                              | Open Hours
+:--:  | :---: | :-----: |:-----------------------------: | :----------------------------------------------------:|:------------------------------------------------------------:
+open | ✔     |   yes   | https://goo.gl/maps/MECUJ6BM2JG2 | 1111 110th Ave NE, Bellevue, WA 98004, United States | Mon - Thu: 9am - 9pm, Fri,Sat: 10am - 6pm, Sun: 12am - 8pm
 
 
 ---------------------------------------------------------------
@@ -299,6 +303,6 @@ open | ✔     |   yes   | https://goo.gl/maps/MECUJ6BM2JG2 | 1111 110th Ave NE,
 
 Webpage: http://www.karmaroasters.com/
 
-Wifi | Power | Map                             | Address
-:--: | :---: | :-----------------------------: | :---------------------------------------:
-✔    | ✔     | https://goo.gl/maps/Q7GAvneeUiu | Krupnicza 12, 31-123 Kraków, Poland
+Wifi | Power | Map                             | Address                                  | Open Hours
+:--: | :---: | :-----------------------------: | :---------------------------------------:|:------------------------------------------:
+✔    | ✔     | https://goo.gl/maps/Q7GAvneeUiu | Krupnicza 12, 31-123 Kraków, Poland      | Mon-Fri: 8am - 8pm, Sat,Sun: 10am - 7pm
