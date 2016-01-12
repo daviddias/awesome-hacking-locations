@@ -17,6 +17,7 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
 - United States
   - Chicago
   - Seattle
+  - Bellevue
 - Poland
   - Krakow
 
