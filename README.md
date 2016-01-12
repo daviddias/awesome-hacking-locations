@@ -98,6 +98,17 @@ Wifi | Power | Map                              | Address
 :--: | :---: | :-----------------------------:  | :---------------------------------------:
 ✔    | ✘     | https://goo.gl/maps/EPuXWaLcKa22 | 7 Rue des Trois Frères, 75018 Paris, France
 
+#### Loustic
+
+> Small coffee shop but with good coffee
+
+Webpage: http://www.cafeloustic.com/
+
+Wifi | Power | Map                              | Address
+:--: | :---: | :-----------------------------:  | :---------------------------------------:
+✔    | ✔     | https://goo.gl/maps/UaCpEQj8YAS2 | 40 Rue Chapon, 75003 Paris
+
+![](http://www.speedtest.net/result/4990205803.png)
 
 #### Anticafe Louvre
 
