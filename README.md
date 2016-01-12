@@ -193,7 +193,7 @@ Wifi | Power | Map                             | Address                        
 
 #### Tartine
 
-Webpage: http://www.cafetati.blogspot.dk
+Webpage: http://tartine.pt/
 
 Wifi | Power | Map                             | Address                                  | Open Hours
 :--: | :---: | :-----------------------------: | :---------------------------------------:|:-----------------------------------------:
