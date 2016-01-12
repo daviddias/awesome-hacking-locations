@@ -77,6 +77,16 @@ Wifi | Power | Map                             | Address                        
 :--: | :---: | :-----------------------------: | :---------------------------------------:|:---------------------------------------:
 ✔    | At sofa | https://goo.gl/maps/3w6ZXGg6EUo | Sluseholmen 28, 2450 København SV      | Mon - Sun 8.00am - 17.45 pm
 
+#### Bevar's
+
+> Open late
+
+Webpage: http://www.bevars.dk
+
+Wifi | Power | Map                             | Address                                  | Open Hours
+:--: | :---: | :-----------------------------: | :---------------------------------------:|:---------------------------------------:
+✔    | ✔     | https://goo.gl/maps/9x8KcbPzN7B2 | Ravnsborggade 10B, 2200 København      | Mon 9.30—23.00, Tue-Wed 9.30 — 24.00, Thu 9.30—02.00, Fri 9.30—03.00, Sat 10.00—03.00, Sun 10.00—21.30
+
 # France 🇫🇷
 
 ## Paris
