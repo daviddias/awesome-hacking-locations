@@ -106,9 +106,9 @@ Wifi | Power | Map                              | Address                       
 
 Webpage: http://www.cafeloustic.com/
 
-Wifi | Power | Map                              | Address
-:--: | :---: | :-----------------------------:  | :---------------------------------------:
-✔    | ✔     | https://goo.gl/maps/UaCpEQj8YAS2 | 40 Rue Chapon, 75003 Paris
+Wifi | Power | Map                              | Address                                  | Open Hours
+:--: | :---: | :-----------------------------:  | :---------------------------------------:|:----------------------------------------------------:
+✔    | ✔     | https://goo.gl/maps/UaCpEQj8YAS2 | 40 Rue Chapon, 75003 Paris               | Mon-Fri: 8am - 6pm, Sat: 9am - 6pm, Sun: 10am - 6pm
 
 ![](http://www.speedtest.net/result/4990205803.png)
 
