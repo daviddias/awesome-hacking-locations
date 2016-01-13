@@ -45,6 +45,12 @@ Wifi | Power | Address | Open Hours
 ✔ | ✘ | [ADDRESS](GOOGLE MAPS SHORT URL) | OPEN HOURS
 ```
 
+## Hackerspaces
+
+Hackerspaces are great places to hack, and in fact they are so great that they have their own list curated for many years now, if you are looking for a hackerspace, please consult:
+
+- https://wiki.hackerspaces.org/List_of_Hacker_Spaces
+
 ---------------------------------------------------------------
 ---------------------------------------------------------------
 
