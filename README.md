@@ -20,6 +20,8 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
   - [Bellevue](#bellevue)
 - [Poland](#poland-)
   - [Krakow](#krakow)
+- [Brazil](#brazil-)
+  - [Rio de Janeiro](#rio-de-janeiro)
 
 ## Contribute 🌟
 
@@ -311,3 +313,21 @@ Webpage: http://www.karmaroasters.com/
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Krupnicza 12, 31-123 Kraków](https://goo.gl/maps/Q7GAvneeUiu) | Mon-Fri 8:00-20:00, Sat-Sun 10:00-19:00
+
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+# Brazil 🇧🇷
+
+## Rio de Janeiro
+
+#### Grama
+
+> Front-end company that supports open culture. Not too many seats, but fast wifi. It's free.
+
+Webpage: http://grama.cc/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+ask | ✔ | [Rua Sorocaba 190, Botafogo, Rio de Janeiro](https://goo.gl/maps/vPa8ZRbAjUx) | Mon-Fri 11:00-20:00, ask for a different time
