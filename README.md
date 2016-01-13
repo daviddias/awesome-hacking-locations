@@ -51,6 +51,10 @@ Hackerspaces are great places to hack, and in fact they are so great that they h
 
 - https://wiki.hackerspaces.org/List_of_Hacker_Spaces
 
+## CoWorking
+
+CoWorking offices are awesome, but typically require a long term commitement, if you are looking for something more stable for a long term stay, look at http://coworkingmap.org/
+
 ---------------------------------------------------------------
 ---------------------------------------------------------------
 
