@@ -200,6 +200,62 @@ Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [1200 371, R. Ribeira Nova 36, 1200-371 Lisboa](https://goo.gl/maps/mhZJSFpJPuL2) |
 
+#### Choupana Café
+
+Webpage: http://4sq.com/XuO7me
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ? | [Avenida da República, 25 A – Saldanha](https://goo.gl/maps/WLA3JDrVkY12) |
+
+#### Esplanada do Torel
+
+> Wifi with a view!
+
+Webpage: http://4sq.com/dkRcKm 
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ? | [R. do Telhal, 8A (Jardim do Torel), 1250 Lisbon, Portugal](https://goo.gl/maps/Li862sCVMkA2) |
+
+#### Fábrica Coffee Roasters
+
+> One of the places in Lisbon where they actually understand coffee
+
+Webpage: http://4sq.com/1dQaY6h
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Rua Portas De Santo Antão, 136, Lisbon, Portugal](https://goo.gl/maps/6cYBbdg82rv) |
+
+#### Melt
+
+> Really nice brunches (plus they do Chouriço Assado, perfect for hacking :P)
+
+Webpage: http://melt-portugal.blogspot.de/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✘ | [Av. Visc. de Valmor 38, Lisboa, Portugal](https://goo.gl/maps/4DK3X2N89N42) |
+
+### O pão nosso
+
+> Great bakery, although small.
+
+Webpage: http://www.opaonosso.pt/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [R. Marquês Sá da Bandeira 46, 1050-149 Lisboa, Portugal](https://goo.gl/maps/FD69tn3WZ2G2) |
+
+#### Pois Café
+
+Webpage: http://www.poiscafe.com/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Rua S. João da Praça, 93-95 Lisboa](https://goo.gl/maps/Wj6aHXwyWYU2) |
+
 #### Tartine
 
 Webpage: http://tartine.pt/
