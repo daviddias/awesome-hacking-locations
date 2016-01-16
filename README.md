@@ -352,9 +352,9 @@ Wifi | Power | Coffee | Address | Open Hours
 
 Webpage: http://zeitgeistcoffee.com/
 
-Wifi | Power | Coffee | Address | Open Hours
+Wifi | Power | Address | Open Hours
 ---- | ----- | ------ | ------- | ----------
-open | ✔ | ✔ | [171 S Jackson St, Seattle, WA 98104](https://goo.gl/maps/SBzQwwPcdQ62) | Mon-Fri 6:00-19:00, Sat 7:00-19:00, Sun 8:00-20:00
+open | ✔ |  [171 S Jackson St, Seattle, WA 98104](https://goo.gl/maps/SBzQwwPcdQ62) | Mon-Fri 6:00-19:00, Sat 7:00-19:00, Sun 8:00-20:00
 
 #### Ada's Technical Books
 
@@ -368,9 +368,9 @@ ask | ✔ | ✔ | [425 15th Ave E, Seattle, WA 98112](https://goo.gl/maps/2RFTNQ
 
 > Cafe, with beer and nice location on greenlake
 
-Wifi | Power | Coffee | Address | Open Hours
+Wifi | Power | Address | Open Hours
 ---- | ----- | ------ | ------- | ----------
-ask | ✔ | ✔ | [6900 East Green Lake Way N, Seattle, WA 98115](https://goo.gl/maps/hgjYxwLr8sS2) | Mon-Fri 6:00-21:00, Sat 7:00-21:00, Sun 7:00-20:00
+ask | ✔ |  [6900 East Green Lake Way N, Seattle, WA 98115](https://goo.gl/maps/hgjYxwLr8sS2) | Mon-Fri 6:00-21:00, Sat 7:00-21:00, Sun 7:00-20:00
 
 ## Bellevue
 
@@ -388,9 +388,9 @@ open | ✔ | ✔ | [1111 110th Ave NE, Bellevue, WA 98004](https://goo.gl/maps/M
 
 > Red walls set the mood at a cafe where art & live music are often served with the coffee & snacks
 
-Wifi| Power | Coffee | Address | Open Hours
+Wifi| Power  | Address | Open Hours
 ----|-------|--------|---------|----------
-  ✔ | ✔|✔| [201 Castro St, Mountain View, CA 94041][https://goo.gl/maps/PGtEs1GB6Wo] | Mon-Thu 7:00-22:00, Fri 7:00-23:00, Sat 8:00-23:00, Sun 8:00-20:00
+  ✔ | ✔| [201 Castro St, Mountain View, CA 94041][https://goo.gl/maps/PGtEs1GB6Wo] | Mon-Thu 7:00-22:00, Fri 7:00-23:00, Sat 8:00-23:00, Sun 8:00-20:00
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
