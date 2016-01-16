@@ -22,6 +22,8 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
   - [Krakow](#krakow)
 - [Brazil](#brazil-)
   - [Rio de Janeiro](#rio-de-janeiro)
+- [Turkey](#turkey-)
+  - [Istanbul](#istanbul)
 
 ## Contribute 🌟
 
@@ -424,3 +426,18 @@ Webpage: http://grama.cc/
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ask | ✔ | [Rua Sorocaba 190, Botafogo, Rio de Janeiro](https://goo.gl/maps/vPa8ZRbAjUx) | Mon-Fri 11:00-20:00, ask for a different time
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+# Turkey 🇹🇷 
+
+## Istanbul
+
+#### Istanbul HS
+
+Webpage: https://istanbulhs.org
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Eğitim Mh. Muratpaşa Cd. Altay Apt. No:11/A Kadıköy](https://istanbulhs.org/wiki/iletisim/) |
