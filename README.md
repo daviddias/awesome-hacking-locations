@@ -15,10 +15,10 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
   - [Lisbon](#lisbon)
 - [Hong Kong](#hong-kong-)
 - [United States](#united-states-)
-  - [Mountain View, CA](#mountain-view-,-ca-)
-  - [Chicago, IL](#chicago)
-  - [Seattle, WA](#seattle)
-  - [Bellevue, WA](#bellevue)
+  - [Mountain View, CA](#mountain-view-ca)
+  - [Chicago, IL](#chicago-il)
+  - [Seattle, WA](#seattle-wa)
+  - [Bellevue, WA](#bellevue-wa)
 - [Poland](#poland-)
   - [Krakow](#krakow)
 - [Brazil](#brazil-)
@@ -326,7 +326,7 @@ Wifi | Power | Address | Open Hours
 
 # United States 🇺🇸
 
-## Mountain View, CA
+## Mountain View, CA <a id="mountain-view-ca"></a>
 
 #### Red Rock Coffee
 
@@ -336,7 +336,7 @@ Wifi| Power  | Address | Open Hours
 ----|-------|--------|---------|----------
   ✔ | ✔| [201 Castro St, Mountain View, CA 94041][https://goo.gl/maps/PGtEs1GB6Wo] | Mon-Thu 7:00-22:00, Fri 7:00-23:00, Sat 8:00-23:00, Sun 8:00-20:00
 
-## Chicago, IL
+## Chicago, IL <a id="chicago-il"></a>
 
 #### Dolce Casa
 
@@ -358,7 +358,7 @@ Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [4700 N Damen Ave, Chicago, IL 60625](https://goo.gl/maps/CVzWt8xiXyG2) | Mon-Fri 6:30-20:00, Sat-Sun 7:00-20:00
 
-## Bellevue, WA
+## Bellevue, WA <a id="bellevue-wa"></a>
 
 #### Bellevue Public Library
 
@@ -368,7 +368,7 @@ Wifi | Power | Coffee | Address | Open Hours
 ---- | ----- | ------ | ------- | ----------
 open | ✔ | ✔ | [1111 110th Ave NE, Bellevue, WA 98004](https://goo.gl/maps/MECUJ6BM2JG2) | Mon-Thu 9:00-21:00, Fri-Sat 10:00-18:00, Sun 12:00-20:00
 
-## Seattle, WA
+## Seattle, WA <a id="seattle-wa"></a>
 
 #### Seattle Public Library
 
@@ -442,7 +442,7 @@ ask | ✔ | [Rua Sorocaba 190, Botafogo, Rio de Janeiro](https://goo.gl/maps/vPa
 ---------------------------------------------------------------
 ---------------------------------------------------------------
 
-# Turkey 🇹🇷 
+# Turkey 🇹🇷
 
 ## Istanbul
 
