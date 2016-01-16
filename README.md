@@ -15,7 +15,7 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
   - [Lisbon](#lisbon)
 - [Hong Kong](#hong-kong-)
 - [United States](#united-states-)
-  - [Mountain View, CA](#mountain-view-)
+  - [Mountain View, CA](#mountain-view-,-ca-)
   - [Chicago, IL](#chicago)
   - [Seattle, WA](#seattle)
   - [Bellevue, WA](#bellevue)
