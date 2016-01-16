@@ -23,6 +23,8 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
   - [Krakow](#krakow)
 - [Brazil](#brazil-)
   - [Rio de Janeiro](#rio-de-janeiro)
+- [Turkey](#turkey-)
+  - [Istanbul](#istanbul)
 
 ## Contribute 🌟
 
@@ -72,6 +74,16 @@ Webpage: http://copenhagencoffeelab.com/kaffebaren/
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Boldhusgade 6, 1062 København K](https://goo.gl/maps/nN7zjHsSmcU2) | Mon-Fri 7:30-17:00, Sat 11:00-17.00
+
+#### The Coffee Collective (Godthåbsvej)
+
+> Coffee connoisseurs: Roasts and sells their own coffee + won several coffee championships (bad cellphone coverage)
+
+Webpage: http://coffeecollective.dk/bars/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✘ | ✔ | [Godthåbsvej 34B, 2000 Frederiksberg](https://goo.gl/maps/pTQ1iiZqJuF2) | Mon-Fri 7:30-19:00, Sat 9:00-18:00, Sun 10:00-18:00
 
 #### Emmerys (Store Kongensgade)
 
@@ -426,3 +438,18 @@ Webpage: http://grama.cc/
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ask | ✔ | [Rua Sorocaba 190, Botafogo, Rio de Janeiro](https://goo.gl/maps/vPa8ZRbAjUx) | Mon-Fri 11:00-20:00, ask for a different time
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+# Turkey 🇹🇷 
+
+## Istanbul
+
+#### Istanbul HS
+
+Webpage: https://istanbulhs.org
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Eğitim Mh. Muratpaşa Cd. Altay Apt. No:11/A Kadıköy](https://istanbulhs.org/wiki/iletisim/) |
