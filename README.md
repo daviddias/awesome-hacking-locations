@@ -18,6 +18,7 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
   - [Chicago](#chicago)
   - [Seattle](#seattle)
   - [Bellevue](#bellevue)
+  - [Mountain View](#mountain-view-)
 - [Poland](#poland-)
   - [Krakow](#krakow)
 - [Brazil](#brazil-)
@@ -240,7 +241,7 @@ Wifi | Power | Address | Open Hours
 
 > Wifi with a view!
 
-Webpage: http://4sq.com/dkRcKm 
+Webpage: http://4sq.com/dkRcKm
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
@@ -380,6 +381,16 @@ ask | ✔ | ✔ | [6900 East Green Lake Way N, Seattle, WA 98115](https://goo.gl
 Wifi | Power | Coffee | Address | Open Hours
 ---- | ----- | ------ | ------- | ----------
 open | ✔ | ✔ | [1111 110th Ave NE, Bellevue, WA 98004](https://goo.gl/maps/MECUJ6BM2JG2) | Mon-Thu 9:00-21:00, Fri-Sat 10:00-18:00, Sun 12:00-20:00
+
+## Mountain View
+
+#### Red Rock Coffee
+
+> Red walls set the mood at a cafe where art & live music are often served with the coffee & snacks
+
+Wifi| Power | Coffee | Address | Open Hours
+----|-------|--------|---------|----------
+  ✔ | ✔|✔| [201 Castro St, Mountain View, CA 94041][https://goo.gl/maps/PGtEs1GB6Wo] | Mon-Thu 7:00-22:00, Fri 7:00-23:00, Sat 8:00-23:00, Sun 8:00-20:00
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
