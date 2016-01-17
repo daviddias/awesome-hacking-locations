@@ -16,6 +16,7 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
 - [Hong Kong](#hong-kong-)
 - [United States](#united-states-)
   - [Mountain View, CA](#mountain-view-ca)
+  - [San Jose, CA](#san-jose)
   - [Chicago, IL](#chicago-il)
   - [Seattle, WA](#seattle-wa)
   - [Bellevue, WA](#bellevue-wa)
@@ -336,6 +337,16 @@ Wifi| Power  | Address | Open Hours
 ----|-------|--------|---------|----------
   ✔ | ✔| [201 Castro St, Mountain View, CA 94041][https://goo.gl/maps/PGtEs1GB6Wo] | Mon-Thu 7:00-22:00, Fri 7:00-23:00, Sat 8:00-23:00, Sun 8:00-20:00
 
+## San Jose
+
+#### Caffe Frascati
+
+> Nice decor & theming, upstairs seating, and friendly staff. Wifi is *decent*.
+
+Wifi | Power | Coffee | Address | Open Hours
+---- | ----- | ------ | ------- | ----------
+ask | ✔ | ✔ | [315 S 1st St, San Jose, CA 95113](https://goo.gl/maps/VRUZDfDBakM2) | Mon-Thu 7:30-22:00, Fri-Sat 8:00-00:00, Sun 8:00-21:00
+
 ## Chicago, IL <a id="chicago-il"></a>
 
 #### Dolce Casa
@@ -403,7 +414,6 @@ ask | ✔ | ✔ | [425 15th Ave E, Seattle, WA 98112](https://goo.gl/maps/2RFTNQ
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------ | ------- | ----------
 ask | ✔ |  [6900 East Green Lake Way N, Seattle, WA 98115](https://goo.gl/maps/hgjYxwLr8sS2) | Mon-Fri 6:00-21:00, Sat 7:00-21:00, Sun 7:00-20:00
-
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
