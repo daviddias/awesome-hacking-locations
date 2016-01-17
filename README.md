@@ -33,7 +33,7 @@ This is a community curated list, please submit your PR with the spots you know 
 
 > Q: What makes an hacking spot to be awesome?
 
-A place where you would go and take your friends to go hacking with, power and wifi are a plus, having coffee and snacks is a bonus. We are excluding for now places that require a subscription or membership of somekind (unless that membership can be done at the of the visit moment and it doesn't require a long term commitment).
+A place where you would go and take your friends to go hacking with, power and wifi are a plus, having coffee and snacks is a bonus. We are excluding for now places that require a subscription or membership of some kind (unless that membership can be done at the of the visit moment and it doesn't require a long term commitment).
 
 ## Template
 
@@ -54,10 +54,11 @@ Wifi | Power | Address | Open Hours
 Hackerspaces are great places to hack, and in fact they are so great that they have their own list curated for many years now, if you are looking for a hackerspace, please consult:
 
 - https://wiki.hackerspaces.org/List_of_Hacker_Spaces
+- http://hackerspaces.org/
 
 ## CoWorking
 
-CoWorking offices are awesome, but typically require a long term commitement, if you are looking for something more stable for a long term stay, look at http://coworkingmap.org/
+CoWorking offices are awesome, but typically require a long term commitment, if you are looking for something more stable for a long term stay, look at http://coworkingmap.org/
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
