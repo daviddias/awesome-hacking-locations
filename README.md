@@ -9,6 +9,8 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
   - [Copenhagen](#copenhagen)
 - [France](#france-)
   - [Paris](#paris)
+- [Germany](#germany-)
+  - [Stuttgart](#stuttgart)
 - [Italy](#italy-)
   - [Rome](#rome)
 - [Portugal](#portugal-)
@@ -187,6 +189,23 @@ Wifi | Power | Address | Open Hours
 ✔ | ✔ | [79 Rue Quincampoix 75003 Paris](https://goo.gl/maps/S9GT8mH6oYT2) | Mon-Fri 9:00-22:30, Sat-Sun 10:00-9:30
 
 ![](http://www.speedtest.net/result/4987963541.png)
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+# Germany 🇩🇪
+
+## Stuttgart
+
+#### shack
+
+> Besides a coffee machine, vending machines, [they offer](http://shackspace.de/wiki/doku.php?id=getting_started) a electronic laboratory.
+
+Webpage: http://shackspace.de/wiki/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Ulmer Straße 255, 70327 Stuttgart](https://goo.gl/maps/xmCh1KqUTNL2) | [Mon-Fri 19:00-24:00, Sat-Sun: 16:00-24:00](http://shackspace.de/?p=1404) [please check the shackspace status](http://shackspace.de/wiki/doku.php)
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
