@@ -19,6 +19,8 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
   - [Chicago, IL](#chicago-il)
   - [Seattle, WA](#seattle-wa)
   - [Bellevue, WA](#bellevue-wa)
+- [Canada](#canada)
+  - [Hamilton](#hamilton)
 - [Poland](#poland-)
   - [Krakow](#krakow)
 - [Bulgaria](#bulgaria)
@@ -405,6 +407,22 @@ ask | ✔ | ✔ | [425 15th Ave E, Seattle, WA 98112](https://goo.gl/maps/2RFTNQ
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------ | ------- | ----------
 ask | ✔ |  [6900 East Green Lake Way N, Seattle, WA 98115](https://goo.gl/maps/hgjYxwLr8sS2) | Mon-Fri 6:00-21:00, Sat 7:00-21:00, Sun 7:00-20:00
+
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+# Canada
+
+## Hamilton
+
+#### Mulberry Street Coffeehouse
+
+> Cafe in the former lobby of an 1880s hotel. Great coffee, beer, sweets & sandwiches.
+
+Wifi| Power | Address  | Open Hours
+--- | --- | ------------------------------ | -------------------------------------------
+✔ | ✔  |  [193 James St N, Hamilton, ON L8R 2L2, Canada](https://goo.gl/maps/zWdNUs9jNMy) | Mon-Tue 7:00-22:00, Wed-Fri 7:00-23:30, Sat 8:00-23:30, Sun 8:00-20:00
 
 
 ---------------------------------------------------------------
