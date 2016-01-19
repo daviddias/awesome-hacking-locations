@@ -21,6 +21,8 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
   - [Bellevue, WA](#bellevue-wa)
 - [Poland](#poland-)
   - [Krakow](#krakow)
+- [Bulgaria](#bulgaria)
+  - [Sofia](#sofia)
 - [Brazil](#brazil-)
   - [Rio de Janeiro](#rio-de-janeiro)
 - [Turkey](#turkey-)
@@ -422,6 +424,23 @@ Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Krupnicza 12, 31-123 Kraków](https://goo.gl/maps/Q7GAvneeUiu) | Mon-Fri 8:00-20:00, Sat-Sun 10:00-19:00
 
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+# Bulgaria 🇧🇬
+
+## Sofia
+
+#### Fabrika Daga
+
+> Different types of coffee, great food
+
+Webpage: https://foursquare.com/v/фабрика-дъга/541969e5498e5713ab53d2ff
+
+Wifi | Power | Address | Open Hours
+-- | --- | -------------------------------------------------
+✔    | ✔  | [10 Veslets str., Sofia, Bulgaria](https://goo.gl/maps/XWFWmDT3nF62)| Mon-Fri 8:00-22:00,Sat 10:00-22:00, Sun 10:00-20:00
 ---------------------------------------------------------------
 ---------------------------------------------------------------
 
