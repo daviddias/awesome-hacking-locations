@@ -430,6 +430,8 @@ ask | ✔ |  [6900 East Green Lake Way N, Seattle, WA 98115](https://goo.gl/maps
 
 > Cafe in the former lobby of an 1880s hotel. Great coffee, beer, sweets & sandwiches.
 
+Webpage: http://www.mulberrycoffeehouse.com/
+
 Wifi| Power | Address  | Open Hours
 --- | --- | ------------------------------ | -------------------------------------------
 ✔ | ✔  |  [193 James St N, Hamilton, ON L8R 2L2, Canada](https://goo.gl/maps/zWdNUs9jNMy) | Mon-Tue 7:00-22:00, Wed-Fri 7:00-23:30, Sat 8:00-23:30, Sun 8:00-20:00
@@ -467,8 +469,9 @@ Wifi | Power | Address | Open Hours
 Webpage: https://foursquare.com/v/фабрика-дъга/541969e5498e5713ab53d2ff
 
 Wifi | Power | Address | Open Hours
--- | --- | ------------------------------------------------- | -----------------------
-✔  | ✔  | [10 Veslets str., Sofia, Bulgaria](https://goo.gl/maps/XWFWmDT3nF62)| Mon-Fri 8:00-22:00,Sat 10:00-22:00, Sun 10:00-20:00
+---- | ----- | ------- | ----------
+✔ | ✔ | [10 Veslets str., Sofia, Bulgaria](https://goo.gl/maps/XWFWmDT3nF62) | Mon-Fri 8:00-22:00,Sat 10:00-22:00, Sun 10:00-20:00
+
 
 #### SoHo
 
@@ -476,11 +479,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: http://soho.bg/
 
-Wifi | Power | Address  | Open Hours
--- | --- | --------------------------------------- | -------------------------
-✔ | ✔ |  [4 Iskar str., Sofia, Bulgaria](https://goo.gl/maps/X5X42uPqFJu) | Mon-Fri 9:00-19:00
-
-
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [4 Iskar str., Sofia, Bulgaria](https://goo.gl/maps/X5X42uPqFJu)  | Mon-Fri 9:00-19:00
 
 
 ---------------------------------------------------------------
