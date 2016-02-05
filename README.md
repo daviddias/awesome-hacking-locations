@@ -16,6 +16,7 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
 - [Hong Kong](#hong-kong-)
 - [United States](#united-states-)
   - [Mountain View, CA](#mountain-view-ca)
+  - [Palo Alto, CA](#palo-alto-ca)
   - [San Jose, CA](#san-jose)
   - [Chicago, IL](#chicago-il)
   - [Seattle, WA](#seattle-wa)
@@ -340,6 +341,18 @@ Wifi | Power | Address | Open Hours
 Wifi| Power  | Address | Open Hours
 ----|-------|--------|---------|----------
   ✔ | ✔| [201 Castro St, Mountain View, CA 94041](https://goo.gl/maps/PGtEs1GB6Wo) | Mon-Thu 7:00-22:00, Fri 7:00-23:00, Sat 8:00-23:00, Sun 8:00-20:00
+  
+## Palo Alto, CA <a id="palo-alto-ca"></a>
+
+#### HanaHaus
+
+> Historic Varsity Theatre location with free and reservable seats, well tuned wifi, and Blue Bottle Coffee.
+
+Webpage: http://hanahaus.com/
+
+Wifi| Power  | Address | Open Hours
+----|-------|--------|---------|----------
+  ✔ | ✔| [456 University Ave, Palo Alto, CA 94301](https://goo.gl/maps/B2Q66N7tdvP2) | Mon-Fri 7:00-19:00, Sat-Sun 8:00-19:00
 
 ## San Jose
 
