@@ -22,6 +22,7 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
   - [Seattle, WA](#seattle-wa)
   - [Bellevue, WA](#bellevue-wa)
   - [Boston, MA](#boston-ma)
+  - [Cambridge, MA](#cambridge-ma)
 - [Canada](#canada)
   - [Hamilton](#hamilton)
 - [Poland](#poland-)
