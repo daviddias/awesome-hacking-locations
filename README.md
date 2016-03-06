@@ -21,6 +21,8 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
   - [Chicago, IL](#chicago-il)
   - [Seattle, WA](#seattle-wa)
   - [Bellevue, WA](#bellevue-wa)
+  - [Boston, MA](#boston-ma)
+  - [Cambridge, MA](#cambridge-ma)
 - [Canada](#canada)
   - [Hamilton](#hamilton)
 - [Poland](#poland-)
@@ -406,6 +408,30 @@ open | ✔ | ✔ | [1111 110th Ave NE, Bellevue, WA 98004](https://goo.gl/maps/M
 Wifi | Power | Coffee | Address | Open Hours
 ---- | ----- | ------ | ------- | ----------
 1gbit | ✔ | ✔ | [1000 4th Ave, Seattle, WA 98104](https://goo.gl/maps/St7B69HGUKE2) | Mon-Thu 10:00-20:00, Fri-Sat 10:00-18:00, Sun 12:00-18:00
+
+## Boston, MA <a id="boston-ma"></a>
+
+#### District Hall
+
+> Open workspace with whiteboard walls, great coffee, moderately busy.
+
+Webpage: http://www.districthallboston.org/
+
+Wifi | Power | Coffee | Address | Open Hours
+---- | ----- | ------ | ------- | ----------
+open | ✔ | ✔ | [175 Northern Ave, Boston, MA 02210](https://goo.gl/maps/odxUyRJT2bS2) | Mon-Fri 08:00-02:00, Sat 12:00-02:00, Sun 12:00-21:00
+
+## Cambridge, MA <a id="cambridge-ma"></a>
+
+#### Toscanini's
+
+> Amazing coffee, tea, ice cream, moderately busy
+
+Webpage: http://www.tosci.com/
+
+Wifi | Power | Coffee | Address | Open Hours
+---- | ----- | ------ | ------- | ----------
+open | ✔ | ✔ | [1899 Main St, Cambridge, MA 02139](https://goo.gl/maps/moxJxcmX2bp) | Mon-Fri 08:00-23:00, Sat-Sun 09:00-23:00
 
 #### Zeitgeist
 
