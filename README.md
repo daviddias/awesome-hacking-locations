@@ -421,7 +421,7 @@ Wifi | Power | Coffee | Address | Open Hours
 ---- | ----- | ------ | ------- | ----------
 open | ✔ | ✔ | [175 Northern Ave, Boston, MA 02210](https://goo.gl/maps/odxUyRJT2bS2) | Mon-Fri 08:00-02:00, Sat 12:00-02:00, Sun 12:00-21:00
 
-## Boston, MA <a id="cambridge-ma"></a>
+## Cambridge, MA <a id="cambridge-ma"></a>
 
 #### Toscanini's
 
