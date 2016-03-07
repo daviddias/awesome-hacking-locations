@@ -447,6 +447,16 @@ Wifi | Power | Coffee | Address | Open Hours
 ---- | ----- | ------ | ------- | ----------
 open | ✔ | ✔ | [175 Northern Ave, Boston, MA 02210](https://goo.gl/maps/odxUyRJT2bS2) | Mon-Fri 08:00-02:00, Sat 12:00-02:00, Sun 12:00-21:00
 
+#### Pavement Coffeehouse
+
+> Great coffee, pretty busy
+
+Webpage: http://pavementcoffeehouse.com/content/736-commonwealth
+
+Wifi | Power | Coffee | Address | Open Hours
+---- | ----- | ------ | ------- | ----------
+open | ✔ | ✔ | [736 Commonwealth Avenue, Boston, MA 02215](https://goo.gl/maps/H3xzFxvo4nK2) | Mon-Fri 07:00-21:00, Sat 07:00-20:00, Sun 12:00-21:00
+
 ## Cambridge, MA <a id="cambridge-ma"></a>
 
 #### Toscanini's
