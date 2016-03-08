@@ -409,30 +409,6 @@ Wifi | Power | Coffee | Address | Open Hours
 ---- | ----- | ------ | ------- | ----------
 1gbit | ✔ | ✔ | [1000 4th Ave, Seattle, WA 98104](https://goo.gl/maps/St7B69HGUKE2) | Mon-Thu 10:00-20:00, Fri-Sat 10:00-18:00, Sun 12:00-18:00
 
-## Boston, MA <a id="boston-ma"></a>
-
-#### District Hall
-
-> Open workspace with whiteboard walls, great coffee, moderately busy.
-
-Webpage: http://www.districthallboston.org/
-
-Wifi | Power | Coffee | Address | Open Hours
----- | ----- | ------ | ------- | ----------
-open | ✔ | ✔ | [175 Northern Ave, Boston, MA 02210](https://goo.gl/maps/odxUyRJT2bS2) | Mon-Fri 08:00-02:00, Sat 12:00-02:00, Sun 12:00-21:00
-
-## Cambridge, MA <a id="cambridge-ma"></a>
-
-#### Toscanini's
-
-> Amazing coffee, tea, ice cream, moderately busy
-
-Webpage: http://www.tosci.com/
-
-Wifi | Power | Coffee | Address | Open Hours
----- | ----- | ------ | ------- | ----------
-open | ✔ | ✔ | [1899 Main St, Cambridge, MA 02139](https://goo.gl/maps/moxJxcmX2bp) | Mon-Fri 08:00-23:00, Sat-Sun 09:00-23:00
-
 #### Zeitgeist
 
 > Nice coffee shop, great espresso, moderately busy.
@@ -458,6 +434,40 @@ ask | ✔ | ✔ | [425 15th Ave E, Seattle, WA 98112](https://goo.gl/maps/2RFTNQ
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------ | ------- | ----------
 ask | ✔ |  [6900 East Green Lake Way N, Seattle, WA 98115](https://goo.gl/maps/hgjYxwLr8sS2) | Mon-Fri 6:00-21:00, Sat 7:00-21:00, Sun 7:00-20:00
+
+## Boston, MA <a id="boston-ma"></a>
+
+#### District Hall
+
+> Open workspace with whiteboard walls, great coffee, moderately busy.
+
+Webpage: http://www.districthallboston.org/
+
+Wifi | Power | Coffee | Address | Open Hours
+---- | ----- | ------ | ------- | ----------
+open | ✔ | ✔ | [175 Northern Ave, Boston, MA 02210](https://goo.gl/maps/odxUyRJT2bS2) | Mon-Fri 08:00-02:00, Sat 12:00-02:00, Sun 12:00-21:00
+
+#### Pavement Coffeehouse
+
+> Great coffee, pretty busy
+
+Webpage: http://pavementcoffeehouse.com/content/736-commonwealth
+
+Wifi | Power | Coffee | Address | Open Hours
+---- | ----- | ------ | ------- | ----------
+open | ✔ | ✔ | [736 Commonwealth Avenue, Boston, MA 02215](https://goo.gl/maps/H3xzFxvo4nK2) | Mon-Fri 07:00-21:00, Sat 07:00-20:00, Sun 12:00-21:00
+
+## Cambridge, MA <a id="cambridge-ma"></a>
+
+#### Toscanini's
+
+> Amazing coffee, tea, ice cream, moderately busy
+
+Webpage: http://www.tosci.com/
+
+Wifi | Power | Coffee | Address | Open Hours
+---- | ----- | ------ | ------- | ----------
+open | ✔ | ✔ | [1899 Main St, Cambridge, MA 02139](https://goo.gl/maps/moxJxcmX2bp) | Mon-Fri 08:00-23:00, Sat-Sun 09:00-23:00
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
