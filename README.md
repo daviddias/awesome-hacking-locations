@@ -16,10 +16,13 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
 - [Hong Kong](#hong-kong-)
 - [United States](#united-states-)
   - [Mountain View, CA](#mountain-view-ca)
+  - [Palo Alto, CA](#palo-alto-ca)
   - [San Jose, CA](#san-jose)
   - [Chicago, IL](#chicago-il)
   - [Seattle, WA](#seattle-wa)
   - [Bellevue, WA](#bellevue-wa)
+  - [Boston, MA](#boston-ma)
+  - [Cambridge, MA](#cambridge-ma)
 - [Canada](#canada)
   - [Hamilton](#hamilton)
 - [Poland](#poland-)
@@ -284,7 +287,7 @@ Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✘ | [Av. Visc. de Valmor 38, Lisboa, Portugal](https://goo.gl/maps/4DK3X2N89N42) |
 
-### O pão nosso
+#### O pão nosso
 
 > Great bakery, although small.
 
@@ -310,6 +313,7 @@ Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [R. Serpa Pinto 15A, 1200-026 Lisboa](https://goo.gl/maps/NNnXK6LkzFJ2) |
 
+![](http://www.speedtest.net/result/5118860858.png)
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
@@ -340,6 +344,18 @@ Wifi | Power | Address | Open Hours
 Wifi| Power  | Address | Open Hours
 ----|-------|--------|---------|----------
   ✔ | ✔| [201 Castro St, Mountain View, CA 94041](https://goo.gl/maps/PGtEs1GB6Wo) | Mon-Thu 7:00-22:00, Fri 7:00-23:00, Sat 8:00-23:00, Sun 8:00-20:00
+
+## Palo Alto, CA <a id="palo-alto-ca"></a>
+
+#### HanaHaus
+
+> Historic Varsity Theatre location with free and reservable seats, well tuned wifi, and Blue Bottle Coffee.
+
+Webpage: http://hanahaus.com/
+
+Wifi| Power  | Address | Open Hours
+----|-------|--------|---------|----------
+  ✔ | ✔| [456 University Ave, Palo Alto, CA 94301](https://goo.gl/maps/B2Q66N7tdvP2) | Mon-Fri 7:00-19:00, Sat-Sun 8:00-19:00
 
 ## San Jose
 
@@ -418,6 +434,40 @@ ask | ✔ | ✔ | [425 15th Ave E, Seattle, WA 98112](https://goo.gl/maps/2RFTNQ
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------ | ------- | ----------
 ask | ✔ |  [6900 East Green Lake Way N, Seattle, WA 98115](https://goo.gl/maps/hgjYxwLr8sS2) | Mon-Fri 6:00-21:00, Sat 7:00-21:00, Sun 7:00-20:00
+
+## Boston, MA <a id="boston-ma"></a>
+
+#### District Hall
+
+> Open workspace with whiteboard walls, great coffee, moderately busy.
+
+Webpage: http://www.districthallboston.org/
+
+Wifi | Power | Coffee | Address | Open Hours
+---- | ----- | ------ | ------- | ----------
+open | ✔ | ✔ | [175 Northern Ave, Boston, MA 02210](https://goo.gl/maps/odxUyRJT2bS2) | Mon-Fri 08:00-02:00, Sat 12:00-02:00, Sun 12:00-21:00
+
+#### Pavement Coffeehouse
+
+> Great coffee, pretty busy
+
+Webpage: http://pavementcoffeehouse.com/content/736-commonwealth
+
+Wifi | Power | Coffee | Address | Open Hours
+---- | ----- | ------ | ------- | ----------
+open | ✔ | ✔ | [736 Commonwealth Avenue, Boston, MA 02215](https://goo.gl/maps/H3xzFxvo4nK2) | Mon-Fri 07:00-21:00, Sat 07:00-20:00, Sun 12:00-21:00
+
+## Cambridge, MA <a id="cambridge-ma"></a>
+
+#### Toscanini's
+
+> Amazing coffee, tea, ice cream, moderately busy
+
+Webpage: http://www.tosci.com/
+
+Wifi | Power | Coffee | Address | Open Hours
+---- | ----- | ------ | ------- | ----------
+open | ✔ | ✔ | [1899 Main St, Cambridge, MA 02139](https://goo.gl/maps/moxJxcmX2bp) | Mon-Fri 08:00-23:00, Sat-Sun 09:00-23:00
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
