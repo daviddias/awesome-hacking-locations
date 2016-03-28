@@ -33,6 +33,8 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
   - [Rio de Janeiro](#rio-de-janeiro)
 - [Turkey](#turkey-)
   - [Istanbul](#istanbul)
+- [Cameroon](#cameroon-)
+  - [Buea](#buea)
 
 ## Contribute 🌟
 
@@ -565,3 +567,19 @@ Webpage: https://istanbulhs.org
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Eğitim Mh. Muratpaşa Cd. Altay Apt. No:11/A Kadıköy](https://istanbulhs.org/wiki/iletisim/) |
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+# Cameroon :cm:
+
+## Buea
+
+#### ActivSpaces
+
+Webpage: https://activspaces.com
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [ActivSpaces Buea, Fako Ship Plaza](https://activspaces.com/) | Mon-Fri 8:00-21:00, Sat-Sun 9:30-18:00
+
