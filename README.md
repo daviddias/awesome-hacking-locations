@@ -35,6 +35,8 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
   - [Istanbul](#istanbul)
 - [Cameroon](#cameroon-)
   - [Buea](#buea)
+- [Spain](#spain-)
+  - [Barcelona](#barcelona)
 
 ## Contribute 🌟
 
@@ -583,3 +585,19 @@ Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [ActivSpaces Buea, Fako Ship Plaza](https://activspaces.com/) | Mon-Fri 8:00-21:00, Sat-Sun 9:30-18:00
 
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+# Spain 🇪🇸
+
+## Barcelona
+
+#### Ideal
+
+> Cozy coffee shop which also serves natural juices and tasty food. Has a nice terrace on the back.
+
+Webpage: http://4sq.com/14xZ71H
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Marià Aguiló, 99, 08005 Barcelona Catalonia](https://goo.gl/maps/qZg6gmvAL4A2) |
