@@ -23,6 +23,7 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
   - [Bellevue, WA](#bellevue-wa)
   - [Boston, MA](#boston-ma)
   - [Cambridge, MA](#cambridge-ma)
+  - [New York, NY](#new-york-ny)
 - [Canada](#canada)
   - [Hamilton](#hamilton)
 - [Poland](#poland-)
@@ -473,6 +474,17 @@ Wifi | Power | Coffee | Address | Open Hours
 ---- | ----- | ------ | ------- | ----------
 open | ✔ | ✔ | [1899 Main St, Cambridge, MA 02139](https://goo.gl/maps/moxJxcmX2bp) | Mon-Fri 08:00-23:00, Sat-Sun 09:00-23:00
 
+## New York, NY <a id="new-york-ny"></a>
+
+#### Amazon AWS Loft
+
+> Free loft in soho sponsered by Amazon web services with free food, wifi, coffee and beer. 
+
+Webpage: https://aws.amazon.com/start-ups/loft/ny-loft/
+
+Wifi | Power | Coffee | Address | Open Hours
+---- | ----- | -------| ------- | ----------
+open, password on wall | ✔ | ✔ | [350 W Broadway, New York, NY 10013](https://goo.gl/maps/ZW3sm9LDkJm) | Open Monday - Friday, 10:00am - 6:00pm |
 ---------------------------------------------------------------
 ---------------------------------------------------------------
 
