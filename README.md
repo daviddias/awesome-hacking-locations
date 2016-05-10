@@ -485,6 +485,17 @@ Webpage: https://aws.amazon.com/start-ups/loft/ny-loft/
 Wifi | Power | Coffee | Address | Open Hours
 ---- | ----- | -------| ------- | ----------
 open, password on wall | ✔ | ✔ | [350 W Broadway, New York, NY 10013](https://goo.gl/maps/ZW3sm9LDkJm) | Open Monday - Friday, 10:00am - 6:00pm |
+
+#### Pushcart Coffee Chelsea 
+
+> Great community workspace with coffee, pastries and beer. 
+
+Webpage: http://www.pushcartcoffee.com/
+
+Wifi | Power | Coffee | Address | Open Hours
+---- | ----- | -------| ------- | ----------
+open, password on Wall | [401 W 25th St, New York, NY 10001](https://goo.gl/maps/52PdznrXbsF2) | Open Monday - Friday, 7:00am - 8:30pm Saturday - Sunday, 8:00am - 7:30pm |
+
 ---------------------------------------------------------------
 ---------------------------------------------------------------
 
