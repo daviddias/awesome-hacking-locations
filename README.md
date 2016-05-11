@@ -23,6 +23,7 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
   - [Bellevue, WA](#bellevue-wa)
   - [Boston, MA](#boston-ma)
   - [Cambridge, MA](#cambridge-ma)
+  - [Somerville, MA](#somerville-ma)
   - [New York, NY](#new-york-ny)
 - [Canada](#canada)
   - [Hamilton](#hamilton)
@@ -473,6 +474,41 @@ Webpage: http://www.tosci.com/
 Wifi | Power | Coffee | Address | Open Hours
 ---- | ----- | ------ | ------- | ----------
 open | ✔ | ✔ | [1899 Main St, Cambridge, MA 02139](https://goo.gl/maps/moxJxcmX2bp) | Mon-Fri 08:00-23:00, Sat-Sun 09:00-23:00
+
+## Somerville, MA <a id="somerville-ma"></a>
+
+#### Bloc 11
+
+> Same good food as Forge and Diesel, back room is nice, moderately busy, outdoor seating. If you have xfinity, good reception for wifi for that. Acid coffee.
+
+Webpage: http://blocsomerville.com/
+
+Wifi | Power | Coffee | Address | Open Hours
+---- | ----- | ------ | ------- | ----------
+paying | ✔ | ✔ | [11 bow st. union sq, Somerville, MA](https://goo.gl/maps/eytUQsvC6sB2) | Mon-Sun 07:00-20:00
+
+#### Diesel Cafe
+
+> Same good food as Bloc 11 and Forge, larger, more industrial, busy but always a space, standing desks at back, lots of resident coders. Acid coffee.
+
+Webpage: http://www.diesel-cafe.com/
+
+Wifi | Power | Coffee | Address | Open Hours
+---- | ----- | ------ | ------- | ----------
+paying | ✔ | ✔ | [257 Elm St, Somerville, MA 02144](https://goo.gl/maps/a8i57bKwvDz) | Mon-Fri 06:00-23:00, Sat-Sun 07:00-23:00
+
+Note: Contact [@richlitt](https://twitter.com/richlitt) for wifi password if needed.
+
+#### Forge Baking Company
+
+> Same good food as Bloc 11 and Diesel, busy, bright, not many plugs. Acidic coffee, no vietnamese coffee option.
+
+Webpage: http://www.forgebakingco.com/
+
+Wifi | Power | Coffee | Address | Open Hours
+---- | ----- | ------ | ------- | ----------
+paying | ✔ | ✔ | [626 Somerville Ave, Somerville, MA 02143](https://goo.gl/maps/gKjnLGtTYE62) | Mon-Fri 07:00-19:00
+
 
 ## New York, NY <a id="new-york-ny"></a>
 
