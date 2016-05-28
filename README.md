@@ -206,6 +206,16 @@ Wifi | Power | Address | Open Hours
 
 ![](http://www.speedtest.net/result/4987963541.png)
 
+#### Bibliothèque Sainte-Geneviève
+
+> After a rather quick and free registration process, you get a fancy card and get to come back and enjoy this library's ambience.
+
+Webpage: http://www-bsg.univ-paris1.fr
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [10 place du Panthéon (Rue Valette) 75005 Paris](https://goo.gl/maps/UpYmgQVLzML2) | Mon–Sat 10:00 AM–10:00 PM
+
 ---------------------------------------------------------------
 ---------------------------------------------------------------
 
