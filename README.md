@@ -690,6 +690,8 @@ Wifi | Power | Address | Open Hours
 
 # Germany 🇩🇪
 
+## Berlin
+
 #### Schiller Bar
 
 > Next to a bakery ; very quiet between 10:00 and 18:00 ; awesome (english-speaking) staff.
