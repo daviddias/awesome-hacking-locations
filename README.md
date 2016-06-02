@@ -34,6 +34,7 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
   - [Hamilton](#hamilton)
 - [Poland](#poland-)
   - [Krakow](#krakow)
+  - [Gliwice](#gliwice)
 - [Bulgaria](#bulgaria)
   - [Sofia](#sofia)
 - [Brazil](#brazil-)
@@ -591,6 +592,17 @@ Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Krupnicza 12, 31-123 Kraków](https://goo.gl/maps/Q7GAvneeUiu) | Mon-Fri 8:00-20:00, Sat-Sun 10:00-19:00
 
+## Gliwice
+
+#### Kafo
+
+> Great coffee shop. Location in the city center (near main square), high quality coffee and snacks. It's small, but cozy place. They have wifi.
+
+Webpage: http://kafo.info/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Józefa Wieczorka 14, 44-100 Gliwice](https://goo.gl/maps/3KBX4BrxovL2) | Mon-Fri 7:00-20:00, Sat 9:00-20:00, Sun 10:00-20:00
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
