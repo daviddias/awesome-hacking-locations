@@ -45,6 +45,9 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
   - [Buea](#buea)
 - [Spain](#spain-)
   - [Barcelona](#barcelona)
+- [Germany](#germany-)
+  - [Berlin](#berlin)
+
 
 ## Contribute 🌟
 
@@ -696,3 +699,17 @@ Webpage: http://4sq.com/14xZ71H
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Marià Aguiló, 99, 08005 Barcelona Catalonia](https://goo.gl/maps/qZg6gmvAL4A2) |
+
+# Germany 🇩🇪
+
+## Berlin
+
+#### Schiller Bar
+
+> Next to a bakery ; very quiet between 10:00 and 18:00 ; awesome (english-speaking) staff.
+
+Webpage: http://www.schillerbar.com
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Herrfurthstraße 7, 12049 Berlin](https://goo.gl/maps/LzTzgA64Jpv) | Mon-Sun 09:00–00:00
