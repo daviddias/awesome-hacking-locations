@@ -47,7 +47,9 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
   - [Barcelona](#barcelona)
 - [Germany](#germany-)
   - [Berlin](#berlin)
-
+- [United Kingdom](#united-kingdom-)
+  - [Scotland](#scotland)
+    - [Edinburgh](#edinburgh)
 
 ## Contribute 🌟
 
@@ -713,3 +715,24 @@ Webpage: http://www.schillerbar.com
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Herrfurthstraße 7, 12049 Berlin](https://goo.gl/maps/LzTzgA64Jpv) | Mon-Sun 09:00–00:00
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+# United Kingdom 🇺🇰
+
+## Scotland
+
+### Edinburgh
+
+#### BrewLab
+
+> Restoration hardware styled light cafe with professional brews, good seats, wifi, great music, food, in the old part of town.
+
+Webpage: www.brewlabcoffee.co.uk
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [6-8 South College Street, Edinburgh, EH8 9AA](https://goo.gl/maps/zBEETf2NjaB2) | Mon-Fri 8:00-18:00, Sat-Sun 9:00-18:00
+
+![](http://www.speedtest.net/result/5370523932.png)
