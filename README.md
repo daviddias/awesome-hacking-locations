@@ -13,6 +13,7 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
   - [Rome](#rome)
 - [Portugal](#portugal-)
   - [Lisbon](#lisbon)
+  - [Porto](#porto)
 - [Hong Kong](#hong-kong-)
 - [United States](#united-states-)
   - [California](#california)
@@ -341,6 +342,29 @@ Wifi | Power | Address | Open Hours
 ✔ | ✔ | [R. Serpa Pinto 15A, 1200-026 Lisboa](https://goo.gl/maps/NNnXK6LkzFJ2) |
 
 ![](http://www.speedtest.net/result/5118860858.png)
+
+## Porto
+
+#### Bop
+
+> Hipster vibes with massive record collection, coffee, beer, and tasty bagels.
+
+Webpage: https://www.bop.pt
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [R. da Firmeza 575, Porto, Portugal](https://goo.gl/maps/wpxTd6PzQEw) | Mon 12:30pm - 1:00am, Tue-Sun 10:00am - 1:00am
+
+#### Mesa 325
+
+> Good spot to while away a day with plenty of outlets, great coffee and cheap eats.
+
+Webpage: http://4sq.com/28XN73L
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Av. de Camilo 325, Porto, Portugal](https://goo.gl/maps/aVZ1cFWQatT2) | Mon - Fri 8:30am-7:00pm, Sat 10:00am - 7:00pm
+
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
