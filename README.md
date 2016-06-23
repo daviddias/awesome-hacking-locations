@@ -511,6 +511,7 @@ Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Av. de Camilo 325, Porto, Portugal](https://goo.gl/maps/aVZ1cFWQatT2) | Mon - Fri 8:30am-7:00pm, Sat 10:00am - 7:00pm
 
+![](http://www.speedtest.net/result/5425343488.png)
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
