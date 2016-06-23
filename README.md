@@ -5,52 +5,58 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
 
 ## Index
 
-- [Denmark](#denmark-)
-  - [Copenhagen](#copenhagen)
-- [France](#france-)
-  - [Paris](#paris)
-- [Italy](#italy-)
-  - [Rome](#rome)
-- [Portugal](#portugal-)
-  - [Lisbon](#lisbon)
-  - [Porto](#porto)
-- [Hong Kong](#hong-kong-)
-- [United States](#united-states-)
-  - [California](#california)
-    - [Mountain View, CA](#mountain-view-ca)
-    - [Palo Alto, CA](#palo-alto-ca)
-    - [San Jose, CA](#san-jose)
-  - [Illinois](#illinois)
-    - [Chicago, IL](#chicago-il)
-  - [Massachusetts](#massachusetts)
-    - [Boston, MA](#boston-ma)
-    - [Cambridge, MA](#cambridge-ma)
-    - [Somerville, MA](#somerville-ma)
-  - [New York](#new-york)
-    - [New York, NY](#new-york-ny)
-  - [Washington](#washington)
-    - [Seattle, WA](#seattle-wa)
-    - [Bellevue, WA](#bellevue-wa)
-- [Canada](#canada)
+- [Awesome Hacking Spots *](#awesome-hacking-spots-)
+  - [Index](#index)
+  - [Contribute 🌟](#contribute-)
+  - [Template](#template)
+  - [Hackerspaces](#hackerspaces)
+  - [CoWorking](#coworking)
+- [Brazil 🇧🇷](#brazil-)
+  - [Rio de Janeiro](#rio-de-janeiro)
+- [Bulgaria 🇧🇬](#bulgaria-)
+  - [Sofia](#sofia)
+- [Cameroon 🇨🇲](#cameroon-)
+  - [Buea](#buea)
+- [Canada 🇨🇦](#canada-)
   - [Hamilton](#hamilton)
-- [Poland](#poland-)
+- [Denmark 🇩🇰](#denmark-)
+  - [Copenhagen](#copenhagen)
+- [France 🇫🇷](#france-)
+  - [Paris](#paris)
+- [Germany 🇩🇪](#germany-)
+  - [Berlin](#berlin)
+- [Hong Kong 🇭🇰](#hong-kong-)
+- [Italy 🇮🇹](#italy-)
+  - [Rome](#rome)
+- [Poland 🇵🇱](#poland-)
   - [Krakow](#krakow)
   - [Gliwice](#gliwice)
-- [Bulgaria](#bulgaria)
-  - [Sofia](#sofia)
-- [Brazil](#brazil-)
-  - [Rio de Janeiro](#rio-de-janeiro)
-- [Turkey](#turkey-)
-  - [Istanbul](#istanbul)
-- [Cameroon](#cameroon-)
-  - [Buea](#buea)
-- [Spain](#spain-)
+- [Portugal 🇵🇹](#portugal-)
+  - [Lisbon](#lisbon)
+  - [Porto](#porto)
+- [Spain 🇪🇸](#spain-)
   - [Barcelona](#barcelona)
-- [Germany](#germany-)
-  - [Berlin](#berlin)
-- [United Kingdom](#united-kingdom-)
+- [Turkey 🇹🇷](#turkey-)
+  - [Istanbul](#istanbul)
+- [United Kingdom 🇺🇰](#united-kingdom-)
   - [Scotland](#scotland)
     - [Edinburgh](#edinburgh)
+- [United States 🇺🇸](#united-states-)
+  - [California <a id="california"></a>](#california-a-idcaliforniaa)
+    - [Mountain View, CA <a id="mountain-view-ca"></a>](#mountain-view-ca-a-idmountain-view-caa)
+    - [Palo Alto, CA <a id="palo-alto-ca"></a>](#palo-alto-ca-a-idpalo-alto-caa)
+    - [San Jose, CA](#san-jose-ca)
+  - [Illinois](#illinois)
+    - [Chicago, IL <a id="chicago-il"></a>](#chicago-il-a-idchicago-ila)
+  - [Massachusetts <a id="massachusetts"></a>](#massachusetts-a-idmassachusettsa)
+    - [Boston, MA <a id="boston-ma"></a>](#boston-ma-a-idboston-maa)
+    - [Cambridge, MA <a id="cambridge-ma"></a>](#cambridge-ma-a-idcambridge-maa)
+    - [Somerville, MA <a id="somerville-ma"></a>](#somerville-ma-a-idsomerville-maa)
+  - [New York <a id="new-york"></a>](#new-york-a-idnew-yorka)
+    - [New York, NY <a id="new-york-ny"></a>](#new-york-ny-a-idnew-york-nya)
+  - [Washington <a id="washington"></a>](#washington-a-idwashingtona)
+    - [Bellevue, WA <a id="bellevue-wa"></a>](#bellevue-wa-a-idbellevue-waa)
+  - [Seattle, WA <a id="seattle-wa"></a>](#seattle-wa-a-idseattle-waa)
 
 ## Contribute 🌟
 
@@ -83,6 +89,84 @@ Hackerspaces are great places to hack, and in fact they are so great that they h
 ## CoWorking
 
 CoWorking offices are awesome, but typically require a long term commitement, if you are looking for something more stable for a long term stay, look at http://coworkingmap.org/
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+# Brazil 🇧🇷
+
+## Rio de Janeiro
+
+#### Grama
+
+> Front-end company that supports open culture. Not too many seats, but fast wifi. It's free.
+
+Webpage: http://grama.cc/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+ask | ✔ | [Rua Sorocaba 190, Botafogo, Rio de Janeiro](https://goo.gl/maps/vPa8ZRbAjUx) | Mon-Fri 11:00-20:00, ask for a different time
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+# Bulgaria 🇧🇬
+
+## Sofia
+
+#### Fabrika Daga
+
+> Different types of coffee, great food
+
+Webpage: https://foursquare.com/v/фабрика-дъга/541969e5498e5713ab53d2ff
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [10 Veslets str., Sofia, Bulgaria](https://goo.gl/maps/XWFWmDT3nF62) | Mon-Fri 8:00-22:00,Sat 10:00-22:00, Sun 10:00-20:00
+
+
+#### SoHo
+
+> Co-working space, friendly hosts, artistic setting; has coffee, kitchen, bar and a garden. Entrance fee : 8 EUR to rent a desk
+
+Webpage: http://soho.bg/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [4 Iskar str., Sofia, Bulgaria](https://goo.gl/maps/X5X42uPqFJu)  | Mon-Fri 9:00-19:00
+
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+# Cameroon 🇨🇲
+
+## Buea
+
+#### ActivSpaces
+
+Webpage: https://activspaces.com
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [ActivSpaces Buea, Fako Ship Plaza](https://activspaces.com/) | Mon-Fri 8:00-21:00, Sat-Sun 9:30-18:00
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+# Canada 🇨🇦
+
+## Hamilton
+
+#### Mulberry Street Coffeehouse
+
+> Cafe in the former lobby of an 1880s hotel. Great coffee, beer, sweets & sandwiches.
+
+Webpage: http://www.mulberrycoffeehouse.com/
+
+Wifi| Power | Address  | Open Hours
+--- | --- | ------------------------------ | -------------------------------------------
+✔ | ✔  |  [193 James St N, Hamilton, ON L8R 2L2, Canada](https://goo.gl/maps/zWdNUs9jNMy) | Mon-Tue 7:00-22:00, Wed-Fri 7:00-23:30, Sat 8:00-23:30, Sun 8:00-20:00
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
@@ -226,6 +310,38 @@ Wifi | Power | Address | Open Hours
 ---------------------------------------------------------------
 ---------------------------------------------------------------
 
+# Germany 🇩🇪
+
+## Berlin
+
+#### Schiller Bar
+
+> Next to a bakery ; very quiet between 10:00 and 18:00 ; awesome (english-speaking) staff.
+
+Webpage: http://www.schillerbar.com
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Herrfurthstraße 7, 12049 Berlin](https://goo.gl/maps/LzTzgA64Jpv) | Mon-Sun 09:00–00:00
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+# Hong Kong 🇭🇰
+
+#### Pink Coffee
+
+> They have a standing desk!
+
+Webpage: https://www.facebook.com/PinkCoffeeHK
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Shop 305, D2 Place, Lai Chi Kok](https://goo.gl/maps/SuyKBeM86752) | Mon-Fri 8:00-21:00, Sat-Sun 9:30-18:00
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
 # Italy 🇮🇹
 
 ## Rome
@@ -239,6 +355,36 @@ Webpage: http://www.caffeperu.it/
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Via di Monserrato, 46, 00186 Roma](https://goo.gl/maps/HXioZUdXoPS2) | Mon-Thu 6:00-14:00, Fri-Sat 6:00-14:30, Sun 9:00-21:00
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+
+# Poland 🇵🇱
+
+## Krakow
+
+#### Karma Coffee
+
+> Awesome coffee shop. Multiple locations, only been to this one (closest to main square). Not too many seats, but fast wifi.
+
+Webpage: http://www.karmaroasters.com/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Krupnicza 12, 31-123 Kraków](https://goo.gl/maps/Q7GAvneeUiu) | Mon-Fri 8:00-20:00, Sat-Sun 10:00-19:00
+
+## Gliwice
+
+#### Kafo
+
+> Great coffee shop. Location in the city center (near main square), high quality coffee and snacks. It's small, but cozy place. They have wifi.
+
+Webpage: http://kafo.info/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Józefa Wieczorka 14, 44-100 Gliwice](https://goo.gl/maps/3KBX4BrxovL2) | Mon-Fri 7:00-20:00, Sat 9:00-20:00, Sun 10:00-20:00
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
@@ -369,17 +515,55 @@ Wifi | Power | Address | Open Hours
 ---------------------------------------------------------------
 ---------------------------------------------------------------
 
-# Hong Kong 🇭🇰
+# Spain 🇪🇸
 
-#### Pink Coffee
+## Barcelona
 
-> They have a standing desk!
+#### Ideal
 
-Webpage: https://www.facebook.com/PinkCoffeeHK
+> Cozy coffee shop which also serves natural juices and tasty food. Has a nice terrace on the back.
+
+Webpage: http://4sq.com/14xZ71H
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ✔ | [Shop 305, D2 Place, Lai Chi Kok](https://goo.gl/maps/SuyKBeM86752) | Mon-Fri 8:00-21:00, Sat-Sun 9:30-18:00
+✔ | ✔ | [Marià Aguiló, 99, 08005 Barcelona Catalonia](https://goo.gl/maps/qZg6gmvAL4A2) |
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+# Turkey 🇹🇷
+
+## Istanbul
+
+#### Istanbul HS
+
+Webpage: https://istanbulhs.org
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Eğitim Mh. Muratpaşa Cd. Altay Apt. No:11/A Kadıköy](https://istanbulhs.org/wiki/iletisim/) |
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+# United Kingdom 🇺🇰
+
+## Scotland
+
+### Edinburgh
+
+#### BrewLab
+
+> Restoration hardware styled light cafe with professional brews, good seats, wifi, great music, food, in the old part of town.
+
+Webpage: www.brewlabcoffee.co.uk
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [6-8 South College Street, Edinburgh, EH8 9AA](https://goo.gl/maps/zBEETf2NjaB2) | Mon-Fri 8:00-18:00, Sat-Sun 9:00-18:00
+
+![](http://www.speedtest.net/result/5370523932.png)
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
@@ -585,178 +769,3 @@ ask | ✔ | ✔ | [425 15th Ave E, Seattle, WA 98112](https://goo.gl/maps/2RFTNQ
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------ | ------- | ----------
 ask | ✔ |  [6900 East Green Lake Way N, Seattle, WA 98115](https://goo.gl/maps/hgjYxwLr8sS2) | Mon-Fri 6:00-21:00, Sat 7:00-21:00, Sun 7:00-20:00
-
----------------------------------------------------------------
----------------------------------------------------------------
-
-# Canada 🇨🇦
-
-## Hamilton
-
-#### Mulberry Street Coffeehouse
-
-> Cafe in the former lobby of an 1880s hotel. Great coffee, beer, sweets & sandwiches.
-
-Webpage: http://www.mulberrycoffeehouse.com/
-
-Wifi| Power | Address  | Open Hours
---- | --- | ------------------------------ | -------------------------------------------
-✔ | ✔  |  [193 James St N, Hamilton, ON L8R 2L2, Canada](https://goo.gl/maps/zWdNUs9jNMy) | Mon-Tue 7:00-22:00, Wed-Fri 7:00-23:30, Sat 8:00-23:30, Sun 8:00-20:00
-
-
----------------------------------------------------------------
----------------------------------------------------------------
-
-# Poland 🇵🇱
-
-## Krakow
-
-#### Karma Coffee
-
-> Awesome coffee shop. Multiple locations, only been to this one (closest to main square). Not too many seats, but fast wifi.
-
-Webpage: http://www.karmaroasters.com/
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Krupnicza 12, 31-123 Kraków](https://goo.gl/maps/Q7GAvneeUiu) | Mon-Fri 8:00-20:00, Sat-Sun 10:00-19:00
-
-## Gliwice
-
-#### Kafo
-
-> Great coffee shop. Location in the city center (near main square), high quality coffee and snacks. It's small, but cozy place. They have wifi.
-
-Webpage: http://kafo.info/
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Józefa Wieczorka 14, 44-100 Gliwice](https://goo.gl/maps/3KBX4BrxovL2) | Mon-Fri 7:00-20:00, Sat 9:00-20:00, Sun 10:00-20:00
-
----------------------------------------------------------------
----------------------------------------------------------------
-
-# Bulgaria 🇧🇬
-
-## Sofia
-
-#### Fabrika Daga
-
-> Different types of coffee, great food
-
-Webpage: https://foursquare.com/v/фабрика-дъга/541969e5498e5713ab53d2ff
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [10 Veslets str., Sofia, Bulgaria](https://goo.gl/maps/XWFWmDT3nF62) | Mon-Fri 8:00-22:00,Sat 10:00-22:00, Sun 10:00-20:00
-
-
-#### SoHo
-
-> Co-working space, friendly hosts, artistic setting; has coffee, kitchen, bar and a garden. Entrance fee : 8 EUR to rent a desk
-
-Webpage: http://soho.bg/
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [4 Iskar str., Sofia, Bulgaria](https://goo.gl/maps/X5X42uPqFJu)  | Mon-Fri 9:00-19:00
-
-
----------------------------------------------------------------
----------------------------------------------------------------
-
-# Brazil 🇧🇷
-
-## Rio de Janeiro
-
-#### Grama
-
-> Front-end company that supports open culture. Not too many seats, but fast wifi. It's free.
-
-Webpage: http://grama.cc/
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-ask | ✔ | [Rua Sorocaba 190, Botafogo, Rio de Janeiro](https://goo.gl/maps/vPa8ZRbAjUx) | Mon-Fri 11:00-20:00, ask for a different time
-
----------------------------------------------------------------
----------------------------------------------------------------
-
-# Turkey 🇹🇷
-
-## Istanbul
-
-#### Istanbul HS
-
-Webpage: https://istanbulhs.org
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Eğitim Mh. Muratpaşa Cd. Altay Apt. No:11/A Kadıköy](https://istanbulhs.org/wiki/iletisim/) |
-
----------------------------------------------------------------
----------------------------------------------------------------
-
-# Cameroon 🇨🇲
-
-## Buea
-
-#### ActivSpaces
-
-Webpage: https://activspaces.com
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [ActivSpaces Buea, Fako Ship Plaza](https://activspaces.com/) | Mon-Fri 8:00-21:00, Sat-Sun 9:30-18:00
-
----------------------------------------------------------------
----------------------------------------------------------------
-
-# Spain 🇪🇸
-
-## Barcelona
-
-#### Ideal
-
-> Cozy coffee shop which also serves natural juices and tasty food. Has a nice terrace on the back.
-
-Webpage: http://4sq.com/14xZ71H
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Marià Aguiló, 99, 08005 Barcelona Catalonia](https://goo.gl/maps/qZg6gmvAL4A2) |
-
-# Germany 🇩🇪
-
-## Berlin
-
-#### Schiller Bar
-
-> Next to a bakery ; very quiet between 10:00 and 18:00 ; awesome (english-speaking) staff.
-
-Webpage: http://www.schillerbar.com
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Herrfurthstraße 7, 12049 Berlin](https://goo.gl/maps/LzTzgA64Jpv) | Mon-Sun 09:00–00:00
-
----------------------------------------------------------------
----------------------------------------------------------------
-
-# United Kingdom 🇺🇰
-
-## Scotland
-
-### Edinburgh
-
-#### BrewLab
-
-> Restoration hardware styled light cafe with professional brews, good seats, wifi, great music, food, in the old part of town.
-
-Webpage: www.brewlabcoffee.co.uk
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [6-8 South College Street, Edinburgh, EH8 9AA](https://goo.gl/maps/zBEETf2NjaB2) | Mon-Fri 8:00-18:00, Sat-Sun 9:00-18:00
-
-![](http://www.speedtest.net/result/5370523932.png)
