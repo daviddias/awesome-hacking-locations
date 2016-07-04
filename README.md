@@ -548,7 +548,20 @@ Wifi | Power | Address | Open Hours
 ---------------------------------------------------------------
 ---------------------------------------------------------------
 
-# United Kingdom 🇺🇰
+# United Kingdom 🇬🇧
+## England
+
+### London
+
+#### London Hackspace
+
+> Access to C&C Mill, Laser cutter, 3d printer(s) & more. Food & drinks available
+
+Webpage: https://london.hackspace.org.uk/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [447 Hackney Road, London, E2 9DY](https://goo.gl/maps/iyzxMYzKocw) | 24/7 (Members Only)
 
 ## Scotland
 
