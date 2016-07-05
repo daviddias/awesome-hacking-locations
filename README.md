@@ -1,4 +1,4 @@
-Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+wesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ===============================
 
 > List of Awesome Hacking places, organised by Country and City, listing if it features power and wifi. Inspired by the [awesome lists](https://github.com/sindresorhus/awesome) thing.
@@ -530,7 +530,7 @@ Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Marià Aguiló, 99, 08005 Barcelona Catalonia](https://goo.gl/maps/qZg6gmvAL4A2) | 
 
-![](git@github.com:diasdavid/awesome-hacking-spots.git)
+![](http://www.speedtest.net/result/5453643373.png)
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
