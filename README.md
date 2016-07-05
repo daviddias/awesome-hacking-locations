@@ -528,7 +528,9 @@ Webpage: http://4sq.com/14xZ71H
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ✔ | [Marià Aguiló, 99, 08005 Barcelona Catalonia](https://goo.gl/maps/qZg6gmvAL4A2) |
+✔ | ✔ | [Marià Aguiló, 99, 08005 Barcelona Catalonia](https://goo.gl/maps/qZg6gmvAL4A2) | 
+
+![](git@github.com:diasdavid/awesome-hacking-spots.git)
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
