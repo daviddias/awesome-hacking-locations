@@ -532,6 +532,18 @@ Wifi | Power | Address | Open Hours
 
 ![](http://www.speedtest.net/result/5453643373.png)
 
+#### Joliu
+
+> Coffee shop with a great ambiance (Full of plants and music delicious to the ear)
+
+Webpage: http://espaijoliu.tumblr.com/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Carrer de Badajoz 95. Poblenou. Barcelona](https://goo.gl/maps/jtdnk5FfwL72) | 
+
+![](http://www.speedtest.net/result/5456163855.png)
+
 ---------------------------------------------------------------
 ---------------------------------------------------------------
 
