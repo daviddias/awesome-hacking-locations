@@ -501,6 +501,18 @@ Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [R. da Firmeza 575, Porto, Portugal](https://goo.gl/maps/wpxTd6PzQEw) | Mon 12:30pm - 1:00am, Tue-Sun 10:00am - 1:00am
 
+#### Embaixado
+
+> Quiet cafe with nice music, empty upstairs, great salad, and cool dances at night.
+
+Webpage: embaixadaporto.com
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Praça de Carlos Alberto 121, Porto, Portugal](https://goo.gl/maps/EkUoagQm5Ym) |
+
+![](http://www.speedtest.net/result/5456704202.png)
+
 #### Mesa 325
 
 > Good spot to while away a day with plenty of outlets, great coffee and cheap eats.
