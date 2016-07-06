@@ -544,6 +544,18 @@ Wifi | Power | Address | Open Hours
 
 ![](http://www.speedtest.net/result/5456163855.png)
 
+#### True Artisan Cafe
+
+> Super central and the baristas are really nice. 
+
+Webpage: https://www.facebook.com/trueartisancafe/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Passatge de Sant Benet, 6, 08003 Barcelona](https://goo.gl/maps/aQRFhmnGmkn) | 
+
+![](http://www.speedtest.net/result/5456649700.png)
+
 ---------------------------------------------------------------
 ---------------------------------------------------------------
 
