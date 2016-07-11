@@ -501,6 +501,8 @@ Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [R. da Firmeza 575, Porto, Portugal](https://goo.gl/maps/wpxTd6PzQEw) | Mon 12:30pm - 1:00am, Tue-Sun 10:00am - 1:00am
 
+![](http://www.speedtest.net/result/5468130872.png)
+
 #### Mesa 325
 
 > Good spot to while away a day with plenty of outlets, great coffee and cheap eats.
