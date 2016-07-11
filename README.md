@@ -395,7 +395,7 @@ Wifi | Power | Address | Open Hours
 
 #### Velocité Cafe
 
-> Awesome bike shop that has really good sandwitches and coffee (plus you get a discount if you arrive on a bike)
+> Awesome bike shop that has really good sandwiches and coffee (plus you get a discount if you arrive on a bike).
 
 Webpage: http://velocitecafe.com
 
@@ -405,7 +405,7 @@ Wifi | Power | Address | Open Hours
 
 #### Copenhagen Coffee Lab, Lisboa
 
-> Pour over, aeropress, espressoo - this place got it all
+> Pour over, aeropress, espressoo - this place has got it all.
 
 Webpage: http://copenhagencoffeelab.com/lissabon/
 
@@ -415,7 +415,7 @@ Wifi | Power | Address | Open Hours
 
 #### Café Tati
 
-> Good homemade food, friendly people and nice atmosphere
+> Good homemade food, friendly people and nice atmosphere.
 
 Webpage: http://www.cafetati.blogspot.dk
 
@@ -443,7 +443,7 @@ Wifi | Power | Address | Open Hours
 
 #### Fábrica Coffee Roasters
 
-> One of the places in Lisbon where they actually understand coffee
+> One of the places in Lisbon where they actually understand coffee.
 
 Webpage: http://4sq.com/1dQaY6h
 
@@ -453,7 +453,7 @@ Wifi | Power | Address | Open Hours
 
 #### Melt
 
-> Really nice brunches (plus they do Chouriço Assado, perfect for hacking :P)
+> Really nice brunches (plus they do Chouriço Assado, perfect for hacking :P).
 
 Webpage: http://melt-portugal.blogspot.de/
 
