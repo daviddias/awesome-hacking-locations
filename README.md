@@ -26,7 +26,9 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
 - [Germany 🇩🇪](#germany-)
   - [Berlin](#berlin)
 - [Hong Kong 🇭🇰](#hong-kong-)
-- [Italy 🇮🇹](#italy-)
+- [India 🇮🇳] (#india-)
+  - [Hyderabad] (#hyderabad) 
+- [Italy 🇮🇹](#italIy-)
   - [Rome](#rome)
 - [Poland 🇵🇱](#poland-)
   - [Krakow](#krakow)
@@ -338,6 +340,23 @@ Webpage: https://www.facebook.com/PinkCoffeeHK
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Shop 305, D2 Place, Lai Chi Kok](https://goo.gl/maps/SuyKBeM86752) | Mon-Fri 8:00-21:00, Sat-Sun 9:30-18:00
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+# India 🇮🇳
+
+## Hyderabad 
+
+#### Whiteboard Cafe
+
+> Healthy food, books, printer, fast wifi
+
+Webpage: http://www.whiteboard.cafe, [Zomato](https://www.zomato.com/whiteboardcafe)
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Plot 15/1, 1st Floor, Sector 2, Opposite Cyber Gateway, Hitech City, Hyderabad](https://goo.gl/maps/XkwPfawQWrp) | Mon-Sun 8:00-22:00
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
