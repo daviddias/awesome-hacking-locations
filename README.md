@@ -614,7 +614,7 @@ Webpage: http://www.denizlihs.org/
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ✔ | [Çamlaraltı Mah. Hüseyin Yılmaz Cad. No:67 Pamukkale/Denizli]|
+✔ | ✔ | [Çamlaraltı Mah. Hüseyin Yılmaz Cad. No:67 Pamukkale/Denizli](https://www.google.com.tr/maps/@37.7382126,29.0916182,18z)|
 ---------------------------------------------------------------
 ---------------------------------------------------------------
 
