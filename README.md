@@ -727,6 +727,18 @@ Wifi | Power | Coffee | Address | Open Hours
 ---- | ----- | ------ | ------- | ----------
 open | ✔ | ✔ | [736 Commonwealth Avenue, Boston, MA 02215](https://goo.gl/maps/H3xzFxvo4nK2) | Mon-Fri 07:00-21:00, Sat 07:00-20:00, Sun 12:00-21:00
 
+#### Pavement Coffeehouse
+
+> Great coffee, pretty busy. Lots of plugs, good music.
+
+Webpage: http://www.pavementcoffeehouse.com/content/44-gainsborough
+
+Wifi | Power | Coffee | Address | Open Hours
+---- | ----- | ------ | ------- | ----------
+open | ✔ | ✔ | [44 Gainsborough St, Boston, MA 02115](https://goo.gl/maps/wFZENJE3ppm) | Mon-Sun 07:00-20:00
+
+![Speedtest](http://www.speedtest.net/result/5528734206.png)
+
 ### Cambridge, MA <a id="cambridge-ma"></a>
 
 #### Toscanini's
