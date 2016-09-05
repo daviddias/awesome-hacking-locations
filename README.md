@@ -44,6 +44,7 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
   - [Scotland](#scotland)
     - [Edinburgh](#edinburgh)
 - [United States 🇺🇸](#united-states-)
+  - [Arizona <a id="arizona"></a>](#arizona)
   - [California <a id="california"></a>](#california-a-idcaliforniaa)
     - [Mountain View, CA <a id="mountain-view-ca"></a>](#mountain-view-ca-a-idmountain-view-caa)
     - [Palo Alto, CA <a id="palo-alto-ca"></a>](#palo-alto-ca-a-idpalo-alto-caa)
@@ -647,6 +648,18 @@ Wifi | Power | Address | Open Hours
 
 # United States 🇺🇸
 
+## Arizona <a id="arizona"></a>
+
+### Tucson, AZ <a id="tucson-az"></a>
+
+#### Shot in the Dark Cafe
+
+> local art, some food, kind of punk/dingy, lots of people at their computers, 24/7
+
+Wifi| Power  | Address | Open Hours
+----|-------|--------|---------|----------
+  ✔ | ✔| [21 E Broadway Blvd, Tucson, AZ 85701](https://goo.gl/maps/WUJjwGczYS42) |24/7
+  
 ## California <a id="california"></a>
 
 ### Mountain View, CA <a id="mountain-view-ca"></a>
