@@ -27,7 +27,7 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
   - [Berlin](#berlin)
 - [Hong Kong 🇭🇰](#hong-kong-)
 - [India 🇮🇳] (#india-)
-  - [Hyderabad] (#hyderabad) 
+  - [Hyderabad] (#hyderabad)
 - [Italy 🇮🇹](#italIy-)
   - [Rome](#rome)
 - [Poland 🇵🇱](#poland-)
@@ -225,6 +225,8 @@ Wifi | Power | Address | Open Hours
 
 #### Riccos Kaffebar (Sluseholmen)
 
+> Make sure to get the rye bread sandwiches. Their advocadomad+kartoffelmad are sublime
+
 Webpage: http://www.riccos.dk
 
 Wifi | Power | Address | Open Hours
@@ -346,7 +348,7 @@ Wifi | Power | Address | Open Hours
 
 # India 🇮🇳
 
-## Hyderabad 
+## Hyderabad
 
 #### Whiteboard Cafe
 
@@ -563,7 +565,7 @@ Webpage: http://4sq.com/14xZ71H
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ✔ | [Marià Aguiló, 99, 08005 Barcelona Catalonia](https://goo.gl/maps/qZg6gmvAL4A2) | 
+✔ | ✔ | [Marià Aguiló, 99, 08005 Barcelona Catalonia](https://goo.gl/maps/qZg6gmvAL4A2) |
 
 ![](http://www.speedtest.net/result/5453643373.png)
 
@@ -575,19 +577,19 @@ Webpage: http://espaijoliu.tumblr.com/
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ✔ | [Carrer de Badajoz 95. Poblenou. Barcelona](https://goo.gl/maps/jtdnk5FfwL72) | 
+✔ | ✔ | [Carrer de Badajoz 95. Poblenou. Barcelona](https://goo.gl/maps/jtdnk5FfwL72) |
 
 ![](http://www.speedtest.net/result/5456163855.png)
 
 #### True Artisan Cafe
 
-> Super central and the baristas are really nice. 
+> Super central and the baristas are really nice.
 
 Webpage: https://www.facebook.com/trueartisancafe/
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ✔ | [Passatge de Sant Benet, 6, 08003 Barcelona](https://goo.gl/maps/aQRFhmnGmkn) | 
+✔ | ✔ | [Passatge de Sant Benet, 6, 08003 Barcelona](https://goo.gl/maps/aQRFhmnGmkn) |
 
 ![](http://www.speedtest.net/result/5456649700.png)
 
@@ -791,7 +793,7 @@ paying | ✔ | ✔ | [626 Somerville Ave, Somerville, MA 02143](https://goo.gl/m
 
 #### Amazon AWS Loft
 
-> Free loft in soho sponsered by Amazon web services with free food, wifi, coffee and beer. 
+> Free loft in soho sponsered by Amazon web services with free food, wifi, coffee and beer.
 
 Webpage: https://aws.amazon.com/start-ups/loft/ny-loft/
 
@@ -799,9 +801,9 @@ Wifi | Power | Coffee | Address | Open Hours
 ---- | ----- | -------| ------- | ----------
 open, password on wall | ✔ | ✔ | [350 W Broadway, New York, NY 10013](https://goo.gl/maps/ZW3sm9LDkJm) | Open Monday - Friday, 10:00am - 6:00pm |
 
-#### Pushcart Coffee Chelsea 
+#### Pushcart Coffee Chelsea
 
-> Great community workspace with coffee, pastries and beer. 
+> Great community workspace with coffee, pastries and beer.
 
 Webpage: http://www.pushcartcoffee.com/
 
