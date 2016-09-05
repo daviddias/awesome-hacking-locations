@@ -338,7 +338,7 @@ Webpage: [ascii-dresden.de](http://ascii-dresden.de)
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ (eduroam) | ✔ | [Nöthnitzerstr. 46, 01187 Dresden](https://goo.gl/maps/74VwX2opdDG2) | Mon-Thu 9:00-17:00; Fri 9:00-15:00
+(eduroam only) | ✔ | [Nöthnitzerstr. 46, 01187 Dresden](https://goo.gl/maps/74VwX2opdDG2) | Mon-Thu 9:00-17:00; Fri 9:00-15:00
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
