@@ -25,6 +25,7 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
   - [Paris](#paris)
 - [Germany 🇩🇪](#germany-)
   - [Berlin](#berlin)
+  - [Dresden](#dresden)
 - [Hong Kong 🇭🇰](#hong-kong-)
 - [India 🇮🇳] (#india-)
   - [Hyderabad] (#hyderabad)
@@ -328,6 +329,19 @@ Webpage: http://www.schillerbar.com
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Herrfurthstraße 7, 12049 Berlin](https://goo.gl/maps/LzTzgA64Jpv) | Mon-Sun 09:00–00:00
+
+## Dresden
+
+#### ascii
+
+> Café inside the faculty of Computer Science of the Dresden University of Technology; 
+> always filled with friendly and helpful people, no matter the topic 
+
+Webpage: [ascii-dresden.de](http://ascii-dresden.de)
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+(eduroam only) | ✔ | [Nöthnitzerstr. 46, 01187 Dresden](https://goo.gl/maps/74VwX2opdDG2) | Mon-Thu 9:00-17:00; Fri 9:00-15:00
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
