@@ -31,6 +31,8 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
   - [Hyderabad] (#hyderabad)
 - [Italy 🇮🇹](#italIy-)
   - [Rome](#rome)
+- [Netherlands 🇳🇱](#netherlands-)
+  - [Amsterdam](#amsterdam)
 - [Poland 🇵🇱](#poland-)
   - [Krakow](#krakow)
   - [Gliwice](#gliwice)
@@ -395,6 +397,22 @@ Wifi | Power | Address | Open Hours
 ---------------------------------------------------------------
 ---------------------------------------------------------------
 
+# Netherlands 🇳🇱
+
+## Amsterdam
+
+#### YsBreeker
+
+> Big beautiful and friendly cafe. Incredibly fast wifi and tons of seating. Very good food and high quality coffee drinks.
+
+Webpage: http://www.deysbreeker.nl/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Weesperzijde 23, 1091 EC Amsterdam, Netherlands](http://goo.gl/qLPEjU) | Sun-Thu 8AM-1AM, Fri-Sat 8AM-2AM
+
+---------------------------------------------------------------
+---------------------------------------------------------------
 
 # Poland 🇵🇱
 
