@@ -189,7 +189,7 @@ Webpage: http://copenhagencoffeelab.com/kaffebaren/
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-  | ✔ | [Boldhusgade 6, 1062 København K](https://goo.gl/maps/nN7zjHsSmcU2) | Mon-Fri 7:30-17:00, Sat 11:00-17.00
+✘ | ✔ | [Boldhusgade 6, 1062 København K](https://goo.gl/maps/nN7zjHsSmcU2) | Mon-Fri 7:30-17:00, Sat 11:00-17.00
 
 #### The Coffee Collective (Godthåbsvej)
 
