@@ -26,6 +26,7 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
 - [Germany 🇩🇪](#germany-)
   - [Berlin](#berlin)
   - [Dresden](#dresden)
+  - [Munich](#munich)
 - [Hong Kong 🇭🇰](#hong-kong-)
 - [India 🇮🇳] (#india-)
   - [Hyderabad] (#hyderabad)
@@ -33,10 +34,12 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
   - [Rome](#rome)
 - [Netherlands 🇳🇱](#netherlands-)
   - [Amsterdam](#amsterdam)
+  - [Delft](#delft)
 - [Poland 🇵🇱](#poland-)
   - [Krakow](#krakow)
   - [Gliwice](#gliwice)
 - [Portugal 🇵🇹](#portugal-)
+  - [Aveiro](#aveiro)
   - [Lisbon](#lisbon)
   - [Porto](#porto)
 - [Spain 🇪🇸](#spain-)
@@ -345,6 +348,18 @@ Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 (eduroam only) | ✔ | [Nöthnitzerstr. 46, 01187 Dresden](https://goo.gl/maps/74VwX2opdDG2) | Mon-Thu 9:00-17:00; Fri 9:00-15:00
 
+## Munich
+
+#### Lost Weekend
+
+> Trendy coffee place + bookstore + vegan food; always filled with students during the weekend
+
+Webpage: [lostweekend.de](http://lostweekend.de)
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Schellingstr. 3, 80799 Munich](https://goo.gl/maps/XjseoLrhLS92) | Mon-Fri 8:00-20:00; Sat 10:00-20:00; Sun 12:00-18:00
+
 ---------------------------------------------------------------
 ---------------------------------------------------------------
 
@@ -401,6 +416,16 @@ Wifi | Power | Address | Open Hours
 
 ## Amsterdam
 
+#### Dwaze Zaken
+
+> Near the Amsterdam Central Station; Good food; Live music every Monday starting at 20:00
+
+Webpage: [dwazezaken.nl](http://www.dwazezaken.nl/)
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Prins Hendrikkade 50, 1012 AC Amsterdam, Netherlands](https://goo.gl/maps/fZ1feyFpyMn) | Mon-Sat 9:00-00:00, Sun 9:00-17:30
+
 #### YsBreeker
 
 > Big beautiful and friendly cafe. Incredibly fast wifi and tons of seating. Very good food and high quality coffee drinks.
@@ -410,6 +435,18 @@ Webpage: http://www.deysbreeker.nl/
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Weesperzijde 23, 1091 EC Amsterdam, Netherlands](http://goo.gl/qLPEjU) | Sun-Thu 8AM-1AM, Fri-Sat 8AM-2AM
+
+## Delft
+
+#### Kek
+
+> Near the Delft Central Station; Good food; Hipster place; Has a small store (great for last minute gifts)
+
+Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Voldersgracht 27, Delft, Netherlands](https://goo.gl/maps/PUKMd1YMKPD2) | Mon-Fri 8:30-18:00, Sat-Sun 9:00-18:00
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
@@ -444,6 +481,18 @@ Wifi | Power | Address | Open Hours
 ---------------------------------------------------------------
 
 # Portugal 🇵🇹
+
+## Aveiro
+
+#### Mercado Negro
+
+> Old refurnished house; vintage; good for night owl hackers that just wanted to get something done
+
+Webpage: [mercadonegro-aveiro.blogspot.pt](http://mercadonegro-aveiro.blogspot.pt)
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Rua Joao Mendonca 17, 3880-200 Aveiro](https://goo.gl/maps/ay2aTFp8EQr) | Tue-Thu, Sun 20:00-01:00, Fri-Sat 20:00-2:00
 
 ## Lisbon
 
