@@ -583,6 +583,20 @@ Wifi | Power | Address | Open Hours
 
 ![](http://www.speedtest.net/result/5425343488.png)
 
+## Viana do Castelo
+
+#### Pastelaria Jardim
+
+> Hacking with a great view of the city's park
+
+Webpage: https://pt.foursquare.com/v/pastelaria-jardim/4f1c28e5e4b08fa665830c09<Paste>
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Rua Joao Tomas da Costa, Viana do Castelo 4900-509, Portugal](https://goo.gl/maps/bpfWKYvfsTk) |
+
+![](http://www.speedtest.net/result/5643463433.png)
+
 ---------------------------------------------------------------
 ---------------------------------------------------------------
 
