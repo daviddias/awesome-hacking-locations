@@ -42,6 +42,7 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
   - [Aveiro](#aveiro)
   - [Lisbon](#lisbon)
   - [Porto](#porto)
+  - [Viana do Castelo](#viana-do-castelo)
 - [Spain 🇪🇸](#spain-)
   - [Barcelona](#barcelona)
 - [Turkey 🇹🇷](#turkey-)
@@ -645,6 +646,18 @@ Wifi | Power | Address | Open Hours
 ✔ | ✔ | [Rua Joao Tomas da Costa, Viana do Castelo 4900-509, Portugal](https://goo.gl/maps/bpfWKYvfsTk) |
 
 ![](http://www.speedtest.net/result/5643463433.png)
+
+#### Casinha Boutique Café
+
+> Quiet place near the city center, with lots of natural light and a good selection of snacks and salads.
+
+Webpage: https://pt.foursquare.com/v/casinha-boutique-caf%C3%A9/53909128498ec1bfd0cfcb7a
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Rua Cândido Dos Reis, N° 20](https://goo.gl/maps/bpfWKYvfsTk) |
+
+![](http://www.speedtest.net/result/5644569150.png)
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
