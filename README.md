@@ -702,6 +702,20 @@ Wifi | Power | Address | Open Hours
 
 ![](http://www.speedtest.net/result/5456649700.png)
 
+## Oviedo
+
+#### 26Grados
+
+> Super central, powerfull wifi and awestome biscuits.
+
+Webpage: http://www.26grados.com/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Calle Rosal, 13, 33009 Oviedo, Asturias](hhttps://goo.gl/maps/btPUB2EHodR2) |
+
+![](http://www.speedtest.net/result/5453643373.png)
+
 ---------------------------------------------------------------
 ---------------------------------------------------------------
 
