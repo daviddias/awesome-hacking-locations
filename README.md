@@ -340,8 +340,8 @@ Wifi | Power | Address | Open Hours
 
 #### ascii
 
-> Café inside the faculty of Computer Science of the Dresden University of Technology; 
-> always filled with friendly and helpful people, no matter the topic 
+> Café inside the faculty of Computer Science of the Dresden University of Technology;
+> always filled with friendly and helpful people, no matter the topic
 
 Webpage: [ascii-dresden.de](http://ascii-dresden.de)
 
@@ -595,6 +595,16 @@ Wifi | Power | Address | Open Hours
 
 ![](http://www.speedtest.net/result/5118860858.png)
 
+#### Strudel
+
+> It's central and at the same time quiet, has maybe the best Strudel in Lisbon.
+
+Webpage: http://4sq.com/IfaNBS
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Av. Miguel Bombarda, 5A Lisboa](https://goo.gl/maps/s2Hu3uxQcJM2) | Mon-Fri 07:30 - 19:00, Sat-Sun 08:00 - 19:00
+
 ## Porto
 
 #### Bop
@@ -767,7 +777,7 @@ Wifi | Power | Address | Open Hours
 Wifi| Power  | Address | Open Hours
 ----|-------|--------|---------|----------
   ✔ | ✔| [21 E Broadway Blvd, Tucson, AZ 85701](https://goo.gl/maps/WUJjwGczYS42) |24/7
-  
+
 ## California <a id="california"></a>
 
 ### Mountain View, CA <a id="mountain-view-ca"></a>
