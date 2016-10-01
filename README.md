@@ -40,6 +40,7 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
   - [Gliwice](#gliwice)
 - [Portugal 🇵🇹](#portugal-)
   - [Aveiro](#aveiro)
+  - [Braga](#braga)
   - [Lisbon](#lisbon)
   - [Porto](#porto)
   - [Viana do Castelo](#viana-do-castelo)
@@ -494,6 +495,20 @@ Webpage: [mercadonegro-aveiro.blogspot.pt](http://mercadonegro-aveiro.blogspot.p
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Rua Joao Mendonca 17, 3880-200 Aveiro](https://goo.gl/maps/ay2aTFp8EQr) | Tue-Thu, Sun 20:00-01:00, Fri-Sat 20:00-2:00
+
+## Braga
+
+#### Café São Martinho
+
+> Small, unknown café near the city stadium. Has a pool table, small indoor garden, a small terrace, smoker and non-smoker areas. Not the regular hacker café, but an actual place for hackers that want some quiet place to be during the day, away from the commotion of the city center.
+
+Webpage: N/A
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Rua de São Rosendo - nr 17, 4700-099 Braga](https://goo.gl/maps/F76rgZNjvF92) | Mon-Thu 7:30 - 21:00, Fri-Sat 7:30 - 22:00, Sun 7:30-14:00
+
+![](http://www.speedtest.net/result/5678886940.png)
 
 ## Lisbon
 
