@@ -634,6 +634,15 @@ Wifi | Power | Address | Open Hours
 
 ![](http://www.speedtest.net/result/5468130872.png)
 
+#### Duas de Letra
+
+> Calm and cosy cafe with relaxing music and a nice backyard.
+
+Webpage: (duasdeletra.pt)[http://duasdeletra.pt/]
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Passeio de São Lázaro Nº 48, Porto, Portugal](https://goo.gl/maps/ouhN2fTzyKG2) | Mon-Thu 10:00am - 10:00pm, Fri-Sat 10:00am - 12:00am, Sun 02:00pm - 08:00pm
 #### Embaixado
 
 > Quiet cafe with nice music, empty upstairs, great salad, and cool dances at night.
