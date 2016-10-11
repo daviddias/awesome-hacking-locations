@@ -658,6 +658,16 @@ Wifi | Power | Address | Open Hours
 
 ![](http://www.speedtest.net/result/5425343488.png)
 
+#### Moustache
+
+> Very nice and cozy coffee in the city center of Porto, near Carmo Church and Fountain of Lions. Has 2 floors, with a lot of comfortable chairs and a small room with tables and plugs.
+
+Webpage: http://www.moustache.pt/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Praça Carlos Alberto 104, Porto, Portugal](https://goo.gl/maps/sRRxzxuGLhB2) | Mon-Wed 8:00 - 20:00, Thu-Sat 8:00 - 2:00, Sun 14:00-20:00
+
 ## Viana do Castelo
 
 #### Pastelaria Jardim
