@@ -643,6 +643,9 @@ Webpage: (duasdeletra.pt)[http://duasdeletra.pt/]
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Passeio de São Lázaro Nº 48, Porto, Portugal](https://goo.gl/maps/ouhN2fTzyKG2) | Mon-Thu 10:00am - 10:00pm, Fri-Sat 10:00am - 12:00am, Sun 02:00pm - 08:00pm
+
+![](http://www.speedtest.net/result/5736595558.png)
+
 #### Embaixado
 
 > Quiet cafe with nice music, empty upstairs, great salad, and cool dances at night.
