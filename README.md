@@ -45,6 +45,7 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
   - [Viana do Castelo](#viana-do-castelo)
 - [Spain 🇪🇸](#spain-)
   - [Barcelona](#barcelona)
+  - [Oviedo](#oviedo)
 - [Turkey 🇹🇷](#turkey-)
   - [Istanbul](#istanbul)
 - [United Kingdom 🇺🇰](#united-kingdom-)
