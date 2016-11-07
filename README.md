@@ -32,6 +32,8 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
   - [Hyderabad] (#hyderabad)
 - [Italy 🇮🇹](#italIy-)
   - [Rome](#rome)
+- [Japan 🇯🇵](#japan-)
+  - [Nagoya](#nagoya)
 - [Netherlands 🇳🇱](#netherlands-)
   - [Amsterdam](#amsterdam)
   - [Delft](#delft)
@@ -411,6 +413,26 @@ Webpage: http://www.caffeperu.it/
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Via di Monserrato, 46, 00186 Roma](https://goo.gl/maps/HXioZUdXoPS2) | Mon-Thu 6:00-14:00, Fri-Sat 6:00-14:30, Sun 9:00-21:00
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+# Japan 🇯🇵
+
+## Nagoya
+
+#### Trunk Coffee
+
+> Super hipster, great music, really take their coffee seriously. They roast their own coffee.
+
+Webpage: http://www.trunkcoffee.com
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [2 Chome-28 Izumi, Higashi Ward, Nagoya, Aichi Prefecture](https://goo.gl/maps/HbL87xYSzsA2) | 月～木／9:30-21:00　金／9:30-22:00
+　土／9:00-22:00　日・祝／9:00-19:00
+
+![](http://www.speedtest.net/result/5777729518.png)
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
