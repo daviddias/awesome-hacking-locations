@@ -30,7 +30,7 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
 - [Hong Kong 🇭🇰](#hong-kong-)
 - [India 🇮🇳] (#india-)
   - [Hyderabad] (#hyderabad)
-- [Italy 🇮🇹](#italIy-)
+- [Italy 🇮🇹](#italy-)
   - [Rome](#rome)
 - [Japan 🇯🇵](#japan-)
   - [Nagoya](#nagoya)
