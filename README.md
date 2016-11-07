@@ -468,6 +468,16 @@ Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Krupnicza 12, 31-123 Kraków](https://goo.gl/maps/Q7GAvneeUiu) | Mon-Fri 8:00-20:00, Sat-Sun 10:00-19:00
 
+#### COFFEE Street
+
+> Not big coffee shop with great coffee, very nice atmosphere and fast wifi. All you need for hacking.
+
+Webpage: [www.coffeestreet.pl](http://www.coffeestreet.pl/)
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Dolnych Młynów 3. 31-000 Kraków](https://goo.gl/maps/WY8CapFQ2N72) | Mon-Fri 6:30-21:00, Sat-Sun 7:30-20:00
+
 ## Gliwice
 
 #### Kafo
