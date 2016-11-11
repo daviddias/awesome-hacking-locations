@@ -34,6 +34,7 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
   - [Rome](#rome)
 - [Japan 🇯🇵](#japan-)
   - [Nagoya](#nagoya)
+  - [Tokyo](#tokyo)
 - [Netherlands 🇳🇱](#netherlands-)
   - [Amsterdam](#amsterdam)
   - [Delft](#delft)
@@ -433,6 +434,31 @@ Wifi | Power | Address | Open Hours
 　土／9:00-22:00　日・祝／9:00-19:00
 
 ![](http://www.speedtest.net/result/5777729518.png)
+
+## Tokyo
+
+#### Open Source Cafe
+
+> Small hack-cafe with good people and vibes
+
+Webpage: http://www.osscafe.net/ja/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [〒155-0033 Tokyo, Setagaya, Daita, 6 Chome−11−14, G1](https://goo.gl/maps/ek2VPvXcVjA2) | Daily: 10:00-20:00. Closed Fridays.
+
+
+#### Unir Coffee
+
+> 24 Hour Hotel Lobby coffeeshop with industrial modern edge and a robot
+
+Webpage: http://unir-coffee-akasaka.com
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [2 Chome-14-14 Akasaka, 港区赤坂 Tōkyō-to 107-0052](https://goo.gl/maps/jW9Ax6q33Ky) | Daily: 00:00-23:59
+
+![](http://www.speedtest.net/result/5787230824.png)
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
