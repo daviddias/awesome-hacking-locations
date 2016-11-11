@@ -571,6 +571,18 @@ Wifi | Power | Address | Open Hours
 
 ## Lisbon
 
+#### Wish - Slow Coffee House
+
+> Small coffee shop with good tables
+
+Webpage: https://www.facebook.com/wishslowcoffeehouse
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Rua Rodrigues Faria, 103 - Espaço G2 1300-501 Lisbon](https://goo.gl/maps/h5rSLnrrEmx) |
+
+![](http://www.speedtest.net/result/5789565474.png)
+
 #### Velocité Cafe
 
 > Awesome bike shop that has really good sandwiches and coffee (plus you get a discount if you arrive on a bike).
