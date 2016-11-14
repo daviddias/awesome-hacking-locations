@@ -571,28 +571,6 @@ Wifi | Power | Address | Open Hours
 
 ## Lisbon
 
-#### Velocité Cafe
-
-> Awesome bike shop that has really good sandwiches and coffee (plus you get a discount if you arrive on a bike).
-
-Webpage: http://velocitecafe.com
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Av. Duque de Ávila 120A, 1050-084 Lisboa](https://goo.gl/maps/RRm5Qdx2k3u) |
-
-#### Copenhagen Coffee Lab, Lisboa
-
-> Pour over, aeropress, espressoo - this place has got it all.
-
-Webpage: http://copenhagencoffeelab.com/lissabon/
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [1200 192, R. Nova da Piedade 10, 1200-405 Lisboa](https://goo.gl/maps/PGwRAsp5mhA2) |
-
-![](http://www.speedtest.net/result/5497995353.png)
-
 #### Café Tati
 
 > Good homemade food, friendly people and nice atmosphere.
@@ -610,6 +588,18 @@ Webpage: http://4sq.com/XuO7me
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ? | [Avenida da República, 25 A – Saldanha](https://goo.gl/maps/WLA3JDrVkY12) |
+
+#### Copenhagen Coffee Lab, Lisboa
+
+> Pour over, aeropress, espressoo - this place has got it all.
+
+Webpage: http://copenhagencoffeelab.com/lissabon/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [1200 192, R. Nova da Piedade 10, 1200-405 Lisboa](https://goo.gl/maps/PGwRAsp5mhA2) |
+
+![](http://www.speedtest.net/result/5497995353.png)
 
 #### Esplanada do Torel
 
@@ -631,16 +621,6 @@ Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Rua Portas De Santo Antão, 136, Lisbon, Portugal](https://goo.gl/maps/6cYBbdg82rv) |
 
-#### Melt
-
-> Really nice brunches (plus they do Chouriço Assado, perfect for hacking :P).
-
-Webpage: http://melt-portugal.blogspot.de/
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✘ | [Av. Visc. de Valmor 38, Lisboa, Portugal](https://goo.gl/maps/4DK3X2N89N42) |
-
 #### O pão nosso
 
 > Great bakery, although small.
@@ -659,6 +639,16 @@ Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Rua S. João da Praça, 93-95 Lisboa](https://goo.gl/maps/Wj6aHXwyWYU2) |
 
+#### Strudel
+
+> It's central and at the same time quiet, has maybe the best Strudel in Lisbon.
+
+Webpage: http://4sq.com/IfaNBS
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Av. Miguel Bombarda, 5A Lisboa](https://goo.gl/maps/s2Hu3uxQcJM2) | Mon-Fri 07:30 - 19:00, Sat-Sun 08:00 - 19:00
+
 #### Tartine
 
 Webpage: http://tartine.pt/
@@ -669,15 +659,27 @@ Wifi | Power | Address | Open Hours
 
 ![](http://www.speedtest.net/result/5118860858.png)
 
-#### Strudel
+#### Velocité Cafe
 
-> It's central and at the same time quiet, has maybe the best Strudel in Lisbon.
+> Awesome bike shop that has really good sandwiches and coffee (plus you get a discount if you arrive on a bike).
 
-Webpage: http://4sq.com/IfaNBS
+Webpage: http://velocitecafe.com
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ✔ | [Av. Miguel Bombarda, 5A Lisboa](https://goo.gl/maps/s2Hu3uxQcJM2) | Mon-Fri 07:30 - 19:00, Sat-Sun 08:00 - 19:00
+✔ | ✔ | [Av. Duque de Ávila 120A, 1050-084 Lisboa](https://goo.gl/maps/RRm5Qdx2k3u) |
+
+#### Wish - Slow Coffee House
+
+> Small coffee shop with good tables
+
+Webpage: https://www.facebook.com/wishslowcoffeehouse
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Rua Rodrigues Faria, 103 - Espaço G2 1300-501 Lisbon](https://goo.gl/maps/h5rSLnrrEmx) |
+
+![](http://www.speedtest.net/result/5789565474.png)
 
 ## Porto
 
@@ -841,6 +843,7 @@ Wifi | Power | Address | Open Hours
 ---------------------------------------------------------------
 
 # United Kingdom 🇬🇧
+
 ## England
 
 ### London
