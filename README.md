@@ -341,6 +341,16 @@ Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Herrfurthstraße 7, 12049 Berlin](https://goo.gl/maps/LzTzgA64Jpv) | Mon-Sun 09:00–00:00
 
+#### St. Oberholz
+
+> famous 2-story startup-beloved bar-restaurant; english-speaking staff.
+
+Webpage: http://sanktoberholz.de/en/coffee/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Rosenthaler Str. 72A, 10437 Berlin](https://goo.gl/vWXWvD) | Mon-Thu 08:00-00:00, Fri 08:03:00, Sat 09:00-03:00, Sun 09:00-00:00
+
 ## Dresden
 
 #### ascii
