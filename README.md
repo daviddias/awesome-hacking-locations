@@ -19,6 +19,7 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
   - [Buea](#buea)
 - [Canada 🇨🇦](#canada-)
   - [Hamilton](#hamilton)
+  - [Montréal](#montreal)
 - [Denmark 🇩🇰](#denmark-)
   - [Copenhagen](#copenhagen)
 - [France 🇫🇷](#france-)
@@ -185,6 +186,18 @@ Wifi| Power | Address  | Open Hours
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
+
+## Montréal
+
+#### Café Replika
+
+> Turkish coffee, pastries & sandwiches in a chill spot blending rustic & modern decor.
+
+Webpage: http://cafereplika.com
+
+Wifi| Power | Address  | Open Hours
+--- | --- | ------------------------------ | -------------------------------------------
+✔ | ✔  |  [252 Rue Rachel E, Montréal, QC H2W 1E5](https://goo.gl/maps/SJfZronENoT2) | Mon-Fri 8:00-18:00, Sat-Sun 9:00-18:00
 
 # Denmark 🇩🇰
 
