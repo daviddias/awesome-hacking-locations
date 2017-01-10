@@ -624,16 +624,6 @@ Wifi | Power | Address | Open Hours
 
 ![](http://www.speedtest.net/result/5497995353.png)
 
-#### Esplanada do Torel
-
-> Wifi with a view!
-
-Webpage: http://4sq.com/dkRcKm
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ? | [R. do Telhal, 8A (Jardim do Torel), 1250 Lisbon, Portugal](https://goo.gl/maps/Li862sCVMkA2) |
-
 #### Fábrica Coffee Roasters
 
 > One of the places in Lisbon where they actually understand coffee.
