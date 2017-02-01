@@ -460,6 +460,16 @@ Wifi | Power | Address | Open Hours
 
 ## Tokyo
 
+#### Fuglen
+
+> Scandinavian cafe with some seats, great coffee, nice music, and a hipster vibe
+
+Webpage: http://www.fuglen.com/japanese/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [1 Chome-16-11 Tomigaya, 渋谷区 Tokyo 151-0063, Japan](https://goo.gl/maps/QyW3BodxKiK2) | Mon-Tue: 8am-10pm, Wed-Thu: 8am-1am, Fri: 8am-2am, Sat: 9am-2am, Sun: 9am-12am
+
 #### Open Source Cafe
 
 > Small hack-cafe with good people and vibes
