@@ -11,6 +11,8 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
   - [Template](#template)
   - [Hackerspaces](#hackerspaces)
   - [CoWorking](#coworking)
+- [Belgium 🇧🇪](#berlgium-)
+  - [Brussels](#brussels)
 - [Brazil 🇧🇷](#brazil-)
   - [Rio de Janeiro](#rio-de-janeiro)
 - [Bulgaria 🇧🇬](#bulgaria-)
@@ -105,6 +107,25 @@ Hackerspaces are great places to hack, and in fact they are so great that they h
 ## CoWorking
 
 CoWorking offices are awesome, but typically require a long term commitement, if you are looking for something more stable for a long term stay, look at http://coworkingmap.org/
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+# Belgium 🇧🇪
+
+## Brussels
+
+#### Workshop Café
+
+> Fantastic coffee shop, delicious 'Quiche', lots of tables.
+
+Webpage: https://www.facebook.com/WorkshopCafeBelgium/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Av Louise, 146 1050 Brussels](https://goo.gl/maps/hsGKR1Ytn6N2) | Mon-Sun 8:00-19:00
+
+![](http://www.speedtest.net/result/6022204011.png)
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
