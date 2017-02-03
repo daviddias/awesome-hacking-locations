@@ -11,7 +11,7 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
   - [Template](#template)
   - [Hackerspaces](#hackerspaces)
   - [CoWorking](#coworking)
-- [Belgium 🇧🇪](#berlgium-)
+- [Belgium 🇧🇪](#belgium-)
   - [Brussels](#brussels)
 - [Brazil 🇧🇷](#brazil-)
   - [Rio de Janeiro](#rio-de-janeiro)
