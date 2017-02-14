@@ -11,6 +11,8 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
   - [Template](#template)
   - [Hackerspaces](#hackerspaces)
   - [CoWorking](#coworking)
+- [Belgium 🇧🇪](#belgium-)
+  - [Brussels](#brussels)
 - [Brazil 🇧🇷](#brazil-)
   - [Rio de Janeiro](#rio-de-janeiro)
 - [Bulgaria 🇧🇬](#bulgaria-)
@@ -19,6 +21,7 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
   - [Buea](#buea)
 - [Canada 🇨🇦](#canada-)
   - [Hamilton](#hamilton)
+  - [Montréal](#montreal)
 - [Denmark 🇩🇰](#denmark-)
   - [Copenhagen](#copenhagen)
 - [France 🇫🇷](#france-)
@@ -108,6 +111,25 @@ CoWorking offices are awesome, but typically require a long term commitement, if
 ---------------------------------------------------------------
 ---------------------------------------------------------------
 
+# Belgium 🇧🇪
+
+## Brussels
+
+#### Workshop Café
+
+> Fantastic coffee shop, delicious 'Quiche', lots of tables.
+
+Webpage: https://www.facebook.com/WorkshopCafeBelgium/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Av Louise, 146 1050 Brussels](https://goo.gl/maps/hsGKR1Ytn6N2) | Mon-Sun 8:00-19:00
+
+![](http://www.speedtest.net/result/6022204011.png)
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
 # Brazil 🇧🇷
 
 ## Rio de Janeiro
@@ -185,6 +207,18 @@ Wifi| Power | Address  | Open Hours
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
+
+## Montréal
+
+#### Café Replika
+
+> Turkish coffee, pastries & sandwiches in a chill spot blending rustic & modern decor.
+
+Webpage: http://cafereplika.com
+
+Wifi| Power | Address  | Open Hours
+--- | --- | ------------------------------ | -------------------------------------------
+✔ | ✔  |  [252 Rue Rachel E, Montréal, QC H2W 1E5](https://goo.gl/maps/SJfZronENoT2) | Mon-Fri 8:00-18:00, Sat-Sun 9:00-18:00
 
 # Denmark 🇩🇰
 
@@ -447,6 +481,16 @@ Wifi | Power | Address | Open Hours
 
 ## Tokyo
 
+#### Fuglen
+
+> Scandinavian cafe with some seats, great coffee, nice music, and a hipster vibe
+
+Webpage: http://www.fuglen.com/japanese/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [1 Chome-16-11 Tomigaya, 渋谷区 Tokyo 151-0063, Japan](https://goo.gl/maps/QyW3BodxKiK2) | Mon-Tue: 8am-10pm, Wed-Thu: 8am-1am, Fri: 8am-2am, Sat: 9am-2am, Sun: 9am-12am
+
 #### Open Source Cafe
 
 > Small hack-cafe with good people and vibes
@@ -610,16 +654,6 @@ Wifi | Power | Address | Open Hours
 ✔ | ✔ | [1200 192, R. Nova da Piedade 10, 1200-405 Lisboa](https://goo.gl/maps/PGwRAsp5mhA2) |
 
 ![](http://www.speedtest.net/result/5497995353.png)
-
-#### Esplanada do Torel
-
-> Wifi with a view!
-
-Webpage: http://4sq.com/dkRcKm
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ? | [R. do Telhal, 8A (Jardim do Torel), 1250 Lisbon, Portugal](https://goo.gl/maps/Li862sCVMkA2) |
 
 #### Fábrica Coffee Roasters
 
