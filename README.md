@@ -853,11 +853,14 @@ Wifi | Power | Address | Open Hours
 
 #### Denizli HS
 
+> A Hackerspace spot.
+
 Webpage: http://www.denizlihs.org/
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ✔ | [Çamlaraltı Mah. Hüseyin Yılmaz Cad. No:67 Pamukkale/Denizli](https://www.google.com.tr/maps/@37.7382126,29.0916182,18z)|
+✔ | ✔ | [Çamlaraltı Mah. Hüseyin Yılmaz Cad. No:67 Pamukkale/Denizli](https://www.google.com.tr/maps/@37.7382126,29.0916182,18z)| 24/7
+
 ---------------------------------------------------------------
 ---------------------------------------------------------------
 
