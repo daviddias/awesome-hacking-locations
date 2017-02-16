@@ -623,6 +623,16 @@ Wifi | Power | Address | Open Hours
 
 ![](http://www.speedtest.net/result/5678886940.png)
 
+#### Centro Comercial Nova Arcada
+
+> Shopping mall just outside Braga, surprinsigly very quiet during the week and many people go there to study/work. There is free WiFi provided by the mall, you just need to re-login every 45 or so minutes (I hacked away [this script](https://gist.github.com/ntfc/cd37a3b822183b1741f132247197a1eb) to automate the process, seemed to work for a whole afternoon). There are power plugs available, restaurantes and cafes are on the same floor and free bus from/to city center during the week.
+
+Webpage: http://www.novaarcada.pt/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Avenida de Lamas, nº 100 União de Freguesias Real, Dume e Semelhe 4700 Braga](https://goo.gl/maps/gGLiRqiWK9k) | Mon-Thu, Sun 10:00 - 23:00; Fri-Sat 10:00 - 24:00
+
 ## Lisbon
 
 #### Café Tati
