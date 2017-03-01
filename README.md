@@ -11,6 +11,8 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
   - [Template](#template)
   - [Hackerspaces](#hackerspaces)
   - [CoWorking](#coworking)
+- [Austria :austria:](#austria)
+  - [Vienna](#vienna)
 - [Belgium 🇧🇪](#belgium-)
   - [Brussels](#brussels)
 - [Brazil 🇧🇷](#brazil-)
@@ -44,7 +46,7 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
 - [Poland 🇵🇱](#poland-)
   - [Krakow](#krakow)
   - [Gliwice](#gliwice)
-- [Portugal 🇵🇹](#portugal-)
+- [Portugal :portugal:](#portugal-)
   - [Aveiro](#aveiro)
   - [Braga](#braga)
   - [Lisbon](#lisbon)
@@ -107,6 +109,24 @@ Hackerspaces are great places to hack, and in fact they are so great that they h
 ## CoWorking
 
 CoWorking offices are awesome, but typically require a long term commitement, if you are looking for something more stable for a long term stay, look at http://coworkingmap.org/
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+# Austria
+
+## Vienna
+
+#### MetaLab
+
+> Coffe, Club Mate
+> All kind of activities and talks
+
+Webpage: Rathausstraße 6, 1010 Wien
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Rathausstraße 6, 1010 Wien](https://metalab.at/) | All time as long as a Key member is present
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
