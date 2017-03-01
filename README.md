@@ -11,7 +11,7 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
   - [Template](#template)
   - [Hackerspaces](#hackerspaces)
   - [CoWorking](#coworking)
-- [Austria :austria:](#austria)
+- [Austria 🇦🇹](#austria-)
   - [Vienna](#vienna)
 - [Belgium 🇧🇪](#belgium-)
   - [Brussels](#brussels)
@@ -113,7 +113,7 @@ CoWorking offices are awesome, but typically require a long term commitement, if
 ---------------------------------------------------------------
 ---------------------------------------------------------------
 
-# Austria
+# Austria 🇦🇹
 
 ## Vienna
 
