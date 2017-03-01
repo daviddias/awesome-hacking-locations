@@ -46,7 +46,7 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
 - [Poland 🇵🇱](#poland-)
   - [Krakow](#krakow)
   - [Gliwice](#gliwice)
-- [Portugal :portugal:](#portugal-)
+- [Portugal 🇵🇹](#portugal-)
   - [Aveiro](#aveiro)
   - [Braga](#braga)
   - [Lisbon](#lisbon)
