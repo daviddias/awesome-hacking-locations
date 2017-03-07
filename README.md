@@ -31,6 +31,7 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
 - [Germany 🇩🇪](#germany-)
   - [Berlin](#berlin)
   - [Dresden](#dresden)
+  - [Jena](#jena)
   - [Munich](#munich)
 - [Hong Kong 🇭🇰](#hong-kong-)
 - [India 🇮🇳] (#india-)
