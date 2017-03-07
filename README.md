@@ -418,6 +418,17 @@ Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 (eduroam only) | ✔ | [Nöthnitzerstr. 46, 01187 Dresden](https://goo.gl/maps/74VwX2opdDG2) | Mon-Thu 9:00-17:00; Fri 9:00-15:00
 
+## Jena
+
+#### Café Rossi
+
+> Next to the university; below the local hackspace
+> home-baked cake and pastries; 
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Krautgasse 26, 07743 Jena](https://goo.gl/maps/kGtrdrehFHy) | Mon-Fri 07:30–19:00; Sat 10:00–17:00
+
 ## Munich
 
 #### Lost Weekend
