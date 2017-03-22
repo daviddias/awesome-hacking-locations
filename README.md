@@ -697,6 +697,18 @@ Wifi | Power | Address | Open Hours
 
 ![](http://www.speedtest.net/result/5497995353.png)
 
+#### Ler Devagar
+
+> Fantastic library with a vintage collection of books. Make sure to taste 'bolo da marta' on the first floor.
+
+Webpage: http://www.lerdevagar.com/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Desenvolvimento e PatrocínioRua Rodrigues Faria,n. 103 - Ed. G - 0.3, 1300-501 LISBOA](https://goo.gl/maps/AgAc47QqSts) |
+
+![](http://www.speedtest.net/result/6152715433.png)
+
 #### Fábrica Coffee Roasters
 
 > One of the places in Lisbon where they actually understand coffee.
