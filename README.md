@@ -693,9 +693,9 @@ Webpage: http://copenhagencoffeelab.com/lissabon/
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ✔ | [1200 192, R. Nova da Piedade 10, 1200-405 Lisboa](https://goo.gl/maps/PGwRAsp5mhA2) |
+✔ | 𝘅 | [1200 192, R. Nova da Piedade 10, 1200-405 Lisboa](https://goo.gl/maps/PGwRAsp5mhA2) |
 
-![](http://www.speedtest.net/result/5497995353.png)
+![](http://www.speedtest.net/result/6156014466.png)
 
 #### Ler Devagar
 
