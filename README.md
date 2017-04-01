@@ -64,6 +64,7 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
 - [United States 🇺🇸](#united-states-)
   - [Arizona <a id="arizona"></a>](#arizona)
   - [California <a id="california"></a>](#california-)
+    - [Los Angeles, CA <a id="los-angeles-ca"></a>](#los-angeles-ca-)
     - [Mountain View, CA <a id="mountain-view-ca"></a>](#mountain-view-ca-)
     - [Palo Alto, CA <a id="palo-alto-ca"></a>](#palo-alto-ca-)
     - [San Jose, CA](#san-jose-ca)
@@ -1002,6 +1003,17 @@ Wifi| Power  | Address | Open Hours
   ✔ | ✔| [21 E Broadway Blvd, Tucson, AZ 85701](https://goo.gl/maps/WUJjwGczYS42) |24/7
 
 ## California <a id="california"></a>
+
+### Los Angeles, CA <a id="los-angeles-ca"></a>
+
+#### The Cow's End Cafe
+
+> Casually cow-themed cafe and deli, with lots of 1st and 2nd floor seating,
+> literally a block from the Pacific Ocean.
+
+Wifi| Power  | Address | Open Hours
+----|-------|--------|---------|----------
+  ✔ | ✔| [34 Washington Blvd, Venice, CA 90292](https://goo.gl/maps/Swe3G5wnFuy) |6AM - 9PM
 
 ### Mountain View, CA <a id="mountain-view-ca"></a>
 
