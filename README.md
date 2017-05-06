@@ -721,6 +721,27 @@ Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Rua Portas De Santo Antão, 136, Lisbon, Portugal](https://goo.gl/maps/6cYBbdg82rv) |
 
+#### Liberdade 229
+
+> Great space for small to medium size meetups. The owners are very friendly and welcoming.
+
+Webpage: http://liberdade229.com
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Avenida da Liberdade 229, 2º, 1250-142 Lisboa](http://goo.gl/maps/smUJ4) |
+
+#### MILL (Makers in Little Lisbon)
+
+> Nice space for hacking and meetups.
+> The owners expect people to cooperate and give back to the community.
+
+Webpage: http://mill.pt
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Calçada do Moinho de Vento, 14B, 1150-236 Lisboa](https://goo.gl/maps/vkvWQF9dVrD2) |
+
 #### O pão nosso
 
 > Great bakery, although small.
