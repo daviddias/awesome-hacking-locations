@@ -53,6 +53,8 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
   - [Lisbon](#lisbon)
   - [Porto](#porto)
   - [Viana do Castelo](#viana-do-castelo)
+- [Singapore 🇸🇬](#singapore-)
+  - [Outram Park](#outram-park)  
 - [Spain 🇪🇸](#spain-)
   - [Barcelona](#barcelona)
   - [Oviedo](#oviedo)
@@ -890,6 +892,20 @@ Wifi | Power | Address | Open Hours
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
+
+# Singapore 🇸🇬
+
+## Outram Park
+
+#### Just Want Coffee
+
+> Not so much noisy and crowded. It is located nearby MRT station. Coffee and cakes are also good.
+
+Webpage: https://www.facebook.com/JWCEverton/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Blk 1 Everton Park, #01-27, Singapore 081001](https://goo.gl/maps/wFxgBRghZuC2) | Mon - Fri 8:30AM–6PM, Sat - Sun 10AM–6PM
 
 # Spain 🇪🇸
 
