@@ -886,6 +886,17 @@ Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Blk 1 Everton Park, #01-27, Singapore 081001](https://goo.gl/maps/wFxgBRghZuC2) | Mon - Fri 8:30AM–6PM, Sat - Sun 10AM–6PM
 
+#### Bread & Hearth
+
+> In the center of Keong Siak road, with plenty of coffee shops and restaurants. Awesome handcrafted artisan bread, and decent coffee. Crowded between 12 - 2pm. 
+
+Webpage: http://breadandhearth.com/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ? | [18 Keong Saik Road, 089125](https://goo.gl/maps/hyWVdRe7Dys) | Daily 8:30AM–9.30PM
+
+
 # Spain 🇪🇸
 
 ## Barcelona
