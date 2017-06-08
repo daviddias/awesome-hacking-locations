@@ -44,6 +44,9 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
 - [Netherlands 🇳🇱](#netherlands-)
   - [Amsterdam](#amsterdam)
   - [Delft](#delft)
+- [Norway 🇳🇴](#norway-)
+  - [Stavanger](#stavanger)
+  - [Ålesund](#ålesund)
 - [Poland 🇵🇱](#poland-)
   - [Krakow](#krakow)
   - [Gliwice](#gliwice)
@@ -588,6 +591,58 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Voldersgracht 27, Delft, Netherlands](https://goo.gl/maps/PUKMd1YMKPD2) | Mon-Fri 8:30-18:00, Sat-Sun 9:00-18:00
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+# Norway 🇳🇴
+
+## Stavanger
+
+#### Coffeeberry
+
+> Awesome coffee with breakfast deal of coffee, juice and rye bread w/ brown cheese.
+
+Webpage: http://www.coffeeberry.com/
+
+Wifi| Power | Address  | Open Hours
+--- | ----- | ------------------------------ | -------------------------------------------
+✔   | ✔     | [Klubbgata 3](https://goo.gl/maps/67j81KFYqSt) | Mon-Fri 7:00-19:00, Sat 9:00-18:00, Sun 11:00-18:00
+
+
+#### Kokko
+
+> Roasters, Architecture, Design, Books.
+
+Webpage: http://www.kokkokokko.no/
+
+Wifi| Power | Address  | Open Hours
+--- | ----- | ------------------------------ | -------------------------------------------
+✔   | ✔     | [Østervåg 43](https://goo.gl/maps/EUugf632tpy) | Mon-Thu 10:00-19:00, Fri-Sat 10:00-01:00, Sun 11:00-18:00
+
+
+#### Bluebird
+
+> Award winning coffee and cosy place.
+
+Webpage: https://www.facebook.com/Bluebirdkaffebar/
+
+Wifi| Power | Address  | Open Hours
+--- | ----- | ------------------------------ | -------------------------------------------
+✔   | ✔     | [Kongsgata 48](https://goo.gl/maps/PJDE5hSi3BJ2) | Mon-Fri 8:00-18:00, Sat 10:00-17:00, Sun Closed.
+
+
+
+## Ålesund
+
+#### Racoon coffee and More
+
+Webpage: https://www.facebook.com/Racoon-Coffee-More-as-303455009847582/
+
+Wifi| Power | Address  | Open Hours
+--- | ----- | ------------------------------ | -------------------------------------------
+✔   | ✔     | [Kongens gate 6](https://her.is/2qR96l4) | Mon-Thu 7:30-17:00, Fri 7:30-23:00, Sat 10:00-17:00, Sun 12:00-17:00
+
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
