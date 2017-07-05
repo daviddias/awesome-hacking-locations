@@ -780,13 +780,17 @@ Wifi | Power | Address | Open Hours
 
 #### O pão nosso
 
-> Great bakery, although small.
+> Although small, it is a great bakery. Staff is super friendly.
 
 Webpage: http://www.opaonosso.pt/
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [R. Marquês Sá da Bandeira 46, 1050-149 Lisboa, Portugal](https://goo.gl/maps/FD69tn3WZ2G2) |
+
+![](http://www.speedtest.net/result/6430591434.png)
+
+Wifi pw: `fermento`
 
 #### Pois Café
 
