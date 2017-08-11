@@ -393,6 +393,17 @@ Wifi | Power | Address | Open Hours
 
 ## Berlin
 
+#### c-base
+
+> A weird old hackspace that masquerades as an alien ship, or vice versa. Good for hacking in dark corners with lots of Club Mate. Non-smoker not friendly. You may need a member to let you in, or to stay for a longer period of time.
+
+Webpage: https://www.c-base.org/  
+Wikipedia: https://en.wikipedia.org/wiki/C-base
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Rungestraße 20, 10179 Berlin, Germany](https://goo.gl/maps/KuJq77w99Tn) | Variable
+
 #### Schiller Bar
 
 > Next to a bakery ; very quiet between 10:00 and 18:00 ; awesome (english-speaking) staff.
