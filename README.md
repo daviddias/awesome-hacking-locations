@@ -61,9 +61,11 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
 - [Spain 🇪🇸](#spain-)
   - [Barcelona](#barcelona)
   - [Oviedo](#oviedo)
+- [Sweden 🇸🇪](#sweden-)
+  - [Stockholm](#stockholm)
 - [Turkey 🇹🇷](#turkey-)
   - [Istanbul](#istanbul)
-- [United Kingdom 🇺🇰](#united-kingdom-)
+- [United Kingdom 🇬🇧](#united-kingdom-)
   - [Scotland](#scotland)
     - [Edinburgh](#edinburgh)
 - [United States 🇺🇸](#united-states-)
@@ -1008,6 +1010,35 @@ Wifi | Power | Address | Open Hours
 ✔ | ✔ | [Calle Rosal, 13, 33009 Oviedo, Asturias](hhttps://goo.gl/maps/btPUB2EHodR2) |
 
 ![](http://www.speedtest.net/result/5453643373.png)
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+# Sweden 🇸🇪
+
+> In general, you can go to any Wayne's Coffee or Espresso House to get wifi and a power point. Wayne's Coffee wifi is usually a bit spotty compared with the Espresso Houses that I tried, and Espresso House often caters for laptop users with power points under chairs or near tables.
+
+## Stockholm
+
+#### Café Fåtöljen
+
+> Coffee is okay. Open access point, ~7mbit down on average, 1mbit up. Ample power. Very quiet and very close to the metro.
+
+Webpage: http://cafefatoljen.com
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔    | ✔     | Götgatan 14, 118 46 Stockholm, Sweden | 9–23 
+
+#### Café Pascal
+
+> The shared wifi at the time was 200mbit down, 40mbit up. Excellent food, excellent coffee. Not a good long term working spot, but great to upload an iOS app while eating and drinking brilliant food.
+
+Webpage: https://cafepascal.se
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔    | Some  | Norrtullsgatan 4, 113 29 Stockholm, Sweden | 7–19 
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
