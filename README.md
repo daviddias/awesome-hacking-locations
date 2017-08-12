@@ -63,7 +63,7 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
   - [Oviedo](#oviedo)
 - [Turkey 🇹🇷](#turkey-)
   - [Istanbul](#istanbul)
-- [United Kingdom 🇺🇰](#united-kingdom-)
+- [United Kingdom 🇬🇧](#united-kingdom-)
   - [Scotland](#scotland)
     - [Edinburgh](#edinburgh)
 - [United States 🇺🇸](#united-states-)
