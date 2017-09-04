@@ -66,6 +66,7 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
   - [Oviedo](#oviedo)
 - [Sweden 🇸🇪](#sweden-)
   - [Stockholm](#stockholm)
+  - [Uppsala](#uppsala)
 - [Turkey 🇹🇷](#turkey-)
   - [Istanbul](#istanbul)
 - [United Kingdom 🇬🇧](#united-kingdom-)
@@ -1071,6 +1072,18 @@ Webpage: https://cafepascal.se
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔    | Some  | Norrtullsgatan 4, 113 29 Stockholm, Sweden | 7–19 
+
+## Uppsala
+
+#### Cafe Linne
+
+> Nice place. Food is a bit pricey but very good. Coffee is good. English is understood, as are foreign cards. Wifi is good enough. Open ridiculously late!
+
+Webpage: https://www.facebook.com/cafelinne/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔    | Some  | Svartbäcksgatan 22, 75 332 Uppsala, Sweden  | 8–22
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
