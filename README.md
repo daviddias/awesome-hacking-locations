@@ -48,6 +48,7 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
   - [Delft](#delft)
 - [Norway 🇳🇴](#norway-)
   - [Stavanger](#stavanger)
+  - [Tromsø](#tromsø)
   - [Ålesund](#ålesund)
 - [Poland 🇵🇱](#poland-)
   - [Krakow](#krakow)
@@ -665,7 +666,17 @@ Wifi| Power | Address  | Open Hours
 --- | ----- | ------------------------------ | -------------------------------------------
 ✔   | ✔     | [Kongsgata 48](https://goo.gl/maps/PJDE5hSi3BJ2) | Mon-Fri 8:00-18:00, Sat 10:00-17:00, Sun Closed.
 
+## Tromsø
 
+#### Lugar 34
+
+> Very comfy and chill place. Beer is expensive as hell like everywhere else in Norway, but they also do excellent coffee. Has hippie style. 8mbit/1mbit wifi. Great opening hours.
+
+Webpage: https://facebook.com/lugar34
+
+Wifi| Power | Address  | Open Hours
+--- | ----- | ------------------------------ | -------------------------------------------
+✔   | ✔     | [Storgata 34](https://goo.gl/maps/x2h8ApkDiSw) | 09–01
 
 ## Ålesund
 
