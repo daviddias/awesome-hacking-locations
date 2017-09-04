@@ -41,6 +41,8 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
 - [Japan 🇯🇵](#japan-)
   - [Nagoya](#nagoya)
   - [Tokyo](#tokyo)
+- [Lithuania 🇱🇹](#lithuania-)
+  - [Vilnius](#vilnius)
 - [Netherlands 🇳🇱](#netherlands-)
   - [Amsterdam](#amsterdam)
   - [Delft](#delft)
@@ -565,6 +567,25 @@ Wifi | Power | Address | Open Hours
 ✔ | ✔ | [2 Chome-14-14 Akasaka, 港区赤坂 Tōkyō-to 107-0052](https://goo.gl/maps/jW9Ax6q33Ky) | Daily: 00:00-23:59
 
 ![](http://www.speedtest.net/result/5787230824.png)
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+# Lithuania 🇱🇹
+
+## Vilnius
+
+> There are plenty of "Caffeine" branded cafes around that have pretty good wifi and service. English speakers are hit and miss, be prepared for a lot of random pointing and confusion. If you're paying with a credit card, expect people freaking out about what to do with a receipt that requires signing (no POS systems here support PINs).
+
+Webpage: https://www.vaga.lt/draugyste-knygynas-gedimino-pr-2-vilnius-/knygynas
+
+#### Knygynas DRAUGYSTĖ
+
+> A cafe connected to a bookshop. Very tolerant of hacker types who never leave. Wifi is about 8mbit, and fairly stable. Most speak enough English you can order a coffee, and the coffee is good. Cow milk only.
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Gedimino pr. 2-4, Vilnius 01103, Lithuania](https://goo.gl/maps/cyxVp2RshEy) | 9–21
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
