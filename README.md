@@ -579,11 +579,11 @@ Wifi | Power | Address | Open Hours
 
 > There are plenty of "Caffeine" branded cafes around that have pretty good wifi and service. English speakers are hit and miss, be prepared for a lot of random pointing and confusion. If you're paying with a credit card, expect people freaking out about what to do with a receipt that requires signing (no POS systems here support PINs).
 
-Webpage: https://www.vaga.lt/draugyste-knygynas-gedimino-pr-2-vilnius-/knygynas
-
 #### Knygynas DRAUGYSTĖ
 
 > A cafe connected to a bookshop. Very tolerant of hacker types who never leave. Wifi is about 8mbit, and fairly stable. Most speak enough English you can order a coffee, and the coffee is good. Cow milk only.
+
+Webpage: https://www.vaga.lt/draugyste-knygynas-gedimino-pr-2-vilnius-/knygynas
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
