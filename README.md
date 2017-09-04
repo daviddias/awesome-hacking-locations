@@ -41,11 +41,14 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
 - [Japan 🇯🇵](#japan-)
   - [Nagoya](#nagoya)
   - [Tokyo](#tokyo)
+- [Lithuania 🇱🇹](#lithuania-)
+  - [Vilnius](#vilnius)
 - [Netherlands 🇳🇱](#netherlands-)
   - [Amsterdam](#amsterdam)
   - [Delft](#delft)
 - [Norway 🇳🇴](#norway-)
   - [Stavanger](#stavanger)
+  - [Tromsø](#tromsø)
   - [Ålesund](#ålesund)
 - [Poland 🇵🇱](#poland-)
   - [Krakow](#krakow)
@@ -63,6 +66,7 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
   - [Oviedo](#oviedo)
 - [Sweden 🇸🇪](#sweden-)
   - [Stockholm](#stockholm)
+  - [Uppsala](#uppsala)
 - [Turkey 🇹🇷](#turkey-)
   - [Istanbul](#istanbul)
 - [United Kingdom 🇬🇧](#united-kingdom-)
@@ -569,6 +573,25 @@ Wifi | Power | Address | Open Hours
 ---------------------------------------------------------------
 ---------------------------------------------------------------
 
+# Lithuania 🇱🇹
+
+## Vilnius
+
+> There are plenty of "Caffeine" branded cafes around that have pretty good wifi and service. English speakers are hit and miss, be prepared for a lot of random pointing and confusion. If you're paying with a credit card, expect people freaking out about what to do with a receipt that requires signing (no POS systems here support PINs).
+
+#### Knygynas DRAUGYSTĖ
+
+> A cafe connected to a bookshop. Very tolerant of hacker types who never leave. Wifi is about 8mbit, and fairly stable. Most speak enough English you can order a coffee, and the coffee is good. Cow milk only.
+
+Webpage: https://www.vaga.lt/draugyste-knygynas-gedimino-pr-2-vilnius-/knygynas
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Gedimino pr. 2-4, Vilnius 01103, Lithuania](https://goo.gl/maps/cyxVp2RshEy) | 9–21
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
 # Netherlands 🇳🇱
 
 ## Amsterdam
@@ -644,7 +667,17 @@ Wifi| Power | Address  | Open Hours
 --- | ----- | ------------------------------ | -------------------------------------------
 ✔   | ✔     | [Kongsgata 48](https://goo.gl/maps/PJDE5hSi3BJ2) | Mon-Fri 8:00-18:00, Sat 10:00-17:00, Sun Closed.
 
+## Tromsø
 
+#### Lugar 34
+
+> Very comfy and chill place. Beer is expensive as hell like everywhere else in Norway, but they also do excellent coffee. Has hippie style. 8mbit/1mbit wifi. Great opening hours.
+
+Webpage: https://facebook.com/lugar34
+
+Wifi| Power | Address  | Open Hours
+--- | ----- | ------------------------------ | -------------------------------------------
+✔   | ✔     | [Storgata 34](https://goo.gl/maps/x2h8ApkDiSw) | 09–01
 
 ## Ålesund
 
@@ -1039,6 +1072,18 @@ Webpage: https://cafepascal.se
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔    | Some  | Norrtullsgatan 4, 113 29 Stockholm, Sweden | 7–19 
+
+## Uppsala
+
+#### Cafe Linne
+
+> Nice place. Food is a bit pricey but very good. Coffee is good. English is understood, as are foreign cards. Wifi is good enough. Open ridiculously late!
+
+Webpage: https://www.facebook.com/cafelinne/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔    | Some  | Svartbäcksgatan 22, 75 332 Uppsala, Sweden  | 8–22
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
