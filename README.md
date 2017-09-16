@@ -864,7 +864,7 @@ Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [R. Serpa Pinto 15A, 1200-026 Lisboa](https://goo.gl/maps/NNnXK6LkzFJ2) |
 
-![](http://www.speedtest.net/result/5118860858.png)
+![](http://beta.speedtest.net/result/6628785269.png)
 
 #### Velocité Cafe
 
