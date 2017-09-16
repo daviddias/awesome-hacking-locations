@@ -109,9 +109,9 @@ A place where you would go and take your friends to go hacking with, power and w
 
 Webpage: PLACE WEBPAGE (IF NOT AVAILABLE, USE FOURSQUARE SHORT URL)
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✘ | [ADDRESS](GOOGLE MAPS SHORT URL) | OPEN HOURS
+Wifi | Power | Climatization  | Address | Open Hours
+---- | ----- | -------------- | ------- | ----------
+✔ | ✘ | ❄️/♨️ | [ADDRESS](GOOGLE MAPS SHORT URL) | OPEN HOURS
 ```
 
 ## Hackerspaces
@@ -860,9 +860,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: http://tartine.pt/
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [R. Serpa Pinto 15A, 1200-026 Lisboa](https://goo.gl/maps/NNnXK6LkzFJ2) |
+Wifi | Power | Climatization | Address | Open Hours
+---- | ----- | ------------- | ------- | ----------
+✔ | ✔ | ❄️/♨️ | [R. Serpa Pinto 15A, 1200-026 Lisboa](https://goo.gl/maps/NNnXK6LkzFJ2) |
 
 ![](http://beta.speedtest.net/result/6628785269.png)
 
