@@ -790,6 +790,19 @@ Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ? | [Avenida da República, 25 A – Saldanha](https://goo.gl/maps/WLA3JDrVkY12) |
 
+
+#### Confeitaria Lisboa
+
+> Well lit, great croissants.
+
+Webpage: www.facebook.com/aconfeitarialisboa/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Av. Joao XXI Lisboa](https://goo.gl/AadA8A) | 
+
+
+
 #### Copenhagen Coffee Lab, Lisboa
 
 > Pour over, aeropress, espressoo - this place has got it all.
@@ -845,6 +858,19 @@ Webpage: http://www.poiscafe.com/
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Rua S. João da Praça, 93-95 Lisboa](https://goo.gl/maps/Wj6aHXwyWYU2) |
+
+#### Royale Café
+
+> Quiet and friendly staff. A bit on the pricey $$ side though.
+
+Webpage: http://www.royalecafe.com
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Largo Rafael Bordalo Pinheiro 29 R/C Lisboa](https://goo.gl/maps/Eho6a8ufqRQ2) | Mon-Wed 12-11pm & Thu-Sun 12pm-12am
+
+Wifi pw: `royalecafe79`
+
 
 #### Strudel
 
