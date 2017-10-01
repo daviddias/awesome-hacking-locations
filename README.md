@@ -795,13 +795,11 @@ Wifi | Power | Address | Open Hours
 
 > Well lit, great croissants.
 
-Webpage: www.facebook.com/aconfeitarialisboa/
+Webpage: http://4sq.com/1JRQG4q
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Av. Joao XXI Lisboa](https://goo.gl/AadA8A) | 
-
-
+Wifi | Power | Climatization  | Address | Open Hours
+---- | ----- | -------------- | ------- | ----------
+✔ | ✔ | ❄️/♨️ | [Av. Joao XXI Lisboa](https://goo.gl/AadA8A) | Mon-Sat 7:30AM:8PM
 
 #### Copenhagen Coffee Lab, Lisboa
 
@@ -865,12 +863,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: http://www.royalecafe.com
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Largo Rafael Bordalo Pinheiro 29 R/C Lisboa](https://goo.gl/maps/Eho6a8ufqRQ2) | Mon-Wed 12-11pm & Thu-Sun 12pm-12am
-
-Wifi pw: `royalecafe79`
-
+Wifi | Power | Climatization  | Address | Open Hours
+---- | ----- | -------------- | ------- | ----------
+✔ | ✔ | ❄️/♨️ | [Largo Rafael Bordalo Pinheiro 29 R/C Lisboa](https://goo.gl/maps/Eho6a8ufqRQ2) | Mon-Wed 12-11pm & Thu-Sun 12pm-12am
 
 #### Strudel
 
