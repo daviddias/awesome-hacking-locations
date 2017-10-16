@@ -137,7 +137,7 @@ CoWorking offices are awesome, but typically require a long term commitement, if
 > Coffe, Club Mate
 > All kind of activities and talks
 
-Webpage: Rathausstraße 6, 1010 Wien
+Webpage: https://metalab.at
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
