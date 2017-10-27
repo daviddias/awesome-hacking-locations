@@ -896,6 +896,17 @@ Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ? | [18 Keong Saik Road, 089125](https://goo.gl/maps/hyWVdRe7Dys) | Daily 8:30AM–9.30PM
 
+## one north
+
+#### Jimmy Monkey
+
+> Friendly to keyboard warriors, they also do a selection of simple-done-right munchies. 
+
+Webpage: http://www.jimmymonkey.com/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [9 one-north gateway, #01-51 one-north residences, Singapore 138643](https://goo.gl/maps/oJ85HFm9QKQ2) | Daily 7:00AM–6.00PM
 
 # Spain 🇪🇸
 
