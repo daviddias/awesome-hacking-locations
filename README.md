@@ -1063,6 +1063,16 @@ Wifi | Power | Address | Open Hours
 
 ![](http://www.speedtest.net/result/5456163855.png)
 
+#### Frenesi Cafe
+
+> Small cozy coffee shop with comfortable sits and lots of plugs (even USB plugs)
+
+Webpage: http://frenesicafe.com
+
+Wifi | Power | Address | Open Hours
+---- | ----- | -------------- | -------
+✔ | ✔ | [Carrer del Comte d’Urgell, 115](https://goo.gl/maps/1DTErmADkkz) | Mon: Closed, Tue-Thu: 9-19, Fri-Sun: 10-17
+
 ## Oviedo
 
 #### 26Grados
