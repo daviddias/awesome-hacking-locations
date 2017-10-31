@@ -1063,6 +1063,16 @@ Wifi | Power | Address | Open Hours
 
 ![](http://www.speedtest.net/result/5456163855.png)
 
+#### Federal Café
+
+> Café with great natural lightning and delicious food
+
+Webpage: http://federalcafe.es/barcelona-gotic/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | -------------- | -------
+✔ | ✔ | [Passatge de la Pau, 11](https://goo.gl/maps/o8dbgysDLbw) | 
+
 ## Oviedo
 
 #### 26Grados
