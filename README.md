@@ -1415,7 +1415,15 @@ Webpage: https://aws.amazon.com/start-ups/loft/ny-loft/
 
 Wifi | Power | Coffee | Address | Open Hours
 ---- | ----- | -------| ------- | ----------
-open, password on wall | ✔ | ✔ | [350 W Broadway, New York, NY 10013](https://goo.gl/maps/ZW3sm9LDkJm) | Open Monday - Friday, 10:00am - 6:00pm |
+open, password on wall | ✔ | ✔ | [350 W Broadway, New York, NY 10013](https://goo.gl/maps/ZW3sm9LDkJm) | Open Monday - Friday, 10:00am - 6:00pm 
+
+#### Ground Support Cafe
+> Great spot in Soho for getting things done and feeling like you belong with the cool soho crowd
+
+Webpage: http://www.groundsupportcafe.com/
+Wifi | Power | Coffee | Address | Open Hours
+---- | ----- | -------| ------- | ----------
+open, password on wall | ✔ | ✔ | [399 W Broadway, New York, NY 10013](https://goo.gl/maps/ZW3sm9LDkJm) | Open Weekdays 7am - 8pm Weekends 8am - 8pm |
 
 #### Pushcart Coffee Chelsea
 
