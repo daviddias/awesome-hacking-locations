@@ -800,7 +800,7 @@ Webpage: http://4sq.com/XuO7me
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ? | [Avenida da República, 25 A – Saldanha](https://goo.gl/maps/WLA3JDrVkY12) |
+✔ | ? | [Avenida da República, 25 A – Saldanha](https://goo.gl/maps/WLA3JDrVkY12) | Sun-Sat 7:00 - 20:00
 
 
 #### Confeitaria Lisboa
