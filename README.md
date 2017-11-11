@@ -91,7 +91,7 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
     - [New York, NY <a id="new-york-ny"></a>](#new-york-ny-)
   - [Washington <a id="washington"></a>](#washington-)
     - [Bellevue, WA <a id="bellevue-wa"></a>](#bellevue-wa-)
-  - [Seattle, WA <a id="seattle-wa"></a>](#seattle-wa-)
+    - [Seattle, WA <a id="seattle-wa"></a>](#seattle-wa-)
 
 ## Contribute 🌟
 
