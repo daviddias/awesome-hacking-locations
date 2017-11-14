@@ -87,6 +87,8 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
     - [Boston, MA <a id="boston-ma"></a>](#boston-ma-)
     - [Cambridge, MA <a id="cambridge-ma"></a>](#cambridge-ma-)
     - [Somerville, MA <a id="somerville-ma"></a>](#somerville-ma-)
+  - [Texas](#Texas)
+    - [Austin, TX](#austin-tx)
   - [New York <a id="new-york"></a>](#new-york-)
     - [New York, NY <a id="new-york-ny"></a>](#new-york-ny-)
   - [Washington <a id="washington"></a>](#washington-)
@@ -1414,6 +1416,20 @@ Webpage: http://www.forgebakingco.com/
 Wifi | Power | Coffee | Address | Open Hours
 ---- | ----- | ------ | ------- | ----------
 paying | ✔ | ✔ | [626 Somerville Ave, Somerville, MA 02143](https://goo.gl/maps/gKjnLGtTYE62) | Mon-Fri 07:00-19:00
+
+## Texas
+
+### Austin, TX
+
+#### Houndstooth Coffee
+
+> Unassuming place with pretty outstanding coffee and the space to get things done.  Plus it's in the Frost Bank Building, the most [evil looking building in Austin](https://www.reddit.com/r/evilbuildings/comments/4cdwap/frost_bank_looks_like_a_giant_evil_owl_staring/)!
+
+Webpage: https://www.houndstoothcoffee.com/
+
+Wifi | Power | Climatization  | Address | Open Hours
+---- | ----- | -------------- | ------- | ----------
+✔ | ✔ | ❄️/♨️ | [401 CONGRESS AVE STE 100C AUSTIN, TX 78701](https://goo.gl/maps/irEZayEujm32) | MON – FRI: 6:30 AM – 7 PM SAT & SUN: 8:00 AM – 5 PM
 
 ## New York <a id="new-york"></a>
 
