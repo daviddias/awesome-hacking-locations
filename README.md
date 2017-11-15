@@ -762,6 +762,17 @@ Wifi | Power | Address | Open Hours
 
 ## Braga
 
+#### Jeronymo
+
+> Starbucks like café near the city center. As cool sofas and tables to work. To use the wifi you have to buy something and ask for the password.
+
+Webpage: http://www.jeronymo.pt/coffee-shops/jeronymo-coffee-shops/av-liberdade-braga/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Avenida da Liberdade, 712, 4710-249 Braga](https://goo.gl/maps/2n1gT7P1MEz) | Mon-Sun 8:00 - 21:00
+
+
 #### Café São Martinho
 
 > Small, unknown café near the city stadium. Has a pool table, small indoor garden, a small terrace, smoker and non-smoker areas. Not the regular hacker café, but an actual place for hackers that want some quiet place to be during the day, away from the commotion of the city center.
