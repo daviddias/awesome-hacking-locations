@@ -60,7 +60,8 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
   - [Porto](#porto)
   - [Viana do Castelo](#viana-do-castelo)
 - [Singapore 🇸🇬](#singapore-)
-  - [Outram Park](#outram-park)  
+  - [Outram Park](#outram-park)
+- [Slovenia 🇸🇮](#slovenia-)
 - [Spain 🇪🇸](#spain-)
   - [Barcelona](#barcelona)
   - [Oviedo](#oviedo)
@@ -1059,6 +1060,9 @@ Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [9 one-north gateway, #01-51 one-north residences, Singapore 138643](https://goo.gl/maps/oJ85HFm9QKQ2) | Daily 7:00AM–6.00PM
 
+# Slovenia 🇸🇮
+
+See https://github.com/otobrglez/awesome-workplaces-slovenia
 
 # Spain 🇪🇸
 
