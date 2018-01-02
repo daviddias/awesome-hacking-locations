@@ -31,6 +31,7 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
 - [Germany 🇩🇪](#germany-)
   - [Berlin](#berlin)
   - [Dresden](#dresden)
+  - [Hamburg](#hamburg)
   - [Jena](#jena)
   - [Munich](#munich)
 - [Hong Kong 🇭🇰](#hong-kong-)
@@ -457,6 +458,28 @@ Webpage: [ascii-dresden.de](http://ascii-dresden.de)
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 (eduroam only) | ✔ | [Nöthnitzerstr. 46, 01187 Dresden](https://goo.gl/maps/74VwX2opdDG2) | Mon-Thu 9:00-17:00; Fri 9:00-15:00
+
+## Hamburg
+
+#### attraktor
+
+> Makerspace with lots of tools. You may need a member to let you in.
+
+Webpage: [blog.attraktor.org](https://blog.attraktor.org/)
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Eschelsweg 4, 22767 Hamburg](https://goo.gl/maps/hYt8h5hKfgF2) | [Variable](https://blog.attraktor.org/tuerstatus-faq/)
+
+#### CCC Hamburg
+
+> Hackerspace of the CCC Hamburg. You may need a member to let you in.
+
+Webpage: [hamburg.ccc.de](https://www.hamburg.ccc.de/)
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Zeiseweg 9, 22765 Hamburg](https://goo.gl/maps/kBtfZNjEfjv) | [Variable](https://wiki.hamburg.ccc.de/Calendar)
 
 ## Jena
 
