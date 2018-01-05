@@ -884,6 +884,18 @@ Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✘ | ✘ | [Rua Portas De Santo Antão, 136, Lisbon, Portugal](https://goo.gl/maps/6cYBbdg82rv) |
 
+#### Montana Lisboa Café
+
+> Street Art shop + speciality coffee place that is laptop friendly!
+
+Webpage: http://4sq.com/2fHRcQF
+
+Wifi | Power | Climatization  | Address | Open Hours
+---- | ----- | -------------- | ------- | ----------
+✔ | ✘ | ❄️ | [Rua da Cintura do Porto de Lisboa, Armazém 20, porta 3, 1200-450 Lisboa](https://goo.gl/maps/1rmr8E1WBzH2) | 10am - 7pm
+
+![](http://beta.speedtest.net/result/6938533453.png)
+
 #### O pão nosso
 
 > Although small, it is a great bakery. Staff is super friendly.
