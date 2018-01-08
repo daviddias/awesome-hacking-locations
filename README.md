@@ -892,9 +892,11 @@ Webpage: http://4sq.com/2fHRcQF
 
 Wifi | Power | Climatization  | Address | Open Hours
 ---- | ----- | -------------- | ------- | ----------
-✔ | ✘ | ❄️ | [Rua da Cintura do Porto de Lisboa, Armazém 20, porta 3, 1200-450 Lisboa](https://goo.gl/maps/1rmr8E1WBzH2) | 10am - 7pm
+✔ | ✔ | ❄️ | [Rua da Cintura do Porto de Lisboa, Armazém 20, porta 3, 1200-450 Lisboa](https://goo.gl/maps/1rmr8E1WBzH2) | 10am - 7pm
 
 ![](http://beta.speedtest.net/result/6938533453.png)
+
+Wifi pw: `graffiti`
 
 #### O pão nosso
 
@@ -909,6 +911,20 @@ Wifi | Power | Address | Open Hours
 ![](http://www.speedtest.net/result/6430591434.png)
 
 Wifi pw: `fermento`
+
+#### Padaria Portuguesa - Cais do Sodré
+
+> One of the many Padaria Portuguesa bakeries, delivious sweets and sandwiches.
+
+Webpage: apadariaportuguesa.pt
+
+Wifi | Power | Climatization  | Address | Open Hours
+---- | ----- | -------------- | ------- | ----------
+✔ | ✔ | ❄️ | [Av. 24 de Julho 1G, 1200-425 Lisboa](https://goo.gl/maps/6szBk5Tsaaq) | 7am - 10:45pm
+
+![](http://beta.speedtest.net/result/6946089256.png)
+
+Wifi pw: `portuguesa`
 
 #### Pois Café
 
