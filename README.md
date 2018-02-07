@@ -1271,7 +1271,7 @@ Wifi | Power | Address | Open Hours
 
 #### Edinburgh Hacklab
 
-> Restoration hardware styled light cafe with professional brews, good seats, wifi, great music, food, in the old part of town.
+> Edinburgh Hacklab is part of the worldwide movement of Hackerspaces - shared spaces for people who mess around with technology for fun.
 
 Webpage: https://edinburghhacklab.com/
 
