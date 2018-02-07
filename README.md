@@ -1269,6 +1269,16 @@ Wifi | Power | Address | Open Hours
 
 ### Edinburgh
 
+#### Edinburgh Hacklab
+
+> Restoration hardware styled light cafe with professional brews, good seats, wifi, great music, food, in the old part of town.
+
+Webpage: https://edinburghhacklab.com/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [1 Summerhall, Edinburgh, EH9 1PL](https://goo.gl/maps/JNmhHj7JoVn) | Open night every tuesday
+
 #### BrewLab
 
 > Restoration hardware styled light cafe with professional brews, good seats, wifi, great music, food, in the old part of town.
