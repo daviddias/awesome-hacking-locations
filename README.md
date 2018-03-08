@@ -934,6 +934,18 @@ Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Rua S. João da Praça, 93-95 Lisboa](https://goo.gl/maps/Wj6aHXwyWYU2) |
 
+#### Quatro ao Rato
+
+> Nice place with nice environment in the middle of city. Always has a vegetarian alternative for lunch. Opens early.
+
+Webpage: https://pt-pt.facebook.com/quatroaorato/
+
+Wifi | Power | Climatization  | Address | Open Hours
+---- | ----- | -------------- | ------- | ----------
+✔ | ✔ | ♨️ | [Largo do Rato 4A, 1250-096 Lisboa](https://goo.gl/maps/BChdxAHRKmT2) | 8am - 20pm
+
+![](http://www.speedtest.net/result/7121883484.png)
+
 #### Royale Café
 
 > Quiet and friendly staff. A bit on the pricey $$ side though.
