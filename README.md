@@ -759,7 +759,7 @@ Wifi | Power | Address | Open Hours
 
 > Great coffee and food in reasonable price.
 
-Webpage: [https://www.facebook.com/BlossomCoffeeAndFood/]
+Webpage: https://www.facebook.com/BlossomCoffeeAndFood/
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
