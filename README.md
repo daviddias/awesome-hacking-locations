@@ -755,6 +755,16 @@ Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Dolnych Młynów 3. 31-000 Kraków](https://goo.gl/maps/WY8CapFQ2N72) | Mon-Fri 6:30-21:00, Sat-Sun 7:30-20:00
 
+#### Blossom
+
+> Great coffee and food in reasonable price.
+
+Webpage: [https://www.facebook.com/BlossomCoffeeAndFood/]
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Rakowicka 20A. 31-510 Kraków](https://goo.gl/maps/YbrduK8vuKv) | Mon-Fri 8:00-20:00, Sat-Sun 8:00-19:00
+
 ## Gliwice
 
 #### Kafo
