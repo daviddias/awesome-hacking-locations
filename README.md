@@ -763,7 +763,7 @@ Webpage: https://www.facebook.com/BlossomCoffeeAndFood/
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ✔ | [Rakowicka 20A. 31-510 Kraków](https://goo.gl/maps/YbrduK8vuKv) | Mon-Fri 8:00-20:00, Sat-Sun 8:00-19:00
+✔ | ✔ | [Rakowicka 20A, 31-510 Kraków](https://goo.gl/maps/YbrduK8vuKv) | Mon-Sat 8:00-20:00, Sun 8:00-19:00
 
 ## Gliwice
 
