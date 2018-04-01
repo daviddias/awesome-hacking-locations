@@ -765,6 +765,16 @@ Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Rakowicka 20A, 31-510 Kraków](https://goo.gl/maps/YbrduK8vuKv) | Mon-Sat 8:00-20:00, Sun 8:00-19:00
 
+#### Café Tektura
+
+> Great coffee, with multiple brew choices, and sound food. Smallish and usually quiet.
+
+Webpage: https://www.facebook.com/TEKTURAcafe/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Krupnicza 7, 33-332 Kraków](https://goo.gl/maps/UJ3uijZZAcA2) | Mon-Sun 10:00-21:00
+
 ## Gliwice
 
 #### Kafo
