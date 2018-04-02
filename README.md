@@ -85,6 +85,8 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
     - [Santa Monica, CA <a id="santa-monica-ca"></a>](#santa-monica-ca-)
   - [Illinois](#illinois)
     - [Chicago, IL <a id="chicago-il"></a>](#chicago-il-)
+  - [Maryland](#maryland)
+    - [Baltimore, MD <a id="baltimore-md"></a>](#baltimore-md-)
   - [Massachusetts <a id="massachusetts"></a>](#massachusetts-)
     - [Boston, MA <a id="boston-ma"></a>](#boston-ma-)
     - [Cambridge, MA <a id="cambridge-ma"></a>](#cambridge-ma-)
@@ -1439,6 +1441,17 @@ Webpage: http://www.perfectcupchicago.com/
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [4700 N Damen Ave, Chicago, IL 60625](https://goo.gl/maps/CVzWt8xiXyG2) | Mon-Fri 6:30-20:00, Sat-Sun 7:00-20:00
+
+## Maryland <a id="maryland"></a>
+### Baltimore, MD <a id="baltimore-md"></a>
+#### The Bun Shop
+
+> Loftlike, late-night cafe for filled buns like piroshki & empanadas, plus Vietnamese coffee. BYOB.
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [239 W Read St, Baltimore, MD 21201](https://goo.gl/maps/yfasgrqVjjJ2) | 7 days 7am-3am
+
 
 ## Massachusetts <a id="massachusetts"></a>
 
