@@ -69,6 +69,8 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
 - [Sweden 🇸🇪](#sweden-)
   - [Stockholm](#stockholm)
   - [Uppsala](#uppsala)
+- [Switzerland 🇨🇭](#switzerland)
+  - [Zurich](#zurich)
 - [Turkey 🇹🇷](#turkey-)
   - [Istanbul](#istanbul)
 - [United Kingdom 🇬🇧](#united-kingdom-)
@@ -1252,6 +1254,25 @@ Webpage: https://www.facebook.com/cafelinne/
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔    | Some  | Svartbäcksgatan 22, 75 332 Uppsala, Sweden  | 8–22
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+# Switzerland 🇨🇭
+
+## Zurich
+
+#### Boreal Coffee Shop - Talacker 
+
+> Very nice coffee, spacious, good tables to work and a bunch of couches. 
+
+Webpage: http://www.borealcoffee.ch/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔    | Some plugs  | Talacker 41 CH-8001 Zürich  | Mon - Fri: 07:00 - 19:00 Sat - Sun: 09:00 - 19:00
+
+![](http://www.speedtest.net/result/7234244439.png)
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
