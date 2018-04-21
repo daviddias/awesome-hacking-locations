@@ -769,6 +769,16 @@ Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Rakowicka 20A, 31-510 Kraków](https://goo.gl/maps/YbrduK8vuKv) | Mon-Sat 8:00-20:00, Sun 8:00-19:00
 
+#### Café Lisboa
+
+> Solid coffee in a portuguese ambience. Calm music, lovely summer garden. A tiny spot but never loud. Great pasteis de nata, lunch options too.
+
+Webpage: https://www.facebook.com/cafelisboa.krakow/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | x | [33-332, Dolnych Młynów 3, 33-332 Kraków](https://goo.gl/maps/qJ1DVt4jAU92) | Mon-Wed 08:00-20:00, Thu-Fri 08:00-21:00, Sat-Sun 10:00-20:00
+
 #### Café Tektura
 
 > Great coffee, with multiple brew choices, and sound food. Smallish and usually quiet.
@@ -778,6 +788,16 @@ Webpage: https://www.facebook.com/TEKTURAcafe/
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Krupnicza 7, 33-332 Kraków](https://goo.gl/maps/UJ3uijZZAcA2) | Mon-Sun 10:00-21:00
+
+#### Coffee Corner
+
+> Good coffee and tea, right in the middle of the main railway station. Can get busy but usually not very loud. Plenty of electrical plugs available.
+
+Webpage: http://www.coffeecorner.pl/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Pawia 5a, 31-154 Kraków](https://goo.gl/maps/XkhhquuUZ252) | Mon-Sun 05:00-22:00
 
 ## Gliwice
 
