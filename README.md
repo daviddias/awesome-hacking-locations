@@ -1182,13 +1182,18 @@ See https://github.com/otobrglez/awesome-workplaces-slovenia
 
 #### Hollys Coffee, Line 9, Sinnonhyeon station
 
-> Extremely fast, stable internet, Power outlet on every seats, 24Hours open
+> Extremely fast, stable internet, Power outlet on every seats, 24 Hours open
+>
 > I saw ASUS RT-AC68U WiFi Router
+>
 > Router connected with KT Giga Internet, which is fastest internet in South Korea (including oversea network access)
+>
 > Many seats and seat types (Sofa, Bar Stools...)
+>
 > Has Smoking Area
 
 Google Maps: https://goo.gl/maps/osWKar7YQfm
+
 Naver Map: http://naver.me/FjThMRso
 
 Wifi | Power | Address | Open Hours
