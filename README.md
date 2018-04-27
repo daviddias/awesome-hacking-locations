@@ -63,6 +63,8 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
 - [Singapore 🇸🇬](#singapore-)
   - [Outram Park](#outram-park)
 - [Slovenia 🇸🇮](#slovenia-)
+- [South Korea 🇰🇷](#south-korea-)
+  - [Seoul](#seoul)
 - [Spain 🇪🇸](#spain-)
   - [Barcelona](#barcelona)
   - [Oviedo](#oviedo)
@@ -1170,6 +1172,33 @@ Wifi | Power | Address | Open Hours
 # Slovenia 🇸🇮
 
 See https://github.com/otobrglez/awesome-workplaces-slovenia
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+# South Korea 🇰🇷
+
+## Seoul
+
+#### Hollys Coffee, Line 9, Sinnonhyeon station
+
+> Extremely fast, stable internet, Power outlet on every seats, 24Hours open
+> I saw ASUS RT-AC68U WiFi Router
+> Router connected with KT Giga Internet, which is fastest internet in South Korea (including oversea network access)
+> Many seats and seat types (Sofa, Bar Stools...)
+> Has Smoking Area
+
+Google Maps: https://goo.gl/maps/osWKar7YQfm
+Naver Map: http://naver.me/FjThMRso
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [478, Gangnam-daero, Gangnam-gu, Seoul, Republic of Korea](https://goo.gl/maps/osWKar7YQfm) | 24H, Everyday
+
+![](http://www.speedtest.net/result/7264247601.png)
+
+---------------------------------------------------------------
+---------------------------------------------------------------
 
 # Spain 🇪🇸
 
