@@ -492,7 +492,7 @@ Wifi | Power | Address | Open Hours
 #### Café Rossi
 
 > Next to the university; below the local hackspace
-> home-baked cake and pastries; 
+> home-baked cake and pastries;
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
@@ -1044,6 +1044,18 @@ Wifi | Power | Address | Open Hours
 
 ![](http://www.speedtest.net/result/5789565474.png)
 
+#### Mercearia do Campo
+
+> Great lunch menu, quiet all day (except lunch), friendly people and cosy atmosphere.
+
+Webpage: http://www.merceariadocampo.pt/en_GB/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Rua Saraiva de Carvalho - 115 R/C, 1250-242 Lisboa](https://goo.gl/maps/AX6XdBCy2bN2) | Mon-Thu 08:00 - 00:00, Fri-Sat 09:00 - 02:00
+
+![](http://www.speedtest.net/result/7297518934.png)
+
 ## Porto
 
 #### Bop
@@ -1149,7 +1161,7 @@ Wifi | Power | Address | Open Hours
 
 #### Bread & Hearth
 
-> In the center of Keong Siak road, with plenty of coffee shops and restaurants. Awesome handcrafted artisan bread, and decent coffee. Crowded between 12 - 2pm. 
+> In the center of Keong Siak road, with plenty of coffee shops and restaurants. Awesome handcrafted artisan bread, and decent coffee. Crowded between 12 - 2pm.
 
 Webpage: http://breadandhearth.com/
 
@@ -1161,7 +1173,7 @@ Wifi | Power | Address | Open Hours
 
 #### Jimmy Monkey
 
-> Friendly to keyboard warriors, they also do a selection of simple-done-right munchies. 
+> Friendly to keyboard warriors, they also do a selection of simple-done-right munchies.
 
 Webpage: http://www.jimmymonkey.com/
 
@@ -1252,7 +1264,7 @@ Webpage: http://federalcafe.es/barcelona-gotic/
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | -------------- | -------
-✔ | ✔ | [Passatge de la Pau, 11](https://goo.gl/maps/o8dbgysDLbw) | 
+✔ | ✔ | [Passatge de la Pau, 11](https://goo.gl/maps/o8dbgysDLbw) |
 
 ## Oviedo
 
@@ -1285,7 +1297,7 @@ Webpage: http://cafefatoljen.com
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔    | ✔     | Götgatan 14, 118 46 Stockholm, Sweden | 9–23 
+✔    | ✔     | Götgatan 14, 118 46 Stockholm, Sweden | 9–23
 
 #### Café Pascal
 
@@ -1295,7 +1307,7 @@ Webpage: https://cafepascal.se
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔    | Some  | Norrtullsgatan 4, 113 29 Stockholm, Sweden | 7–19 
+✔    | Some  | Norrtullsgatan 4, 113 29 Stockholm, Sweden | 7–19
 
 ## Uppsala
 
@@ -1316,9 +1328,9 @@ Wifi | Power | Address | Open Hours
 
 ## Zurich
 
-#### Boreal Coffee Shop - Talacker 
+#### Boreal Coffee Shop - Talacker
 
-> Very nice coffee, spacious, good tables to work and a bunch of couches. 
+> Very nice coffee, spacious, good tables to work and a bunch of couches.
 
 Webpage: http://www.borealcoffee.ch/
 
@@ -1639,7 +1651,7 @@ Webpage: https://aws.amazon.com/start-ups/loft/ny-loft/
 
 Wifi | Power | Coffee | Address | Open Hours
 ---- | ----- | -------| ------- | ----------
-open, password on wall | ✔ | ✔ | [350 W Broadway, New York, NY 10013](https://goo.gl/maps/ZW3sm9LDkJm) | Open Monday - Friday, 10:00am - 6:00pm 
+open, password on wall | ✔ | ✔ | [350 W Broadway, New York, NY 10013](https://goo.gl/maps/ZW3sm9LDkJm) | Open Monday - Friday, 10:00am - 6:00pm
 
 #### Ground Support Cafe
 > Great spot in Soho for getting things done and feeling like you belong with the cool soho crowd
