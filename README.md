@@ -82,6 +82,7 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
   - [Arizona <a id="arizona"></a>](#arizona)
   - [California <a id="california"></a>](#california-)
     - [Los Angeles, CA <a id="los-angeles-ca"></a>](#los-angeles-ca-)
+    - [San Diego, CA <a id="san-diego-ca"></a>](#san-diego-ca-)
     - [Mountain View, CA <a id="mountain-view-ca"></a>](#mountain-view-ca-)
     - [Oakland, CA <a id="oakland-ca"></a>](#oakland-ca-)
     - [Palo Alto, CA <a id="palo-alto-ca"></a>](#palo-alto-ca-)
@@ -1441,6 +1442,17 @@ Wifi| Power  | Address | Open Hours
 Wifi| Power  | Address | Open Hours
 ----|-------|--------|---------|----------
   ✔ | ✔| [34 Washington Blvd, Venice, CA 90292](https://goo.gl/maps/Swe3G5wnFuy) |6AM - 9PM
+
+### San Diego, CA <a id="san-diego-ca"></a>
+
+#### Vinaka Cafe
+
+> Very Californian and laid back. Common spot for locals with wonderful food
+> and ice cream. 
+
+Wifi | Power  | Address | Open Hours
+-----|-------|--------|---------|----------
+  ✔ | ✔ | [300 Carlsbad Village Dr #211, Carlsbad, CA 92008](https://goo.gl/maps/x9ReUJVpnYD2) | 7AM - 10PM
 
 ### Mountain View, CA <a id="mountain-view-ca"></a>
 
