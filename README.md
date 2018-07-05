@@ -1013,16 +1013,6 @@ Wifi | Power | Climatization  | Address | Open Hours
 ---- | ----- | -------------- | ------- | ----------
 ✔ | ✔ | ❄️/♨️ | [Largo Rafael Bordalo Pinheiro 29 R/C Lisboa](https://goo.gl/maps/Eho6a8ufqRQ2) | Mon-Wed 12-11pm & Thu-Sun 12pm-12am
 
-#### Strudel
-
-> It's central and at the same time quiet, has maybe the best Strudel in Lisbon.
-
-Webpage: http://4sq.com/IfaNBS
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Av. Miguel Bombarda, 5A Lisboa](https://goo.gl/maps/s2Hu3uxQcJM2) | Mon-Fri 07:30 - 19:00, Sat-Sun 08:00 - 19:00
-
 #### Tartine
 
 Webpage: http://tartine.pt/
