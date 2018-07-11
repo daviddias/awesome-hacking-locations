@@ -1641,7 +1641,7 @@ paying | ✔ | ✔ | [626 Somerville Ave, Somerville, MA 02143](https://goo.gl/m
 
 ##South Carolina
 
-###Columbia, South Carolina <a id="columbia-ca"></a>
+###Columbia, South Carolina <a id="columbia-sc-"></a>
 
 #### Yoghut
 
