@@ -96,6 +96,8 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
     - [Boston, MA <a id="boston-ma"></a>](#boston-ma-)
     - [Cambridge, MA <a id="cambridge-ma"></a>](#cambridge-ma-)
     - [Somerville, MA <a id="somerville-ma"></a>](#somerville-ma-)
+  - [South Carolina <a id="south-carolina"></a>](#south-carolina-)
+    - [Columbia, SC <a id="columbia-sc"></a>](#columbia-sc-)
   - [Texas](#Texas)
     - [Austin, TX](#austin-tx)
   - [New York <a id="new-york"></a>](#new-york-)
@@ -1636,6 +1638,20 @@ Webpage: http://www.forgebakingco.com/
 Wifi | Power | Coffee | Address | Open Hours
 ---- | ----- | ------ | ------- | ----------
 paying | ✔ | ✔ | [626 Somerville Ave, Somerville, MA 02143](https://goo.gl/maps/gKjnLGtTYE62) | Mon-Fri 07:00-19:00
+
+##South Carolina
+
+###Columbia, South Carolina <a id="columbia-sc-"></a>
+
+#### Yoghut
+
+> Great coffee, acai bowls and bubble tea. Never crowded or noisy either so its good if you enjoy peace and quite for hacking.
+
+Webpage: https://yoghut.com/
+
+Wifi | Power | Climatization  | Address | Open Hours
+---- | ----- | -------------- | ------- | ----------
+✔ | ✔ | ❄️/♨️ | [601 Main St, Columbia, SC 29201](https://goo.gl/maps/CPWuqG7QcVH2) | Mon-Sat 9:30AM-11PM, Sun 10:30AM-1PM
 
 ## Texas
 
