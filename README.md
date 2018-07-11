@@ -97,7 +97,7 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
     - [Cambridge, MA <a id="cambridge-ma"></a>](#cambridge-ma-)
     - [Somerville, MA <a id="somerville-ma"></a>](#somerville-ma-)
   - [South Carolina <a id="south-carolina"></a>](#south-carolina-)
-    - [Columbia, SC <a id="columbia-sc"></a>](#columbia-sc)
+    - [Columbia, SC <a id="columbia-sc"></a>](#columbia-sc-)
   - [Texas](#Texas)
     - [Austin, TX](#austin-tx)
   - [New York <a id="new-york"></a>](#new-york-)
@@ -1641,7 +1641,7 @@ paying | ✔ | ✔ | [626 Somerville Ave, Somerville, MA 02143](https://goo.gl/m
 
 ##South Carolina
 
-###Columbia, South Carolina
+###Columbia, South Carolina <a id="columbia-ca"></a>
 
 #### Yoghut
 
