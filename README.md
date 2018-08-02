@@ -845,6 +845,17 @@ Wifi | Power | Address | Open Hours
 
 ## Braga
 
+#### Starbucks Braga
+
+> Starbucks coffee shop in the city center, with WiFi access and some tables to work. Calm and clean space.
+
+Webpage: http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portugal/detail/1021430
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Shopping Liberdade Street Fashion, Avenida da Liberdade, Braga, 4710-251](https://goo.gl/maps/oknJVz1HrS42) | Sun-Thu 8:00 - 23:00, Fri-Sat 08:00 - 01:00
+
+
 #### Jeronymo
 
 > Starbucks like café near the city center. As cool sofas and tables to work. To use the wifi you have to buy something and ask for the password.
