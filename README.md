@@ -1036,16 +1036,6 @@ Wifi | Power | Climatization | Address | Open Hours
 
 ![](http://beta.speedtest.net/result/6628785269.png)
 
-#### Velocité Cafe
-
-> Awesome bike shop that has really good sandwiches and coffee (plus you get a discount if you arrive on a bike).
-
-Webpage: http://velocitecafe.com
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Av. Duque de Ávila 120A, 1050-084 Lisboa](https://goo.gl/maps/RRm5Qdx2k3u) |
-
 #### Wish - Slow Coffee House
 
 > Small coffee shop with good tables
