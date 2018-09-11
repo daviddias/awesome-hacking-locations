@@ -829,7 +829,7 @@ Webpage: http://ilovenicolau.com
 
 Wifi | Power | Climatization  | Address | Open Hours
 ---- | ----- | -------------- | ------- | ----------
-✔ | ✔ | ❄️ | [R. Ferreira Borges 101, 1350-128 Lisboa](https://goo.gl/maps/Bi2T5KDHpa82) | 9am - 7pm
+✔ | ✔ | ❄️ | [R. Ferreira Borges 101, 1350-128 Lisboa](https://goo.gl/maps/Bi2T5KDHpa82) | 9am - 9pm
 
 ![](http://www.speedtest.net/result/7625788478.png)
 
