@@ -102,6 +102,8 @@ Awesome Hacking Locations [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
     - [Austin, TX](#austin-tx)
   - [New York <a id="new-york"></a>](#new-york-)
     - [New York, NY <a id="new-york-ny"></a>](#new-york-ny-)
+  - [Virginia <a id="virginia"></a>](#virginia-)
+    - [Richmond, VA <a id="richmond-va"></a>](#richond-va-)
   - [Washington <a id="washington"></a>](#washington-)
     - [Bellevue, WA <a id="bellevue-wa"></a>](#bellevue-wa-)
     - [Seattle, WA <a id="seattle-wa"></a>](#seattle-wa-)
@@ -1699,6 +1701,20 @@ Webpage: http://www.pushcartcoffee.com/
 Wifi | Power | Coffee | Address | Open Hours
 ---- | ----- | -------| ------- | ----------
 open, password on Wall | ✔ | ✔  | [401 W 25th St, New York, NY 10001](https://goo.gl/maps/52PdznrXbsF2) | Open Monday - Friday, 7:00am - 8:30pm Saturday - Sunday, 8:00am - 7:30pm |
+
+## Virginia <a id="virginia"></a>
+
+### Richmond, VA <a id="richmond-va"></a>
+
+#### Ironclad Coffee
+
+> Lots of small and large tables, free fast wifi, plenty of power, and some of the best coffee in Richmond.
+
+Webpage: https://ironcladcoffee.com/
+
+Wifi | Power | Climatization  | Address | Open Hours
+---- | ----- | -------------- | ------- | ----------
+✔ | ✔ | ✔ / ✔ | [1805 E Grace St, Richmond, VA 23223](https://goo.gl/maps/eXyASDqE7432) | Open Monday - Friday, 7:00am - 6:00pm Saturday 8:00am - 6:00pm Closed Sundays |
 
 ## Washington <a id="washington"></a>
 
