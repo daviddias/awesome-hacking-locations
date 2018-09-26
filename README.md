@@ -792,7 +792,7 @@ Webpage: https://www.facebook.com/TEKTURAcafe/
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ✔ | [Krupnicza 7, 33-332 Kraków](https://goo.gl/maps/UJ3uijZZAcA2) | Mon-Sun 10:00-21:00
+✔ | ✔ | [Krupnicza 7, 33-332 Kraków](https://goo.gl/maps/UJ3uijZZAcA2) | Mon-Sun 08:00-21:00
 
 #### Coffee Corner
 
