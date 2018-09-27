@@ -103,7 +103,7 @@ Awesome Hacking Locations [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
   - [New York <a id="new-york"></a>](#new-york-)
     - [New York, NY <a id="new-york-ny"></a>](#new-york-ny-)
   - [Virginia <a id="virginia"></a>](#virginia-)
-    - [Richmond, VA <a id="richmond-va"></a>](#richond-va-)
+    - [Richmond, VA <a id="richmond-va"></a>](#richmond-va-)
   - [Washington <a id="washington"></a>](#washington-)
     - [Bellevue, WA <a id="bellevue-wa"></a>](#bellevue-wa-)
     - [Seattle, WA <a id="seattle-wa"></a>](#seattle-wa-)
@@ -1714,7 +1714,7 @@ Webpage: https://ironcladcoffee.com/
 
 Wifi | Power | Climatization  | Address | Open Hours
 ---- | ----- | -------------- | ------- | ----------
-✔ | ✔ | ✔ / ✔ | [1805 E Grace St, Richmond, VA 23223](https://goo.gl/maps/eXyASDqE7432) | Open Monday - Friday, 7:00am - 6:00pm Saturday 8:00am - 6:00pm Closed Sundays |
+open, password on wall | ✔ | ❄️/♨️ | [1805 E Grace St, Richmond, VA 23223](https://goo.gl/maps/eXyASDqE7432) | Open Monday - Friday, 7:00am - 6:00pm Saturday 8:00am - 6:00pm Closed Sundays |
 
 ## Washington <a id="washington"></a>
 
