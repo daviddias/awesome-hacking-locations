@@ -893,6 +893,20 @@ Wifi | Power | Address | Open Hours
 
 ## Lisbon
 
+#### Amélia
+
+> Nice place with really nice environment and laptop friendly!
+
+Webpage: http://ilovenicolau.com
+
+Wifi | Power | Climatization  | Address | Open Hours
+---- | ----- | -------------- | ------- | ----------
+✔ | ✔ | ❄️ | [R. Ferreira Borges 101, 1350-128 Lisboa](https://goo.gl/maps/Bi2T5KDHpa82) | 9am - 9pm
+
+![](http://www.speedtest.net/result/7625788478.png)
+
+Wifi pw: `ilovenicolau`
+
 #### Café Tati
 
 > Good homemade food, friendly people and nice atmosphere.
