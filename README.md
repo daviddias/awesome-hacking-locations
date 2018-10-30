@@ -5,7 +5,7 @@ Awesome Hacking Locations [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 
 ## Index
 
-- [Awesome Hacking Spots *](#awesome-hacking-spots-)
+- [Awesome Hacking Spots](#awesome-hacking-spots-)
   - [Index](#index)
   - [Contribute 🌟](#contribute-)
   - [Template](#template)
@@ -71,7 +71,7 @@ Awesome Hacking Locations [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 - [Sweden 🇸🇪](#sweden-)
   - [Stockholm](#stockholm)
   - [Uppsala](#uppsala)
-- [Switzerland 🇨🇭](#switzerland)
+- [Switzerland 🇨🇭](#switzerland-)
   - [Zurich](#zurich)
 - [Turkey 🇹🇷](#turkey-)
   - [Istanbul](#istanbul)
@@ -258,7 +258,7 @@ Wifi| Power | Address  | Open Hours
 ---------------------------------------------------------------
 ---------------------------------------------------------------
 
-## Montréal
+## Montréal <a id="montreal"></a>
 
 #### Café Replika
 
@@ -1431,9 +1431,9 @@ Wifi | Power | Address | Open Hours
 
 > local art, some food, kind of punk/dingy, lots of people at their computers, 24/7
 
-Wifi| Power  | Address | Open Hours
-----|-------|--------|---------|----------
-  ✔ | ✔| [21 E Broadway Blvd, Tucson, AZ 85701](https://goo.gl/maps/WUJjwGczYS42) |24/7
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔| [21 E Broadway Blvd, Tucson, AZ 85701](https://goo.gl/maps/WUJjwGczYS42) |24/7
 
 ## California <a id="california"></a>
 
@@ -1444,8 +1444,8 @@ Wifi| Power  | Address | Open Hours
 > Casually cow-themed cafe and deli, with lots of 1st and 2nd floor seating,
 > literally a block from the Pacific Ocean.
 
-Wifi| Power  | Address | Open Hours
-----|-------|--------|---------|----------
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
   ✔ | ✔| [34 Washington Blvd, Venice, CA 90292](https://goo.gl/maps/Swe3G5wnFuy) |6AM - 9PM
 
 ### San Diego, CA <a id="san-diego-ca"></a>
@@ -1455,8 +1455,8 @@ Wifi| Power  | Address | Open Hours
 > Very Californian and laid back. Common spot for locals with wonderful food
 > and ice cream. 
 
-Wifi | Power  | Address | Open Hours
------|-------|--------|---------|----------
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
   ✔ | ✔ | [300 Carlsbad Village Dr #211, Carlsbad, CA 92008](https://goo.gl/maps/x9ReUJVpnYD2) | 7AM - 10PM
 
 ### Mountain View, CA <a id="mountain-view-ca"></a>
@@ -1465,8 +1465,8 @@ Wifi | Power  | Address | Open Hours
 
 > Red walls set the mood at a cafe where art & live music are often served with the coffee & snacks
 
-Wifi| Power  | Address | Open Hours
-----|-------|--------|---------|----------
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
   ✔ | ✔| [201 Castro St, Mountain View, CA 94041](https://goo.gl/maps/PGtEs1GB6Wo) | Mon-Thu 7:00-22:00, Fri 7:00-23:00, Sat 8:00-23:00, Sun 8:00-20:00
 
 ### Oakland, CA <a id="oakland-ca"></a>
@@ -1475,8 +1475,8 @@ Wifi| Power  | Address | Open Hours
 
 > Huge, artsy space with ample power outlets, varied seating, and solid wifi.
 
-Wifi| Power  | Address | Open Hours
-----|-------|--------|---------|----------
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
   ✔ | ✔| [4210 Telegraph Ave, Oakland, CA 94609](https://goo.gl/maps/QWCffXaT5482) | 8AM - 7PM
 
 #### Hudson Bay Cafe
@@ -1484,8 +1484,8 @@ Wifi| Power  | Address | Open Hours
 > Very sunny, cozy spot with tasty coffee and food. Right on the street corner
 > for optimal people-watching.
 
-Wifi| Power  | Address | Open Hours
-----|-------|--------|---------|----------
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
   ✔ | ✔| [5401 College Ave, Oakland, CA 94618](https://goo.gl/maps/fHX4zid3HH72) | Weekdays: 6AM - 6PM, Weekends: 7AM - 6PM
 
 ### Palo Alto, CA <a id="palo-alto-ca"></a>
@@ -1496,8 +1496,8 @@ Wifi| Power  | Address | Open Hours
 
 Webpage: http://hanahaus.com/
 
-Wifi| Power  | Address | Open Hours
-----|-------|--------|---------|----------
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
   ✔ | ✔| [456 University Ave, Palo Alto, CA 94301](https://goo.gl/maps/B2Q66N7tdvP2) | Mon-Fri 7:00-19:00, Sat-Sun 8:00-19:00
 
 ### San Jose, CA
@@ -1507,14 +1507,14 @@ Wifi| Power  | Address | Open Hours
 > Nice decor & theming, upstairs seating, and friendly staff. Wifi is *decent*.
 
 Wifi | Power | Coffee | Address | Open Hours
----- | ----- | ------ | ------- | ----------
+---- | ----- | ----- | ------- | ----------
 ask | ✔ | ✔ | [315 S 1st St, San Jose, CA 95113](https://goo.gl/maps/VRUZDfDBakM2) | Mon-Thu 7:30-22:00, Fri-Sat 8:00-00:00, Sun 8:00-21:00
 
-### Santa Monica, CA
+### Santa Monica, CA <a id="santa-monica-ca"></a>
 
 #### Refinery
 
-> Greate coffee and usually has available seating. Wifi is *shit*.
+> Great coffee and usually has available seating. Wifi is *bad*.
 
 Webpage: http://the-refinery.cafes-city.com/
 
@@ -1642,9 +1642,9 @@ Wifi | Power | Coffee | Address | Open Hours
 ---- | ----- | ------ | ------- | ----------
 paying | ✔ | ✔ | [626 Somerville Ave, Somerville, MA 02143](https://goo.gl/maps/gKjnLGtTYE62) | Mon-Fri 07:00-19:00
 
-##South Carolina
+## South Carolina <a id="south-carolina-"></a>
 
-###Columbia, South Carolina <a id="columbia-sc-"></a>
+### Columbia, South Carolina <a id="columbia-sc-"></a>
 
 #### Yoghut
 
@@ -1688,6 +1688,7 @@ open, password on wall | ✔ | ✔ | [350 W Broadway, New York, NY 10013](https:
 > Great spot in Soho for getting things done and feeling like you belong with the cool soho crowd
 
 Webpage: http://www.groundsupportcafe.com/
+
 Wifi | Power | Coffee | Address | Open Hours
 ---- | ----- | -------| ------- | ----------
 open, password on wall | ✔ | ✔ | [399 W Broadway, New York, NY 10013](https://goo.gl/maps/ZW3sm9LDkJm) | Open Weekdays 7am - 8pm Weekends 8am - 8pm |
@@ -1746,7 +1747,7 @@ Webpage: http://zeitgeistcoffee.com/
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------ | ------- | ----------
-open | ✔ |  [171 S Jackson St, Seattle, WA 98104](https://goo.gl/maps/SBzQwwPcdQ62) | Mon-Fri 6:00-19:00, Sat 7:00-19:00, Sun 8:00-20:00
+open | ✔ | [171 S Jackson St, Seattle, WA 98104](https://goo.gl/maps/SBzQwwPcdQ62) | Mon-Fri 6:00-19:00, Sat 7:00-19:00, Sun 8:00-20:00
 
 #### Ada's Technical Books
 
@@ -1761,5 +1762,6 @@ ask | ✔ | ✔ | [425 15th Ave E, Seattle, WA 98112](https://goo.gl/maps/2RFTNQ
 > Cafe, with beer and nice location on greenlake
 
 Wifi | Power | Address | Open Hours
----- | ----- | ------ | ------- | ----------
-ask | ✔ |  [6900 East Green Lake Way N, Seattle, WA 98115](https://goo.gl/maps/hgjYxwLr8sS2) | Mon-Fri 6:00-21:00, Sat 7:00-21:00, Sun 7:00-20:00
+---- | ----- | ------- | ----------
+ask | ✔ | [6900 East Green Lake Way N, Seattle, WA 98115](https://goo.gl/maps/hgjYxwLr8sS2) | Mon-Fri 6:00-21:00, Sat 7:00-21:00, Sun 7:00-20:00
+ 
