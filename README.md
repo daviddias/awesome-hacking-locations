@@ -430,7 +430,7 @@ Wifi | Power | Address | Open Hours
 
 > A weird old hackspace that masquerades as an alien ship, or vice versa. Good for hacking in dark corners with lots of Club Mate. Non-smoker not friendly. You may need a member to let you in, or to stay for a longer period of time.
 
-Webpage: https://www.c-base.org/  
+Webpage: https://www.c-base.org/
 Wikipedia: https://en.wikipedia.org/wiki/C-base
 
 Wifi | Power | Address | Open Hours
@@ -846,6 +846,19 @@ Wifi | Power | Address | Open Hours
 ✔ | ✔ | [Rua Joao Mendonca 17, 3880-200 Aveiro](https://goo.gl/maps/ay2aTFp8EQr) | Tue-Thu, Sun 20:00-01:00, Fri-Sat 20:00-2:00
 
 ## Braga
+
+#### Nórdico Coffee Shop & Brunch
+
+> Specialty coffee and brunch in the city center. Calm, clean, great food, even
+> better coffee.
+
+Webpage: https://www.facebook.com/Nordicocoffeeshop/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [R. do Anjo 90A, 4700-305 Braga](https://goo.gl/maps/L2yeswCyJoG2) | Mon: 12-19h, Wed-Sat: 10h30-19h, Sun: 11-17h
+
+![](http://www.speedtest.net/result/7911413495.png)
 
 #### Starbucks Braga
 
@@ -1467,7 +1480,7 @@ Wifi | Power | Address | Open Hours
 #### Vinaka Cafe
 
 > Very Californian and laid back. Common spot for locals with wonderful food
-> and ice cream. 
+> and ice cream.
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
@@ -1778,4 +1791,4 @@ ask | ✔ | ✔ | [425 15th Ave E, Seattle, WA 98112](https://goo.gl/maps/2RFTNQ
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ask | ✔ | [6900 East Green Lake Way N, Seattle, WA 98115](https://goo.gl/maps/hgjYxwLr8sS2) | Mon-Fri 6:00-21:00, Sat 7:00-21:00, Sun 7:00-20:00
- 
+
