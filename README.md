@@ -177,6 +177,16 @@ Wifi | Power | Address | Open Hours
 
 ![](http://www.speedtest.net/result/6022204011.png)
 
+#### Hackerspace Brussels (HSBXL)
+
+> Hackerspace Brussels (HSBXL) is a space, dedicated to various aspects of constructive & creative hacking. The space is about 300 square meters, there is a little electronics lab with over 9000 components, a library, and lots of tools. You're always welcome to follow one of the workshops or come to the weekly Tuesday meetings, hack nights or other get-together events.
+
+Webpage: https://hsbxl.be/
+
+Wifi | Power  | Address | Open Hours
+---- | ----- | -------------- | ------- | ----------
+✔ | ✔ | [Rue des Goujons 152, 1070 Brussels](https://goo.gl/maps/7UqJcxPrsar) | Tue 19:00-00:00
+
 ---------------------------------------------------------------
 ---------------------------------------------------------------
 
