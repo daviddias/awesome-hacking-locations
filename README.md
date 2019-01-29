@@ -86,6 +86,7 @@ Awesome Hacking Locations [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
     - [Mountain View, CA <a id="mountain-view-ca"></a>](#mountain-view-ca-)
     - [Oakland, CA <a id="oakland-ca"></a>](#oakland-ca-)
     - [Palo Alto, CA <a id="palo-alto-ca"></a>](#palo-alto-ca-)
+    - [San Francisco, CA](#san-francisco-ca)
     - [San Jose, CA](#san-jose-ca)
     - [Santa Monica, CA <a id="santa-monica-ca"></a>](#santa-monica-ca-)
   - [Illinois](#illinois)
@@ -1536,6 +1537,49 @@ Webpage: http://hanahaus.com/
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
   ✔ | ✔| [456 University Ave, Palo Alto, CA 94301](https://goo.gl/maps/B2Q66N7tdvP2) | Mon-Fri 7:00-19:00, Sat-Sun 8:00-19:00
+
+#### Backyard Brew
+
+> Outdoor caffee in backyard with tents to shelter you from sun/rain. Open all-year round.
+
+Webpage: https://aoccoffee.com/
+
+Wifi | Power | Coffee | Address | Open Hours
+---- | ----- | ------ | ------- | ----------
+  ✔ | ✔ | great | [444 California Ave, Palo Alto, CA 94301](https://goo.gl/maps/8hugtvc2vUM2) | Mon-Sat 8:00-17:00, Sun 8:00-15:00
+
+![](https://www.speedtest.net/result/7995445392.png)
+
+### San Francisco, CA <a id="san-francisco-ca"></a>
+
+#### Coffee Bar
+
+> Big and spacious space with many seats, lots of plugs, not that great WiFi. During summer it may get quiet hot as no AC/good air flow.
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+  ✔ | ✔| [1890 Bryant St, San Francisco, CA 94110](https://goo.gl/maps/6i2sppYKZ2P2) | Mon-Fri 7:30-16:00, Sat 8:00-16:00, Sun 10:00-16:00
+
+#### Sightglass Coffee
+
+> Even though no-wifi and no power plugs, still worth visiting because it is very vibrant space, with cool vibe.
+
+Webpage: https://sightglasscoffee.com/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+Nope | Nope | [270 7th St, San Francisco, CA 94103](https://goo.gl/maps/Lr63kJgk43M2) | Mon-Sun 7:00-19:00
+
+#### Black Hammer Brewing
+
+> If you are "over-coffeed" you can try this great brewery with lot of craft beers on tap. Very work-friendly (USB ports, staff will borrow even cables for charching etc). In the evening it gets quiet busy.
+
+Webpage: https://blackhammerbrewing.com
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [544 Bryant St, San Francisco, CA 94107](https://goo.gl/maps/8VoTSniJ5FC2) | Mon-Sun 12:00-23:00
+
 
 ### San Jose, CA
 
