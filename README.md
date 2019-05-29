@@ -1826,9 +1826,9 @@ Wifi | Power | Coffee | Address | Open Hours
 
 Webpage: http://zeitgeistcoffee.com/
 
-Wifi | Power | Address | Open Hours
+Wifi | Power | Coffee | Address | Open Hours
 ---- | ----- | ------ | ------- | ----------
-open | ✔ | | [171 S Jackson St, Seattle, WA 98104](https://goo.gl/maps/SBzQwwPcdQ62) | Mon-Fri 6:00-19:00, Sat 7:00-19:00, Sun 8:00-20:00
+open | ✔ | ✔ | [171 S Jackson St, Seattle, WA 98104](https://goo.gl/maps/SBzQwwPcdQ62) | Mon-Fri 6:00-19:00, Sat 7:00-19:00, Sun 8:00-20:00
 
 #### Ada's Technical Books
 
