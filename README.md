@@ -1572,7 +1572,7 @@ Nope | Nope | [270 7th St, San Francisco, CA 94103](https://goo.gl/maps/Lr63kJgk
 
 #### Black Hammer Brewing
 
-> If you are "over-coffeed" you can try this great brewery with lot of craft beers on tap. Very work-friendly (USB ports, staff will borrow even cables for charching etc). In the evening it gets quiet busy.
+> If you are "over-coffeed" you can try this great brewery with lot of craft beers on tap. Very work-friendly (USB ports, staff will even loan out cables for charging). In the evening it gets quite busy.
 
 Webpage: https://blackhammerbrewing.com
 
@@ -1804,7 +1804,7 @@ open, password on wall | ✔ | ❄️/♨️ | [1805 E Grace St, Richmond, VA 23
 
 #### Bellevue Public Library
 
-> Free to all, a lot of space, 3 floors, free parking lot
+> Free to all, a lot of space, 3 floors, free parking lot.
 
 Wifi | Power | Coffee | Address | Open Hours
 ---- | ----- | ------ | ------- | ----------
@@ -1828,11 +1828,11 @@ Webpage: http://zeitgeistcoffee.com/
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------ | ------- | ----------
-open | ✔ | [171 S Jackson St, Seattle, WA 98104](https://goo.gl/maps/SBzQwwPcdQ62) | Mon-Fri 6:00-19:00, Sat 7:00-19:00, Sun 8:00-20:00
+open | ✔ | | [171 S Jackson St, Seattle, WA 98104](https://goo.gl/maps/SBzQwwPcdQ62) | Mon-Fri 6:00-19:00, Sat 7:00-19:00, Sun 8:00-20:00
 
 #### Ada's Technical Books
 
-> Tasty coffee and great food, free wifi and places, but also has paid day passes for private space
+> Tasty coffee and great food, free wifi and places, but also has paid day passes for private space.
 
 Wifi | Power | Coffee | Address | Open Hours
 ---- | ----- | ------ | ------- | ----------
@@ -1840,7 +1840,7 @@ ask | ✔ | ✔ | [425 15th Ave E, Seattle, WA 98112](https://goo.gl/maps/2RFTNQ
 
 #### Fix Coffeehouse
 
-> Cafe, with beer and nice location on greenlake
+> Cafe, with beer and nice location on Green Lake
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
