@@ -931,16 +931,6 @@ Wifi | Power | Climatization  | Address | Open Hours
 
 Wifi pw: `ilovenicolau`
 
-#### Café Tati
-
-> Good homemade food, friendly people and nice atmosphere.
-
-Webpage: http://www.cafetati.blogspot.dk
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [1200 371, R. Ribeira Nova 36, 1200-371 Lisboa](https://goo.gl/maps/mhZJSFpJPuL2) |
-
 #### Choupana Café
 
 Webpage: http://4sq.com/XuO7me
@@ -1099,6 +1089,16 @@ Wifi | Power | Address | Open Hours
 ✔ | ✔ | [Rua Saraiva de Carvalho - 115 R/C, 1250-242 Lisboa](https://goo.gl/maps/AX6XdBCy2bN2) | Mon-Thu 08:00 - 00:00, Fri-Sat 09:00 - 02:00
 
 ![](http://www.speedtest.net/result/7297518934.png)
+
+####  Eric Kayser
+
+> Open space even with wifi outdoors and nice cakes, could be noisy sometimes 
+
+Webpage: https://www.facebook.com/erickayserportugal
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Amoreiras Plaza Rua Professor, R. Carlos Alberto da Mota Pinto 9, 1250-252 Lisboa](https://goo.gl/maps/zxuU8HZMJbRwNpPWA) | Sat-Sun 08:00 - 20:00, Mon-Fri 07:30 - 20:30
 
 ## Porto
 
