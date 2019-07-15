@@ -1159,6 +1159,26 @@ Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Praça Carlos Alberto 104, Porto, Portugal](https://goo.gl/maps/sRRxzxuGLhB2) | Mon-Wed 8:00 - 20:00, Thu-Sat 8:00 - 2:00, Sun 14:00-20:00
 
+#### Café Candelabro
+
+> Coffee shop, library and bookshop right in the center of Porto.
+
+Webpage: https://www.cafecandelabro.com/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Rua da Conceição 2, Porto, Portugal](https://goo.gl/maps/fDQuuCgAZPZSgdgt7) | Sat 4:00pm - 2:00am, Sunday 4:00pm - 12:00am, Monday 1:00pm - 2:00am, Tuesday - Friday 10:30am - 2:00am
+
+#### Café Vitória
+
+> Restaurant and coffee shop right in the center of Porto with a nice garden in the back.
+
+Webpage: http://www.cafevitoria.com/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Rua de José Falcão 156, Porto, Portugal](https://goo.gl/maps/HT8dioSQPnDGecsMA) | Saturday 2:00pm – 2:00am, Sunday Closed, Monday - Thursday 12:00pm – 1:00am, Friday 12:00pm – 2:00am
+
 ## Viana do Castelo
 
 #### Pastelaria Jardim
@@ -1844,4 +1864,3 @@ ask | ✔ | ✔ | [425 15th Ave E, Seattle, WA 98112](https://goo.gl/maps/2RFTNQ
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ask | ✔ | [6900 East Green Lake Way N, Seattle, WA 98115](https://goo.gl/maps/hgjYxwLr8sS2) | Mon-Fri 6:00-21:00, Sat 7:00-21:00, Sun 7:00-20:00
-
