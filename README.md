@@ -42,6 +42,7 @@ Awesome Hacking Locations [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 - [Japan 🇯🇵](#japan-)
   - [Nagoya](#nagoya)
   - [Tokyo](#tokyo)
+  - [Kyoto](#kyoto)
 - [Lithuania 🇱🇹](#lithuania-)
   - [Vilnius](#vilnius)
 - [Netherlands 🇳🇱](#netherlands-)
@@ -629,6 +630,18 @@ Wifi | Power | Address | Open Hours
 ✔ | ✔ | [2 Chome-14-14 Akasaka, 港区赤坂 Tōkyō-to 107-0052](https://goo.gl/maps/jW9Ax6q33Ky) | Daily: 00:00-23:59
 
 ![](http://www.speedtest.net/result/5787230824.png)
+
+## Kyoto
+
+#### Mos Cafe
+
+> Nice cafe where they don't mind if you stay for the whole day. The wifi is so so but you can buy wi2 premium for 3$/6h.
+
+Webapage: https://www.mos.jp/shop/detail/02388/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [〒604-8162 Kyoto, Nakagyō-ku, Shichikannoncho, 烏丸通六角下る253-1 読売京都ビル](https://goo.gl/maps/7fMyyAVBkmWomHM17) | Daily: 10:00-21:00
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
