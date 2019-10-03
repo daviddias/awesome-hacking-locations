@@ -1126,6 +1126,17 @@ Wifi | Power | Address | Open Hours
 
 ![](http://www.speedtest.net/result/5468130872.png)
 
+#### Costa COFFEE
+> Influencer vibes, great coffee, english fiendly, accepts AliPay and has nice croissants.
+
+Webpage: https://https://www.costa.co.uk/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Praça dos Clérigos, Rua de São felipe de Nery, 4050-162 Porto](https://goo.gl/maps/ehNhrXQH3bXDyMjA8) | Mon-Sun 09:00am - 00:00pm
+
+![](https://www.speedtest.net/result/8644645756.png)
+
 #### Duas de Letra
 
 > Calm and cosy cafe with relaxing music and a nice backyard.
