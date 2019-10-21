@@ -98,6 +98,8 @@ Awesome Hacking Locations [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
     - [Boston, MA <a id="boston-ma"></a>](#boston-ma-)
     - [Cambridge, MA <a id="cambridge-ma"></a>](#cambridge-ma-)
     - [Somerville, MA <a id="somerville-ma"></a>](#somerville-ma-)
+  - [Minnesota <a id="minnesota"></a>](#minnesota-)
+    - [Minneapolis, MN <a id="minneapolis-mn"></a>](#minneapolis-mn-)
   - [South Carolina <a id="south-carolina"></a>](#south-carolina-)
     - [Columbia, SC <a id="columbia-sc"></a>](#columbia-sc-)
   - [Texas](#Texas)
@@ -1765,6 +1767,20 @@ Webpage: http://www.forgebakingco.com/
 Wifi | Power | Coffee | Address | Open Hours
 ---- | ----- | ------ | ------- | ----------
 paying | ✔ | ✔ | [626 Somerville Ave, Somerville, MA 02143](https://goo.gl/maps/gKjnLGtTYE62) | Mon-Fri 07:00-19:00
+
+## Minnesota <a id="minnesota"></a>
+
+### Minneapolis, MN <a id="minneapolis-mn-"></a>
+
+#### Peace Coffee
+
+> Good coffee and food options, big tables and a community room available
+
+Webpage: https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/
+
+Wifi | Power | Coffee | Address | Open Hours
+---- | ----- | ------ | ------- | ----------
+open | ✔ | ✔ | [3262 Minnehaha Ave, Minneapolis, MN 55406](https://goo.gl/maps/YaHLw8SkRLtYhG9q6) | Mon-Fri 06:30AM-08:00PM, Sat 07:00AM-08:00PM, Sun 8:00AM-8:00PM
 
 ## South Carolina <a id="south-carolina-"></a>
 
