@@ -691,6 +691,16 @@ Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Weesperzijde 23, 1091 EC Amsterdam, Netherlands](http://goo.gl/qLPEjU) | Sun-Thu 8AM-1AM, Fri-Sat 8AM-2AM
 
+#### Public Space
+
+> Across the river from Amsterdam Central. Great food, great coffee, remote worker friendly.
+
+Webpage: [publicspace.amsterdam](https://publicspace.amsterdam/)
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Bercylaan 301, 1031 KP Amsterdam, Netherlands](https://g.page/public-space-amsterdam) | Mon-Fri 9:00-17:00, Sun 10:00-17:00
+
 ## Delft
 
 #### Kek
