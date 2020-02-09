@@ -873,13 +873,26 @@ Wifi | Power | Address | Open Hours
 
 #### Mercado Negro
 
-> Old refurnished house; vintage; good for night owl hackers that just wanted to get something done
+> Old refurnished house; vintage; good for night owl hackers that just wanted to get something done. Calm and clean with several rooms, so there's always a quiet place to work.
 
-Webpage: [mercadonegro-aveiro.blogspot.pt](http://mercadonegro-aveiro.blogspot.pt)
+Webpage: [mercadonegro-aveiro.blogspot.pt](https://mercadonegro-aveiro.blogspot.pt)
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ✔ | [Rua Joao Mendonca 17, 3880-200 Aveiro](https://goo.gl/maps/ay2aTFp8EQr) | Tue-Thu, Sun 20:00-01:00, Fri-Sat 20:00-2:00
+✔ | ✔ | [Rua Joao Mendonca 17, 3880-200 Aveiro](https://goo.gl/maps/ay2aTFp8EQr) | Mon 21:00-02:00, Tue-Fri 17:00-02:00, Sat-Sun 14:00-02:00
+
+![](https://www.speedtest.net/result/9023464358.png)
+
+#### NATA Lisboa
+
+> Small modern place in the  city "centre". Calm, clean , a good variety of tapas to eat. Speciality natas.
+
+Webpage: [natalisboa.com](https://natalisboa.com)
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Praça Marquês de Pombal 3, 3810-076 Aveiro](https://g.page/nata-lisboa-aveiro) | Tue-Sun 09:00-19:00
+
 
 ## Braga
 
