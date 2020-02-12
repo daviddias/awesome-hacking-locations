@@ -296,7 +296,7 @@ Webpage: http://www5.kb.dk/en/dia/
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔    | ✘     | [Søren Kierkegaards Plads 1, Copenhagen](https://goo.gl/maps/FYgBmyrYyEc7h9zR7) | Mon-Fri 8:00-19:00, Sat 9:00-18:00
+✔    | ✘     | [Søren Kierkegaards Plads 1, Copenhagen](https://goo.gl/maps/FYgBmyrYyEc7h9zR7) | Mon-Fri 8:00-20:00, Sat 9:00-18:00
 
 #### Copenhagen Coffee Lab
 
