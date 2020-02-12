@@ -288,6 +288,16 @@ Wifi| Power | Address  | Open Hours
 
 ## Copenhagen
 
+#### The Black Diamond
+
+> The Royal Danish Library / the Black Diamond
+
+Webpage: http://www5.kb.dk/en/dia/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔    | ✘     | [Søren Kierkegaards Plads 1, Copenhagen](https://goo.gl/maps/FYgBmyrYyEc7h9zR7) | Mon-Fri 8:00-19:00, Sat 9:00-18:00
+
 #### Copenhagen Coffee Lab
 
 > Roasts and sells their own coffee
