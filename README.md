@@ -77,6 +77,8 @@ Awesome Hacking Locations [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 - [Turkey 🇹🇷](#turkey-)
   - [Istanbul](#istanbul)
 - [United Kingdom 🇬🇧](#united-kingdom-)
+  - [England] (#england)
+    - [London] (#london)
   - [Scotland](#scotland)
     - [Edinburgh](#edinburgh)
 - [United States 🇺🇸](#united-states-)
