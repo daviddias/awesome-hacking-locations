@@ -26,6 +26,8 @@ Awesome Hacking Locations [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
   - [Montréal](#montreal)
 - [Denmark 🇩🇰](#denmark-)
   - [Copenhagen](#copenhagen)
+- [Estonia 🇪🇪](#estonia-)
+  - [Tallinn](#tallinn)
 - [France 🇫🇷](#france-)
   - [Paris](#paris)
 - [Germany 🇩🇪](#germany-)
@@ -365,6 +367,29 @@ Webpage: http://cafenutid.dk
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Sankt Peders Stræde 1, 1453 København](https://goo.gl/maps/iR2ffyCTRzw) | Mon (open sometimes only), Tue-Fri 9:00—20:00, Sat 13:00—22:00, Sun 13:00—18:00
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+# Estonia 🇪🇪
+
+## Tallinn
+
+#### [K-Space](https://k-space.ee/)
+
+- Chaostreff weekly on Thursdays @ 18:00
+- The only hackerspace with a server room (according to [hackerspaces.org](https://wiki.hackerspaces.org/K-space.ee))
+- Various equipment to print, engrave and cut (everything but yourslef)
+- Bees, honey
+- Quiet office, if you don't have time for fun
+
+Net | Power | Coffee | Food | Shower | Address | Open Hours
+--- | --- | --- | --- | --- | --- | ---
+10G+10G | 25kW + UPS | ✔ | ✔ | ✔ | [Akadeemia tee 21/1](https://what3words.com/firm.promises.dolphins) | 24/7
+
+Food: Vending Machine + Cafés and Diners + Convenience stores
+
+---------------------------------------------------------------
+---------------------------------------------------------------
 
 
 # France 🇫🇷
