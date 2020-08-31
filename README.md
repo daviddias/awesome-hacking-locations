@@ -192,7 +192,7 @@ Wifi | Power | Address | Open Hours
 Webpage: https://hsbxl.be/
 
 Wifi | Power  | Address | Open Hours
----- | ----- | -------------- | ------- | ----------
+---- | ----- | -------- | ------
 ✔ | ✔ | [Rue des Goujons 152, 1070 Brussels](https://goo.gl/maps/7UqJcxPrsar) | Tue 19:00-00:00
 
 ---------------------------------------------------------------
