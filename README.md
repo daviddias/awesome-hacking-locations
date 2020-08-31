@@ -685,7 +685,7 @@ Wifi | Power | Address | Open Hours
 
 > A cafe connected to a bookshop. Very tolerant of hacker types who never leave. Wifi is about 8mbit, and fairly stable. Most speak enough English you can order a coffee, and the coffee is good. Cow milk only.
 
-Webpage: https://www.vaga.lt/draugyste-knygynas-gedimino-pr-2-vilnius-/knygynas
+Webpage: https://vaga.lt/knygynas/draugyste-knygynas-gedimino-pr-2-vilnius
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
