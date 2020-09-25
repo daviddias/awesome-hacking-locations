@@ -146,7 +146,7 @@ Hackerspaces are great places to hack, and in fact they are so great that they h
 
 ## CoWorking
 
-CoWorking offices are awesome, but typically require a long term commitement, if you are looking for something more stable for a long term stay, look at http://coworkingmap.org/
+CoWorking offices are awesome, but typically require a long term commitment, if you are looking for something more stable for a long term stay, look at http://coworkingmap.org/
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
@@ -157,7 +157,7 @@ CoWorking offices are awesome, but typically require a long term commitement, if
 
 #### MetaLab
 
-> Coffe, Club Mate
+> Coffee, Club Mate
 > All kind of activities and talks
 
 Webpage: https://metalab.at
@@ -232,7 +232,7 @@ Wifi | Power | Address | Open Hours
 
 #### SoHo
 
-> Co-working space, friendly hosts, artistic setting; has coffee, kitchen, bar and a garden. Entrance fee : 8 EUR to rent a desk
+> Co-working space, friendly hosts, artistic setting; has coffee, kitchen, bar and a garden. Entrance fee: 8 EUR to rent a desk
 
 Webpage: http://soho.bg/
 
@@ -378,7 +378,7 @@ Wifi | Power | Address | Open Hours
 
 - Chaostreff weekly on Thursdays @ 18:00
 - The only hackerspace with a server room (according to [hackerspaces.org](https://wiki.hackerspaces.org/K-space.ee))
-- Various equipment to print, engrave and cut (everything but yourslef)
+- Various equipment to print, engrave and cut (everything but yourself)
 - Bees, honey
 - Quiet office, if you don't have time for fun
 
@@ -710,7 +710,7 @@ Wifi | Power | Address | Open Hours
 
 #### YsBreeker
 
-> Big beautiful and friendly cafe. Incredibly fast wifi and tons of seating. Very good food and high quality coffee drinks.
+> Big beautiful and friendly cafe. Incredibly fast wifi and tons of seating. Very good food and high-quality coffee drinks.
 
 Webpage: http://www.deysbreeker.nl/
 
@@ -831,7 +831,7 @@ Wifi | Power | Address | Open Hours
 
 #### Blossom
 
-> Great coffee and food in reasonable price.
+> Great coffee and food at reasonable prices.
 
 Webpage: https://www.facebook.com/BlossomCoffeeAndFood/
 
@@ -912,7 +912,7 @@ Wifi | Power | Address | Open Hours
 
 #### NATA Lisboa
 
-> Small modern place in the  city "centre". Calm, clean , a good variety of tapas to eat. Speciality natas.
+> Small modern place in the  city "centre". Calm, clean, a good variety of tapas to eat. Speciality natas.
 
 Webpage: [natalisboa.com](https://natalisboa.com)
 
@@ -961,7 +961,7 @@ Wifi | Power | Address | Open Hours
 
 #### Centro Comercial Nova Arcada
 
-> Shopping mall just outside Braga, surprinsigly very quiet during the week and many people go there to study/work. There is free WiFi provided by the mall, you just need to re-login every 45 or so minutes (I hacked away [this script](https://gist.github.com/ntfc/cd37a3b822183b1741f132247197a1eb) to automate the process, seemed to work for a whole afternoon). There are power plugs available, restaurantes and cafes are on the same floor and free bus from/to city center during the week.
+> Shopping mall just outside Braga, surprisingly very quiet during the week and many people go there to study/work. There is free WiFi provided by the mall, you just need to re-login every 45 or so minutes (I hacked away [this script](https://gist.github.com/ntfc/cd37a3b822183b1741f132247197a1eb) to automate the process, seemed to work for a whole afternoon). There are power plugs available, restaurants and cafes are on the same floor and free bus from/to city center during the week.
 
 Webpage: http://www.novaarcada.pt/
 
