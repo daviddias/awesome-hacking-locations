@@ -1398,7 +1398,7 @@ Wifi | Power | Address | Open Hours
 
 #### 26Grados
 
-> Super central, powerfull wifi and awestome biscuits.
+> Super central, powerful wifi and awesome biscuits.
 
 Webpage: http://www.26grados.com/
 
@@ -1614,7 +1614,7 @@ Wifi | Power | Address | Open Hours
 
 #### HanaHaus
 
-> Historic Varsity Theatre location with free and reservable seats, well tuned wifi, and Blue Bottle Coffee.
+> Historic Varsity Theatre location with free and reservable seats, well-tuned wifi, and Blue Bottle Coffee.
 
 Webpage: http://hanahaus.com/
 
@@ -1693,7 +1693,7 @@ Wifi | Power | Coffee | Address | Open Hours
 
 #### Dolce Casa
 
-> A coffee shop, a european-style café, and a neighborhood gathering spot all in one.
+> A coffee shop, a European-style café, and a neighborhood gathering spot all in one.
 
 Webpage: http://dolcecasacafe.com/
 
@@ -1827,7 +1827,7 @@ open | ✔ | ✔ | [3262 Minnehaha Ave, Minneapolis, MN 55406](https://goo.gl/ma
 
 #### Yoghut
 
-> Great coffee, acai bowls and bubble tea. Never crowded or noisy either so its good if you enjoy peace and quite for hacking.
+> Great coffee, acai bowls and bubble tea. Never crowded or noisy either so its good if you enjoy peace and quiet for hacking.
 
 Webpage: https://yoghut.com/
 
@@ -1855,7 +1855,7 @@ Wifi | Power | Climatization  | Address | Open Hours
 
 #### Amazon AWS Loft
 
-> Free loft in soho sponsered by Amazon web services with free food, wifi, coffee and beer.
+> Free loft in soho sponsored by Amazon web services with free food, wifi, coffee and beer.
 
 Webpage: https://aws.amazon.com/start-ups/loft/ny-loft/
 
