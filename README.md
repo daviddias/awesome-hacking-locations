@@ -296,7 +296,7 @@ Wifi| Power | Address  | Open Hours
 
 > Roasts and sells their own coffee
 
-Webpage: http://copenhagencoffeelab.com/kaffebaren/
+Webpage: http://copenhagencoffeelab.com/
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
@@ -306,7 +306,7 @@ Wifi | Power | Address | Open Hours
 
 > Coffee connoisseurs: Roasts and sells their own coffee + won several coffee championships (bad cellphone coverage)
 
-Webpage: http://coffeecollective.dk/bars/
+Webpage: http://coffeecollective.dk/
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
@@ -314,7 +314,7 @@ Wifi | Power | Address | Open Hours
 
 #### Emmerys (Store Kongensgade)
 
-Webpage: http://www.emmerys.dk/cafebutik.html
+Webpage: http://www.emmerys.dk/
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
@@ -322,7 +322,7 @@ Wifi | Power | Address | Open Hours
 
 #### Emmerys (Store Strandstræde)
 
-Webpage: http://www.emmerys.dk/cafebutik.html
+Webpage: http://www.emmerys.dk/
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
