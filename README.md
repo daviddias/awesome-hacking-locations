@@ -1157,7 +1157,7 @@ Wifi | Power | Address | Open Hours
 
 #### Bop
 
-> Hipster vibes with massive record collection, coffee, beer, and tasty bagels.
+> Hipster vibes with large record collection, coffee, beer, and tasty bagels.
 
 Webpage: https://www.bop.pt
 
@@ -1168,7 +1168,7 @@ Wifi | Power | Address | Open Hours
 ![](http://www.speedtest.net/result/5468130872.png)
 
 #### Costa COFFEE
-> Influencer vibes, great coffee, english fiendly, accepts AliPay and has nice croissants.
+> Influencer vibes, great coffee, English-speaking, accepts AliPay and has nice croissants.
 
 Webpage: https://https://www.costa.co.uk/
 
@@ -1638,7 +1638,7 @@ Wifi | Power | Coffee | Address | Open Hours
 
 #### Coffee Bar
 
-> Big and spacious space with many seats, lots of plugs, not that great WiFi. During summer it may get quiet hot as no AC/good air flow.
+> Big and spacious space with many seats, lots of plugs, not that great WiFi. During summer it may get quite hot as no AC/good airflow.
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
