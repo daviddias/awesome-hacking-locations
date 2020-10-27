@@ -292,6 +292,16 @@ Wifi| Power | Address  | Open Hours
 
 ## Copenhagen
 
+#### The Black Diamond
+
+> The Royal Danish Library / the Black Diamond
+
+Webpage: http://www5.kb.dk/en/dia/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔    | ✔     | [Søren Kierkegaards Plads 1, Copenhagen](https://goo.gl/maps/FYgBmyrYyEc7h9zR7) | Mon-Fri 8:00-20:00, Sat 9:00-18:00
+
 #### Copenhagen Coffee Lab
 
 > Roasts and sells their own coffee
@@ -358,15 +368,6 @@ Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Ravnsborggade 10B, 2200 København](https://goo.gl/maps/9x8KcbPzN7B2) | Mon 9:30—23:00, Tue-Wed 9:30—24:00, Thu 9:30—2:00, Fri 9:30—3:00, Sat 10:00—3:00, Sun 10:00—21:30
 
-#### Cafe Nutid
-
-> It's a café ran by volunteers - all staff is young guys and girls, mostly students, super smiley and friendly. A lot of ppl go there to study usually. If you go to the basement, there are long, narrow tables where you can sit with your hack-buddies next to each other. Also some very comfy couches.
-
-Webpage: http://cafenutid.dk
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Sankt Peders Stræde 1, 1453 København](https://goo.gl/maps/iR2ffyCTRzw) | Mon (open sometimes only), Tue-Fri 9:00—20:00, Sat 13:00—22:00, Sun 13:00—18:00
 ---------------------------------------------------------------
 ---------------------------------------------------------------
 
