@@ -60,6 +60,7 @@ Awesome Hacking Locations [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 - [Portugal 🇵🇹](#portugal-)
   - [Aveiro](#aveiro)
   - [Braga](#braga)
+  - [Guimarães](#guimarães)
   - [Lisbon](#lisbon)
   - [Porto](#porto)
   - [Viana do Castelo](#viana-do-castelo)
