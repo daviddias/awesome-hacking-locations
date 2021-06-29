@@ -1387,7 +1387,6 @@ Wifi | Power | Address | Open Hours
 
 ![](http://www.speedtest.net/result/5456163855.png)
 
-
 #### Frenesi Cafe
 
 > Small cozy coffee shop with comfortable sits and lots of plugs (even USB plugs)
@@ -1407,6 +1406,16 @@ Webpage: http://federalcafe.es/barcelona-gotic/
 Wifi | Power | Address | Open Hours
 ---- | ----- | -------------- | -------
 ✔ | ✔ | [Passatge de la Pau, 11](https://goo.gl/maps/o8dbgysDLbw) |
+
+#### 52 Moments
+
+> Cafe with lots of free tables (most of which have a power socket nearby) since most people only come for takeaway. Staff mostly speaks a little English, enough to communicate. Fairly loud, bring a headset, not ideal for meeting heavy days.
+
+Wifi | Power | Address | Open Hours
+---- | ----- | -------------- | -------
+✔ | ✔ | [C. de Rocafort, 35, 08015 Barcelona](https://goo.gl/maps/bUuKBrot4EWwnp1E9) | Mo-Su 06:00-22:00
+
+![Speedtest result](https://www.speedtest.net/result/11650923969.png)
 
 ## Oviedo
 
