@@ -938,16 +938,6 @@ Wifi | Power | Address | Open Hours
 
 ![](http://www.speedtest.net/result/7911413495.png)
 
-#### Starbucks Braga
-
-> Starbucks coffee shop in the city center, with WiFi access and some tables to work. Calm and clean space.
-
-Webpage: http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portugal/detail/1021430
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Shopping Liberdade Street Fashion, Avenida da Liberdade, Braga, 4710-251](https://goo.gl/maps/oknJVz1HrS42) | Sun-Thu 8:00 - 23:00, Fri-Sat 08:00 - 01:00
-
 
 #### Café São Martinho
 
@@ -1191,17 +1181,6 @@ Wifi | Power | Address | Open Hours
 ✔ | ✔ | [R. da Firmeza 575, Porto, Portugal](https://goo.gl/maps/wpxTd6PzQEw) | Mon 12:30pm - 1:00am, Tue-Sun 10:00am - 1:00am
 
 ![](http://www.speedtest.net/result/5468130872.png)
-
-#### Costa COFFEE
-> Influencer vibes, great coffee, English-speaking, accepts AliPay and has nice croissants.
-
-Webpage: https://https://www.costa.co.uk/
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Praça dos Clérigos, Rua de São felipe de Nery, 4050-162 Porto](https://goo.gl/maps/ehNhrXQH3bXDyMjA8) | Mon-Sun 09:00am - 00:00pm
-
-![](https://www.speedtest.net/result/8644645756.png)
 
 #### Duas de Letra
 
