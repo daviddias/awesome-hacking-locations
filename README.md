@@ -1366,6 +1366,26 @@ Wifi | Power | Address | Open Hours
 
 ## Barcelona
 
+#### Federal Café
+
+> Café with great natural lightning and delicious food
+
+Webpage: http://federalcafe.es/barcelona-gotic/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | -------------- | -------
+✔ | ✔ | [Passatge de la Pau, 11](https://goo.gl/maps/o8dbgysDLbw) |
+
+#### Frenesi Cafe
+
+> Small cozy coffee shop with comfortable sits and lots of plugs (even USB plugs)
+
+Webpage: http://frenesicafe.com
+
+Wifi | Power | Address | Open Hours
+---- | ----- | -------------- | -------
+✔ | ✔ | [Carrer del Comte d’Urgell, 115](https://goo.gl/maps/1DTErmADkkz) | Mon: Closed, Tue-Thu: 9-19, Fri-Sun: 10-17
+
 #### Ideal
 
 > Cozy coffee shop which also serves natural juices and tasty food. Has a nice terrace on the back.
@@ -1390,25 +1410,25 @@ Wifi | Power | Address | Open Hours
 
 ![](http://www.speedtest.net/result/5456163855.png)
 
-#### Frenesi Cafe
+#### Morrow Coffee
 
-> Small cozy coffee shop with comfortable sits and lots of plugs (even USB plugs)
+> Coffee shop with a multicultural vibe. Good music and great people.
 
-Webpage: http://frenesicafe.com
-
-Wifi | Power | Address | Open Hours
----- | ----- | -------------- | -------
-✔ | ✔ | [Carrer del Comte d’Urgell, 115](https://goo.gl/maps/1DTErmADkkz) | Mon: Closed, Tue-Thu: 9-19, Fri-Sun: 10-17
-
-#### Federal Café
-
-> Café with great natural lightning and delicious food
-
-Webpage: http://federalcafe.es/barcelona-gotic/
+Webpage: https://morrowcoffee.com/
 
 Wifi | Power | Address | Open Hours
----- | ----- | -------------- | -------
-✔ | ✔ | [Passatge de la Pau, 11](https://goo.gl/maps/o8dbgysDLbw) |
+---- | ----- | ------- | ----------
+✔ | ✔ | [Av. Gran Vía de les Corts Catalanes 403 Barcelona, Spain, 08015 Barcelonaa](https://goo.gl/maps/qymLhQmKQrRC9MDFA) |
+
+#### ÖSS Kaffe Barcelona
+
+> Friendly place to work and drink Coffee in El Raval. The staff is great.
+
+Webpage: https://www.instagram.com/osskaffe.es/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [C/ de Joaquín Costa, 26, 08001 Barcelona, Espanha](https://goo.gl/maps/PhKVDsLp1WbHLA2z7) |
 
 #### 52 Moments
 
