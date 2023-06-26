@@ -1430,8 +1430,6 @@ Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [C/ de Joaquín Costa, 26, 08001 Barcelona, Espanha](https://goo.gl/maps/PhKVDsLp1WbHLA2z7) |
 
-
-
 #### 52 Moments
 
 > Cafe with lots of free tables (most of which have a power socket nearby) since most people only come for takeaway. Staff mostly speaks a little English, enough to communicate. Fairly loud, bring a headset, not ideal for meeting heavy days.
