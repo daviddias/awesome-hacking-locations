@@ -1396,7 +1396,20 @@ Webpage: https://morrowcoffee.com/
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ✔ | [Av. Gran Vía de les Corts Catalanes 403 Barcelona, Spain, 08015 Barcelonaa](https://goo.gl/maps/qymLhQmKQrRC9MDFA) |
+✔ | ✔ | [Av. Gran Vía de les Corts Catalanes 403 Barcelona, Spain, 08015 Barcelona](https://goo.gl/maps/qymLhQmKQrRC9MDFA) |
+
+#### Origin. Speciality Coffee
+
+> Coffeshop with a Zen vibe. Quite nice place to work at if you have to focus.
+> 
+> ⛔ Phone Calls and Conference Calls are not allowed.
+
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ⛔ | [Carrer de Manso, 17, L'Eixample, 08015 Barcelona]() |
+
+![Speedtest result](https://www.speedtest.net/result/18052522866.png)
 
 #### ÖSS Kaffe Barcelona
 
