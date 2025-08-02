@@ -1376,16 +1376,6 @@ Wifi | Power | Address | Open Hours
 ---- | ----- | -------------- | -------
 ✔ | ✔ | [Passatge de la Pau, 11](https://goo.gl/maps/o8dbgysDLbw) |
 
-#### Frenesi Cafe
-
-> Small cozy coffee shop with comfortable sits and lots of plugs (even USB plugs)
-
-Webpage: http://frenesicafe.com
-
-Wifi | Power | Address | Open Hours
----- | ----- | -------------- | -------
-✔ | ✔ | [Carrer del Comte d’Urgell, 115](https://goo.gl/maps/1DTErmADkkz) | Mon: Closed, Tue-Thu: 9-19, Fri-Sun: 10-17
-
 #### Ideal
 
 > Cozy coffee shop which also serves natural juices and tasty food. Has a nice terrace on the back.
@@ -1394,21 +1384,9 @@ Webpage: http://4sq.com/14xZ71H
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ✔ | [Marià Aguiló, 99, 08005 Barcelona Catalonia](https://goo.gl/maps/qZg6gmvAL4A2) |
+✔ | ✔ | [Marià Aguiló, 99, 08005 Barcelona Catalonia](https://maps.app.goo.gl/WVBgtn3eNFsdvKuEA) |
 
 ![](http://www.speedtest.net/result/5453643373.png)
-
-#### Joliu
-
-> Coffee shop with a great ambiance (Full of plants and music delicious to the ear)
-
-Webpage: http://espaijoliu.tumblr.com/
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Carrer de Badajoz 95. Poblenou. Barcelona](https://goo.gl/maps/jtdnk5FfwL72) |
-
-![](http://www.speedtest.net/result/5456163855.png)
 
 #### Morrow Coffee
 
