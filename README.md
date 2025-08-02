@@ -1398,7 +1398,6 @@ Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Av. Gran Vía de les Corts Catalanes 403 Barcelona, Spain, 08015 Barcelona](https://goo.gl/maps/qymLhQmKQrRC9MDFA) |
 
-
 #### Origin. Speciality Coffee
 
 > Coffeshop with a Zen vibe. Quite nice place to work at if you have to focus.
