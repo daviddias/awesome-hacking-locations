@@ -1442,7 +1442,7 @@ Webpage: https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASCO
 
 Wifi | Power | Ventilation | Address | Open Hours
 ---- | ----- | ----------- | ------- | ----------
-✔ | ✔ | ✔ | [Federico Moyúa Plaza, 8, Abando, 48009 Bilbao, Bizkaia, Spain](hhttps://goo.gl/maps/2vtSB2ojg1rP9mY28) | Mo-Fr 8:30am - 7pm (2:30pm in August)
+✔ | ✔ | ✔ | [Federico Moyúa Plaza, 8, Abando, 48009 Bilbao, Bizkaia, Spain](https://goo.gl/maps/2vtSB2ojg1rP9mY28) | Mo-Fr 8:30am - 7pm (2:30pm in August)
 
 ## Oviedo
 
