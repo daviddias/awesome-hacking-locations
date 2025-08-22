@@ -402,7 +402,7 @@ Food: Vending Machine + Cafés and Diners + Convenience stores
 
 #### Café Citoyen
 
-Community-owned (see their website for details of their organisation organisation) and encouraging of event hosting and other activities. Café with great food and many speciality beers. 
+Community-owned (see their website for details of their organisation) and encouraging of event hosting and other activities. Café with great food and many speciality beers. 
 
 Webpage: https://cafecitoyen.org/
 
