@@ -177,18 +177,6 @@ Wifi | Power | Address | Open Hours
 
 ## Brussels
 
-#### Workshop Café
-
-> Fantastic coffee shop, delicious 'Quiche', lots of tables.
-
-Webpage: https://www.facebook.com/WorkshopCafeBelgium/
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Av Louise, 146 1050 Brussels](https://goo.gl/maps/hsGKR1Ytn6N2) | Mon-Sun 8:00-19:00
-
-![](http://www.speedtest.net/result/6022204011.png)
-
 #### Hackerspace Brussels (HSBXL)
 
 > Hackerspace Brussels (HSBXL) is a space, dedicated to various aspects of constructive & creative hacking. The space is about 300 square meters, there is a little electronics lab with over 9000 components, a library, and lots of tools. You're always welcome to follow one of the workshops or come to the weekly Tuesday meetings, hack nights or other get-together events.
