@@ -194,16 +194,7 @@ Wifi | Power  | Address | Open Hours
 
 ## Rio de Janeiro
 
-#### Grama
-
-> Front-end company that supports open culture. Not too many seats, but fast wifi. It's free.
-
-Webpage: http://grama.cc/
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-ask | ✔ | [Rua Sorocaba 190, Botafogo, Rio de Janeiro](https://goo.gl/maps/vPa8ZRbAjUx) | Mon-Fri 11:00-20:00, ask for a different time
-
+No spots now. Grama closed
 ---------------------------------------------------------------
 ---------------------------------------------------------------
 
@@ -255,7 +246,7 @@ Wifi | Power | Address | Open Hours
 
 ## Hamilton
 
-#### Mulberry Street Coffeehouse
+#### Mulberry Coffeehouse
 
 > Cafe in the former lobby of an 1880s hotel. Great coffee, beer, sweets & sandwiches.
 
@@ -409,8 +400,8 @@ Webpage: https://copenhagencoffeelab.com/cafes/cafes-france/nice
 
 Wifi | Power | Climatization  | Address | Open Hours
 ---- | ----- | -------------- | ------- | ----------
-✔ | ✔ | ✔ | [47 Rue de France, 06000 Nice](https://goo.gl/maps/MPnAWDPEmm2zTC3c9) | Mon-Sun 7AM - 7PM
-✔ | ✔ | ✔ | [16 Bd Jean Jaurès, 06300 Nice](https://goo.gl/maps/T9nTCLzJfKpxD6NLA) | Mon-Sun 7AM - 7PM
+✔ | ✔ | ✔ | [47 Rue de France, 06000 Nice](https://maps.app.goo.gl/gqhGPJxrF8E7MX479) | Mon-Sun 7AM - 7PM
+✔ | ✔ | ✔ | [16 Bd Jean Jaurès, 06300 Nice](https://maps.app.goo.gl/UMxuAM5Jmmdw5ek8A) | Mon-Sun 7AM - 7PM
 
 ## Paris
 
