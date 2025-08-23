@@ -409,11 +409,9 @@ Wifi | Power | Climatization  | Address | Open Hours
 
 > Speciality French Coffee Makers
 
-Webpage: https://www.facebook.com/CafeShopSouthPigalle
-
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ✘ | [53 Avenue Trudaine, 75009 Paris](https://goo.gl/maps/RRm5Qdx2k3u) | Mon-Fri 7:30-18:30, Sat-Sun: 9:00-18:30
+✔ | ✘ | [53 Avenue Trudaine, 75009 Paris](https://maps.app.goo.gl/tSkP9PHT5PUPPGMW9) | Mon-Fri 7:30-18:30, Sat-Sun: 9:00-18:30
 
 #### Le Progrès
 
@@ -423,19 +421,7 @@ Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✘ | [7 Rue des Trois Frères, 75018 Paris](https://goo.gl/maps/EPuXWaLcKa22) |
 
-#### Loustic
-
-> Small coffee shop but with good coffee
-
-Webpage: http://www.cafeloustic.com/
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [40 Rue Chapon, 75003 Paris](https://goo.gl/maps/UaCpEQj8YAS2) | Mon-Fri 8:00-18:00, Sat 9:00-18:00, Sun 10:00-18:00
-
-![](http://www.speedtest.net/result/4990205803.png)
-
-#### Anticafe Louvre
+#### After Place Louvre
 
 > You pay 5 euros per hour and everything on the menu is free.
 
@@ -446,18 +432,6 @@ Wifi | Power | Address | Open Hours
 ✔ | ✔ | [10 Rue Richelieu, 75001 Paris](https://goo.gl/maps/RAFpjLLeSPJ2) | Mon-Fri 9:00-22:30, Sat-Sun 10:00-21.30
 
 ![](http://www.speedtest.net/result/4986816433.png)
-
-#### Anticafe Beauborg
-
-> You pay 5 euros per hour and everything on the menu is free.
-
-Webpage: http://www.anticafe.eu/beaubourg
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [79 Rue Quincampoix 75003 Paris](https://goo.gl/maps/S9GT8mH6oYT2) | Mon-Fri 9:00-22:30, Sat-Sun 10:00-9:30
-
-![](http://www.speedtest.net/result/4987963541.png)
 
 #### Bibliothèque Sainte-Geneviève
 
@@ -487,16 +461,6 @@ Wikipedia: https://en.wikipedia.org/wiki/C-base
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Rungestraße 20, 10179 Berlin, Germany](https://goo.gl/maps/KuJq77w99Tn) | Variable
-
-#### Schiller Bar
-
-> Next to a bakery ; very quiet between 10:00 and 18:00 ; awesome (english-speaking) staff.
-
-Webpage: http://www.schillerbar.com
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Herrfurthstraße 7, 12049 Berlin](https://goo.gl/maps/LzTzgA64Jpv) | Mon-Sun 09:00–00:00
 
 #### St. Oberholz
 
@@ -552,7 +516,7 @@ Wifi | Power | Address | Open Hours
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ✔ | [Krautgasse 26, 07743 Jena](https://goo.gl/maps/kGtrdrehFHy) | Mon-Fri 07:30–19:00; Sat 10:00–17:00
+✔ | ✔ | [Krautgasse 26, 07743 Jena](https://maps.app.goo.gl/QaMgf3d5WXtuJRvPA) | Mon-Fri 07:30–19:00; Sat 10:00–17:00
 
 ## Munich
 
@@ -571,15 +535,7 @@ Wifi | Power | Address | Open Hours
 
 # Hong Kong 🇭🇰
 
-#### Pink Coffee
-
-> They have a standing desk!
-
-Webpage: https://www.facebook.com/PinkCoffeeHK
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Shop 305, D2 Place, Lai Chi Kok](https://goo.gl/maps/SuyKBeM86752) | Mon-Fri 8:00-21:00, Sat-Sun 9:30-18:00
+Missing Hacking Locations after the closure of Pink Coffee
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
