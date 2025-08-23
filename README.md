@@ -1742,15 +1742,7 @@ ask | ✔ | ✔ | [315 S 1st St, San Jose, CA 95113](https://goo.gl/maps/VRUZDfD
 
 ### Santa Monica, CA <a id="santa-monica-ca"></a>
 
-#### Refinery
-
-> Great coffee and usually has available seating. Wifi is *bad*.
-
-Webpage: http://the-refinery.cafes-city.com/
-
-Wifi | Power | Coffee | Address | Open Hours
----- | ----- | ------ | ------- | ----------
-(✔) | ✔ | ✔ | [413 Santa Monica Blvd, Santa Monica, CA 90401](https://goo.gl/maps/uBJQacVNWd62) | Mon-Fri 7:30-18:00, Sat 8:00-18:00, Sun *closed*
+No locations recommended after the closure of the Refinery.
 
 ## Illinois
 
