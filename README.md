@@ -144,13 +144,13 @@ Wifi | Power | Climatization  | Address | Open Hours
 
 ## Hackerspaces
 
-Hackerspaces are great places to hack, and in fact they are so great that they have their own list curated for many years now, if you are looking for a hackerspace, please consult:
+Hackerspaces are great places to hack, and in fact, they are so great that they have their own list curated for many years now. If you are looking for a hackerspace, please consult:
 
 - https://wiki.hackerspaces.org/List_of_Hacker_Spaces
 
 ## CoWorking
 
-CoWorking offices are awesome, but typically require a long term commitment, if you are looking for something more stable for a long term stay, look at http://coworkingmap.org/
+CoWorking offices are awesome, but typically require a long-term commitment. If you are looking for something more stable for a long-term stay, look at https://www.coworker.com/map
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
