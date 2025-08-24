@@ -8,7 +8,6 @@ Awesome Hacking Locations [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 - [Awesome Hacking Spots](#awesome-hacking-spots-)
   - [Index](#index)
   - [Contribute 🌟](#contribute-)
-  - [Template](#template)
   - [Hackerspaces](#hackerspaces)
   - [CoWorking](#coworking)
 - [Austria 🇦🇹](#austria-)
@@ -124,23 +123,11 @@ Awesome Hacking Locations [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 
 This is a community curated list, please submit your PR with the spots you know and love for hacking!
 
-> Q: What makes a hacking spot awesome?
+Q: What makes a hacking spot awesome?
 
-A place where you would go and take your friends to go hacking with, power and wifi are a plus, having coffee and snacks is a bonus. We are excluding for now places that require a subscription or membership of somekind (unless that membership can be done at the of the visit moment and it doesn't require a long term commitment).
+> A place where you would go and take your friends to go hacking with, power and wifi are a plus, having coffee and snacks is a bonus. We are excluding for now places that require a subscription or membership of somekind (unless that membership can be done at the of the visit moment and it doesn't require a long term commitment).
 
-## Template
-
-```markdown
-#### NAME OF THE AWESOME HACKING SPOT
-
-> SMALL DESCRIPTION OF THE AWESOME HACKING SPOT AND WHY IT IS SO AWESOME :D
-
-Webpage: PLACE WEBPAGE (IF NOT AVAILABLE, USE FOURSQUARE SHORT URL)
-
-Wifi | Power | Climatization  | Address | Open Hours
----- | ----- | -------------- | ------- | ----------
-✔ | ✘ | ❄️/♨️ | [ADDRESS](GOOGLE MAPS SHORT URL) | OPEN HOURS
-```
+Check [CONTRIBUTING.MD](./CONTRIBUTING.MD) and start contributing.
 
 ## Hackerspaces
 
